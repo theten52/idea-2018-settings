@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unmodifiable Set" />
+      <item value="Defines whether we should clear the underlying persistence context after executing the modifying query." />
+      <item value="Indicates a method should be regarded as modifying query." />
       <item value="Spel Aware Proxy Projection Factory" />
       <item value="nested" />
       <item value="Looking up the TypeDescriptor for the return type - yes, this way o.O" />
@@ -16,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="CORSICAN" value="10" />
       </map>
     </option>
