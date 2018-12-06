@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a foreign key constraint fails" />
       <item value="被移动" />
       <item value="方式" />
       <item value="unmodifiable Set" />
@@ -22,7 +23,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="CORSICAN" value="10" />
       </map>
     </option>
