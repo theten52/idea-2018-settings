@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flat Map" />
       <item value="Constraint Violation Exception" />
       <item value="a foreign key constraint fails" />
       <item value="被移动" />
@@ -23,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="CORSICAN" value="10" />
       </map>
     </option>
