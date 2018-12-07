@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Share组装" />
       <item value="flat Map" />
       <item value="Constraint Violation Exception" />
       <item value="a foreign key constraint fails" />
