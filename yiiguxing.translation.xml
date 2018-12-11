@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permits" />
       <item value="绝不会执行" />
       <item value="Collectors" />
       <item value="Share组装" />
@@ -28,7 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="CORSICAN" value="10" />
       </map>
     </option>
