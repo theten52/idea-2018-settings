@@ -2,4 +2,11 @@
   <component name="DependencyUISettings">
     <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
   </component>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="Noto Sans" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="15" />
+    <option name="MAX_LOOKUP_WIDTH2" value="956" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+  </component>
 </application>
