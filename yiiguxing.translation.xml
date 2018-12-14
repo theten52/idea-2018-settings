@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conversion Result" />
       <item value="lag" />
       <item value="Multipart Mime part file exceeds max filesize" />
       <item value="Consider revisiting the conditions above or defining a bean of type 'org.springframework.security.authentication.AuthenticationEventPublisher' in your configuration." />
@@ -32,7 +33,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
