@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Function template anticipated 3 arguments, but 2 arguments encountere" />
       <item value="参与人" />
       <item value="try Handle Pending" />
       <item value="Treated specially by GC" />
@@ -40,7 +41,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
