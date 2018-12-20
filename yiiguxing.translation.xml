@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only support one converter type for now.So just set the first one if existed." />
+      <item value="SLEEP SECONDS" />
+      <item value="TASK CAPACITY" />
+      <item value="task was removed by translation service" />
+      <item value="update job state failure:" />
+      <item value="heart beat failure:" />
+      <item value="Abnormal cases:" />
       <item value="Cannot be a static boolean in the enclosing class due to * circular dependencies. To be removed in a future release." />
       <item value="Old merge sort implementation can be selected (for * compatibility with broken comparators) using a system property." />
       <item value="* Sorting of complex type arrays." />
@@ -44,17 +51,11 @@
       <item value="aopalliance" />
       <item value="apply Specification To Criteria" />
       <item value="allowing to canonically access the latest revision" />
-      <item value="A repository which can access entities held in a variety of {@link Revisions}." />
-      <item value="Revision Repository" />
-      <item value="Tue Dec 04 15:22:00 CST 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
-      <item value="普通分组" />
-      <item value="未分组" />
-      <item value="APPLICATION JSON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>

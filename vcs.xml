@@ -374,9 +374,13 @@
           <option name="url" value="https://github.com/jersey/jersey.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/aecworks-bimserver/translation-worker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/zhangzhenhuajack" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/aecworks-bimserver" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
