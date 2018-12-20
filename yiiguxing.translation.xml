@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot be a static boolean in the enclosing class due to * circular dependencies. To be removed in a future release." />
+      <item value="Old merge sort implementation can be selected (for * compatibility with broken comparators) using a system property." />
+      <item value="* Sorting of complex type arrays." />
+      <item value="Legacy Merge Sort" />
+      <item value="All exposed methods are package-private, designed to be invoked * from public methods (in class Arrays) after performing any * necessary array bounds checks and expanding parameters into the * required forms." />
+      <item value="The algorithm * offers O(n log(n)) performance on many data sets that cause other * quicksorts to degrade to quadratic performance, and is typically * faster than traditional (one-pivot) Quicksort implementations." />
+      <item value="algorithm" />
+      <item value="This class implements the Dual-Pivot Quicksort algorithm by * Vladimir Yaroslavskiy, Jon Bentley, and Josh Bloch." />
+      <item value="Dual Pivot Quicksort" />
+      <item value="Natural Order" />
+      <item value="Using * smaller sizes typically results in memory contention across * tasks that makes parallel speedups unlikely." />
+      <item value="The minimum array length below which a parallel sorting * algorithm will not further partition the sorting task." />
+      <item value="// Suppresses default constructor, ensuring non-instantiability." />
       <item value="Function template anticipated 3 arguments, but 2 arguments encountere" />
       <item value="参与人" />
       <item value="try Handle Pending" />
@@ -40,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
