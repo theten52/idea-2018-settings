@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="System reached capacity!" />
       <item value="instead" />
       <item value="/Only support one converter type for now.So just set the first one if existed." />
       <item value="No Such Algorithm Exception" />
@@ -50,12 +51,11 @@
       <item value="Indicates a method should be regarded as modifying query." />
       <item value="Spel Aware Proxy Projection Factory" />
       <item value="nested" />
-      <item value="Looking up the TypeDescriptor for the return type - yes, this way o.O" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
