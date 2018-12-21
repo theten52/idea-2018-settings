@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instead" />
       <item value="/Only support one converter type for now.So just set the first one if existed." />
       <item value="No Such Algorithm Exception" />
       <item value="Only support one converter type for now.So just set the first one if existed." />
@@ -50,12 +51,11 @@
       <item value="Spel Aware Proxy Projection Factory" />
       <item value="nested" />
       <item value="Looking up the TypeDescriptor for the return type - yes, this way o.O" />
-      <item value="aopalliance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
