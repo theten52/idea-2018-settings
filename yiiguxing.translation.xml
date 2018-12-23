@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The exact meaning of &quot;aggressive optimizations&quot; will differ * between proxies, but there is usually some tradeoff. * Default is &quot;false&quot;." />
+      <item value="Set whether proxies should perform aggressive optimizations." />
+      <item value="set Optimize" />
+      <item value="* Return whether to proxy the target class directly as well as any interfaces." />
+      <item value="* Convenience superclass for configuration used in creating proxies, * to ensure that all proxy creators have consistent properties." />
+      <item value="frozen" />
+      <item value="expose Proxy" />
+      <item value="opaque" />
+      <item value="optimize" />
+      <item value="proxy Target Class" />
+      <item value="serial Version UID" />
+      <item value="use serialVersionUID from Spring 1.2 for interoperability */" />
       <item value="TargetSource cannot determine target class: &quot; + &quot;Either an interface or a target is required for proxy creation." />
       <item value="has No User Supplied Proxy Interfaces" />
       <item value="is Proxy Target Class" />
@@ -39,23 +51,11 @@
       <item value="Load default strategy implementations from properties file." />
       <item value="default Strategies" />
       <item value="Conversion Result" />
-      <item value="lag" />
-      <item value="Multipart Mime part file exceeds max filesize" />
-      <item value="Consider revisiting the conditions above or defining a bean of type 'org.springframework.security.authentication.AuthenticationEventPublisher' in your configuration." />
-      <item value="Field eventPublisher in org.springframework.boot.autoconfigure.security.AuthenticationManagerConfiguration$AuthenticationManagerConfigurationListener required a bean of type 'org.springframework.security.authentication.AuthenticationEventPublisher' that could not be found." />
-      <item value="list Category" />
-      <item value="Collectors" />
-      <item value="Share组装" />
-      <item value="flat Map" />
-      <item value="Constraint Violation Exception" />
-      <item value="a foreign key constraint fails" />
-      <item value="被移动" />
-      <item value="方式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
