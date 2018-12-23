@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TargetSource cannot determine target class: &quot; + &quot;Either an interface or a target is required for proxy creation." />
+      <item value="has No User Supplied Proxy Interfaces" />
+      <item value="is Proxy Target Class" />
+      <item value="is Optimize" />
+      <item value="invalid" />
       <item value="System reached capacity!" />
       <item value="instead" />
       <item value="/Only support one converter type for now.So just set the first one if existed." />
@@ -46,16 +51,11 @@
       <item value="a foreign key constraint fails" />
       <item value="被移动" />
       <item value="方式" />
-      <item value="unmodifiable Set" />
-      <item value="Defines whether we should clear the underlying persistence context after executing the modifying query." />
-      <item value="Indicates a method should be regarded as modifying query." />
-      <item value="Spel Aware Proxy Projection Factory" />
-      <item value="nested" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
