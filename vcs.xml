@@ -378,9 +378,13 @@
           <option name="url" value="https://gitee.com/aecworks-bimserver/translation-worker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/aecworks-bimserver/bimserver-sfs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/aecworks-bimserver" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/temp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
