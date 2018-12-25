@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deleted instance passed to merge:" />
       <item value="约束" />
       <item value="search Attribute" />
       <item value="The exact meaning of &quot;aggressive optimizations&quot; will differ * between proxies, but there is usually some tradeoff. * Default is &quot;false&quot;." />
@@ -50,12 +51,11 @@
       <item value="Treated specially by GC" />
       <item value="Phantom Reference" />
       <item value="This is currently strictly internal and not meant to be customized // by application developers." />
-      <item value="Load default strategy implementations from properties file." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
