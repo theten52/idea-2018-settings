@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If true, generate an instance method to obtain a builder that is initialized with the values of this instance." />
       <item value="deleted instance passed to merge:" />
       <item value="约束" />
       <item value="search Attribute" />
@@ -50,12 +51,11 @@
       <item value="try Handle Pending" />
       <item value="Treated specially by GC" />
       <item value="Phantom Reference" />
-      <item value="This is currently strictly internal and not meant to be customized // by application developers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
