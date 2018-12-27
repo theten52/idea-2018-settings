@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Current Stage" />
       <item value="get All Workflow" />
       <item value="create Workflow" />
       <item value="扩展属性" />
@@ -50,12 +51,11 @@
       <item value="Dual Pivot Quicksort" />
       <item value="Natural Order" />
       <item value="Using * smaller sizes typically results in memory contention across * tasks that makes parallel speedups unlikely." />
-      <item value="The minimum array length below which a parallel sorting * algorithm will not further partition the sorting task." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
