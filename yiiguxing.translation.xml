@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recourse Type" />
       <item value="redundant" />
       <item value="check Business Type Equals" />
       <item value="业务类型" />
@@ -50,12 +51,11 @@
       <item value="All exposed methods are package-private, designed to be invoked * from public methods (in class Arrays) after performing any * necessary array bounds checks and expanding parameters into the * required forms." />
       <item value="The algorithm * offers O(n log(n)) performance on many data sets that cause other * quicksorts to degrade to quadratic performance, and is typically * faster than traditional (one-pivot) Quicksort implementations." />
       <item value="algorithm" />
-      <item value="This class implements the Dual-Pivot Quicksort algorithm by * Vladimir Yaroslavskiy, Jon Bentley, and Josh Bloch." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
