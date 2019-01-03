@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="File Entry" />
+      <item value="file Entry Descendant Ids" />
       <item value="Recourse Type" />
       <item value="redundant" />
       <item value="check Business Type Equals" />
@@ -49,13 +51,11 @@
       <item value="* Sorting of complex type arrays." />
       <item value="Legacy Merge Sort" />
       <item value="All exposed methods are package-private, designed to be invoked * from public methods (in class Arrays) after performing any * necessary array bounds checks and expanding parameters into the * required forms." />
-      <item value="The algorithm * offers O(n log(n)) performance on many data sets that cause other * quicksorts to degrade to quadratic performance, and is typically * faster than traditional (one-pivot) Quicksort implementations." />
-      <item value="algorithm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
