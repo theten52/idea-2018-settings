@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="File Entry" />
+      <item value="aggregate File Ext Attr" />
       <item value="file Entry Descendant Ids" />
+      <item value="File Entry" />
       <item value="Recourse Type" />
       <item value="redundant" />
       <item value="check Business Type Equals" />
@@ -50,12 +51,11 @@
       <item value="Old merge sort implementation can be selected (for * compatibility with broken comparators) using a system property." />
       <item value="* Sorting of complex type arrays." />
       <item value="Legacy Merge Sort" />
-      <item value="All exposed methods are package-private, designed to be invoked * from public methods (in class Arrays) after performing any * necessary array bounds checks and expanding parameters into the * required forms." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
