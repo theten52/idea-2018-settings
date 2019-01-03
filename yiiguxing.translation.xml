@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supplier" />
+      <item value="Represents" />
+      <item value="Represents a supplier of results." />
+      <item value="identity" />
+      <item value="Returns a composed function that first applies the {@code before}" />
+      <item value="compose" />
+      <item value="the function result" />
+      <item value="t the function argument" />
+      <item value="Applies this function to the given argument." />
+      <item value="Returns a predicate that represents the logical negation of this * predicate." />
+      <item value="negate" />
+      <item value="a predicate that will be logically-ANDed with this * predicate" />
+      <item value="Evaluates this predicate on the given argument." />
+      <item value="the type of the input to the predicate" />
+      <item value="Represents a predicate (boolean-valued function) of one argument." />
+      <item value="Functional Interface" />
       <item value="生成实际进度" />
       <item value="neighboring" />
       <item value="aggregate File Ext Attr" />
@@ -35,27 +51,11 @@
       <item value="use serialVersionUID from Spring 1.2 for interoperability */" />
       <item value="TargetSource cannot determine target class: &quot; + &quot;Either an interface or a target is required for proxy creation." />
       <item value="has No User Supplied Proxy Interfaces" />
-      <item value="is Proxy Target Class" />
-      <item value="is Optimize" />
-      <item value="invalid" />
-      <item value="System reached capacity!" />
-      <item value="instead" />
-      <item value="/Only support one converter type for now.So just set the first one if existed." />
-      <item value="No Such Algorithm Exception" />
-      <item value="Only support one converter type for now.So just set the first one if existed." />
-      <item value="SLEEP SECONDS" />
-      <item value="TASK CAPACITY" />
-      <item value="task was removed by translation service" />
-      <item value="update job state failure:" />
-      <item value="heart beat failure:" />
-      <item value="Abnormal cases:" />
-      <item value="Cannot be a static boolean in the enclosing class due to * circular dependencies. To be removed in a future release." />
-      <item value="Old merge sort implementation can be selected (for * compatibility with broken comparators) using a system property." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="CORSICAN" value="10" />
         <entry key="SWEDISH" value="1" />
       </map>
