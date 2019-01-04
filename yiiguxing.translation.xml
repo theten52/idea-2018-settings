@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Template Process Groups" />
       <item value="presentation Template" />
       <item value="Spliterator" />
       <item value="Implementation class used by partitioningBy." />
@@ -50,12 +51,11 @@
       <item value="frozen" />
       <item value="expose Proxy" />
       <item value="opaque" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="POLISH" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="1" />
