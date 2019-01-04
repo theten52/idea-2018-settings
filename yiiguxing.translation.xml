@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重复" />
       <item value="保留分组" />
       <item value="get Template Process Groups" />
       <item value="presentation Template" />
@@ -50,12 +51,11 @@
       <item value="* Return whether to proxy the target class directly as well as any interfaces." />
       <item value="* Convenience superclass for configuration used in creating proxies, * to ensure that all proxy creators have consistent properties." />
       <item value="frozen" />
-      <item value="expose Proxy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="113" />
         <entry key="POLISH" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="1" />
