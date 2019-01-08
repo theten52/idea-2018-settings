@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the parameters of the query." />
+      <item value="get Group Restriction" />
+      <item value="selection" />
+      <item value="Modifications to the set do not affect the query." />
+      <item value="correlation" />
+      <item value="distinct" />
+      <item value="where clause predicate" />
+      <item value="corresponds to" />
       <item value="Return the metamodel representation for the collection-valued * attribute corresponding to the join." />
       <item value="Join Implementor" />
       <item value="all Entries" />
@@ -43,19 +51,11 @@
       <item value="Evaluates this predicate on the given argument." />
       <item value="the type of the input to the predicate" />
       <item value="Represents a predicate (boolean-valued function) of one argument." />
-      <item value="Functional Interface" />
-      <item value="生成实际进度" />
-      <item value="neighboring" />
-      <item value="aggregate File Ext Attr" />
-      <item value="file Entry Descendant Ids" />
-      <item value="File Entry" />
-      <item value="Recourse Type" />
-      <item value="redundant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="POLISH" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="1" />
