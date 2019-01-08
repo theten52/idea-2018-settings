@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="all Entries" />
+      <item value="特别的specail Folder Prefix" />
+      <item value="贴别的specail Folder Prefix" />
+      <item value="specail Folder Prefix" />
       <item value="Mysql Distributed Lock" />
       <item value="Interval" />
       <item value="conflict Processes" />
@@ -47,15 +51,11 @@
       <item value="redundant" />
       <item value="check Business Type Equals" />
       <item value="业务类型" />
-      <item value="get Current Stage" />
-      <item value="get All Workflow" />
-      <item value="create Workflow" />
-      <item value="扩展属性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="POLISH" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="1" />
