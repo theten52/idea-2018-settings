@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="期望停止时间" />
+      <item value="expert Stop Time" />
+      <item value="get Expert Stop Time" />
       <item value="Shanghai" />
       <item value="all Need Process Workflow" />
       <item value="Predicate" />
@@ -48,14 +51,11 @@
       <item value="保留分组" />
       <item value="get Template Process Groups" />
       <item value="presentation Template" />
-      <item value="Spliterator" />
-      <item value="Implementation class used by partitioningBy." />
-      <item value="Partition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="158" />
         <entry key="POLISH" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="1" />
