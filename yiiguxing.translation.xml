@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expect Stop Time" />
       <item value="generate" />
       <item value="Obtain Via" />
       <item value="Tolerate" />
@@ -50,12 +51,11 @@
       <item value="generated Stage" />
       <item value="get File For Last Modified Check" />
       <item value="get Component Type" />
-      <item value="This implementation opens an InputStream for the given class path resource." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="POLISH" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="1" />
