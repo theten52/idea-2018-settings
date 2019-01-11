@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="caret" />
+      <item value="through" />
+      <item value="Declaration" />
       <item value="entry Id" />
       <item value="get Folders Ancestors" />
       <item value="expect Stop Time" />
@@ -48,17 +51,15 @@
       <item value="conflict Processes" />
       <item value="* If a value is present, invoke the specified consumer with the value, * otherwise do nothing." />
       <item value="the total amount of items available. The total might be adapted considering the length of the content * given, if it is going to be the content of the last page. This is in place to mitigate inconsistencies" />
-      <item value="不存在" />
-      <item value="重复" />
-      <item value="generated Stage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="POLISH" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="1" />
+        <entry key="LATIN" value="3" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
