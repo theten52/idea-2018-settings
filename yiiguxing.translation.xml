@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Valid field" />
+      <item value="有效的字段" />
+      <item value="有效的" />
       <item value="执行了" />
       <item value="分为任务逾期和阶段逾期" />
       <item value="它可能是NULL" />
@@ -48,14 +51,11 @@
       <item value="intended type of the expression" />
       <item value="the type of the expression" />
       <item value="* Type for query expressions." />
-      <item value="Create a negation of the predicate." />
-      <item value="Modifications to the list do not affect the query." />
-      <item value="Returns empty list if there are no top-level conjuncts or * disjuncts of the predicate." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="POLISH" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="1" />
