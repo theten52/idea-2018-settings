@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data Provider" />
       <item value="提供者" />
       <item value="Data Privoder" />
       <item value="send Message For Operate Observer" />
@@ -50,12 +51,11 @@
       <item value="execution Time" />
       <item value="generate Overdue Message" />
       <item value="expert" />
-      <item value="expert Stop Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
