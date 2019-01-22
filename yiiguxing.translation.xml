@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Establishing" />
       <item value="order" />
       <item value="direction" />
       <item value="duration" />
@@ -50,12 +51,11 @@
       <item value="完成了" />
       <item value="完成" />
       <item value="compelate" />
-      <item value="compelete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
