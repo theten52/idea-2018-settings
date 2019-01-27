@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use sql comments" />
+      <item value="耗时" />
+      <item value="Returns the current time in milliseconds." />
+      <item value="Returns an object of the same type as this object with the specified period subtracted." />
+      <item value="Temporal" />
+      <item value="new Time" />
+      <item value="if the nano value is invalid" />
+      <item value="based on this date-time with the requested nanosecond, not null" />
+      <item value="the nano-of-second to set in the result, from 0 to 999,999,999" />
+      <item value="This instance is immutable and unaffected by this method call." />
+      <item value="Returns a copy of this {@code LocalDateTime} with the nano-of-second altered." />
       <item value="due to default view name generation." />
       <item value="This may be the result of an unspecified view," />
       <item value="Hint" />
@@ -40,22 +51,11 @@
       <item value="java.lang.instrument ASSERTION FAILED ***: &quot;!errorOutstanding&quot; with message transform method call failed at JPLISAgent.c line: 844" />
       <item value="Data Translator" />
       <item value="dispatch" />
-      <item value="This inspection points out unresolved references inside javadoc" />
-      <item value="inaccessible" />
-      <item value="腿" />
-      <item value="The Authorization token has been already set" />
-      <item value="Collaboration" />
-      <item value="component" />
-      <item value="policy" />
-      <item value="Unauthorized Exception" />
-      <item value="resolution will not be reattempted until the update interval of bimserver-release-local has elapsed or updates are forced -" />
-      <item value="Scratches" />
-      <item value="candidate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
