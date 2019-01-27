@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="due to default view name generation." />
+      <item value="This may be the result of an unspecified view," />
+      <item value="Hint" />
+      <item value="Check your ViewResolver setup!" />
+      <item value="would dispatch back to the current handler URL [/insert] again." />
+      <item value="Circular view path" />
+      <item value="Circular view path [insert]:" />
       <item value="quote" />
       <item value="quotepath" />
       <item value="Custom Excel Export Styler" />
@@ -44,18 +51,11 @@
       <item value="resolution will not be reattempted until the update interval of bimserver-release-local has elapsed or updates are forced -" />
       <item value="Scratches" />
       <item value="candidate" />
-      <item value="Schedule" />
-      <item value="Schedule Service Test" />
-      <item value="Argument passed to verify() is of type MessageHelper and is not a mock!" />
-      <item value="misusing" />
-      <item value="get Workflow Message With Auto Pass Enter Completed Status" />
-      <item value="get Workflow Message With Auto Pass Enter" />
-      <item value="上一个" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
