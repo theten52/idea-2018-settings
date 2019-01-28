@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="circle" />
+      <item value=": Function template anticipated 3 arguments, but 2 arguments encountered" />
+      <item value="Template Renderer" />
       <item value="HHH000010: On release of batch it still contained JDBC statements" />
       <item value="Incorrect datetime" />
       <item value="register Type" />
@@ -48,14 +51,11 @@
       <item value="test Multi" />
       <item value="specification" />
       <item value="commas" />
-      <item value="comma" />
-      <item value="replace Empty And Spot" />
-      <item value="order And Direction String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="287" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
