@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Liftoff" />
       <item value="switch On Off Smart Tv" />
       <item value="AST Query Translator Factory" />
       <item value="Template Renderer" />
@@ -50,12 +51,11 @@
       <item value="Component" />
       <item value="My SQL 5 Dialect" />
       <item value="Default Naming Strategy" />
-      <item value="for Each Remaining" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
