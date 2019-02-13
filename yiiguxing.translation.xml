@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interrupted from lock acquisition in f()" />
+      <item value="Blocked Mutex" />
+      <item value="acquired" />
+      <item value="lock acquired in f()&quot;" />
+      <item value="Special call" />
+      <item value="lock Interruptibly" />
+      <item value="This will never be available to a second task" />
+      <item value="Acquire it right away, to demonstrate interruption // of a task blocked on a ReentrantLock:" />
       <item value="Release the block by closing the channel:" />
       <item value="Produce an interrupt via cancel:" />
       <item value="since last 2 interrupts failed" />
@@ -43,19 +51,11 @@
       <item value="Self Managed" />
       <item value="An expensive, interruptable operation:" />
       <item value="optimization" />
-      <item value="is Terminated" />
-      <item value="Liftoff" />
-      <item value="switch On Off Smart Tv" />
-      <item value="AST Query Translator Factory" />
-      <item value="Template Renderer" />
-      <item value="Project Controller" />
-      <item value="No property baseInfo found for type Boolean! Traversed path: Project.project." />
-      <item value="Project Serial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="349" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
