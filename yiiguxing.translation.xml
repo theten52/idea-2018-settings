@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Release the block by closing the channel:" />
+      <item value="Produce an interrupt via cancel:" />
       <item value="since last 2 interrupts failed" />
       <item value="Lock acquired by this thread" />
       <item value="interrupt Idle Workers" />
@@ -49,13 +51,11 @@
       <item value="Project Controller" />
       <item value="No property baseInfo found for type Boolean! Traversed path: Project.project." />
       <item value="Project Serial" />
-      <item value="circle" />
-      <item value=": Function template anticipated 3 arguments, but 2 arguments encountered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
