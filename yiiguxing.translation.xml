@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entrance" />
       <item value="Sum of Entrances:" />
       <item value="Some tasks were not terminated!" />
       <item value="await Termination" />
@@ -8,7 +9,6 @@
       <item value="Ornamental Garden" />
       <item value="Also prevents // garbage collection of dead tasks:" />
       <item value="Keep this task in a list." />
-      <item value="Entrance" />
       <item value="Remove the synchronized keyword to see counting fail:" />
       <item value="Yield half the time" />
       <item value="This is often the result of over-eager type matching - consider using 'getBeanNamesOfType' with the 'allowEagerInit' flag turned off, for example." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
