@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sum of Entrances:" />
+      <item value="Some tasks were not terminated!" />
+      <item value="await Termination" />
+      <item value="entrances" />
+      <item value="Ornamental Garden" />
+      <item value="Also prevents // garbage collection of dead tasks:" />
+      <item value="Keep this task in a list." />
+      <item value="Entrance" />
+      <item value="Remove the synchronized keyword to see counting fail:" />
+      <item value="Yield half the time" />
       <item value="This is often the result of over-eager type matching - consider using 'getBeanNamesOfType' with the 'allowEagerInit' flag turned off, for example." />
       <item value="This means that said other beans do not use the final version of the bean." />
       <item value="but has eventually been wrapped." />
@@ -41,21 +51,11 @@
       <item value="register Type" />
       <item value="later along the time-line, from the seconds field. * This is always positive, and never exceeds 999,999,999." />
       <item value="The value is also chosen such that the value of the year fits in * an {@code int}." />
-      <item value="which affect the instant in addition to the local date-time." />
-      <item value="This provides sufficient values to handle the range of {@code ZoneOffset}" />
-      <item value="This is one year earlier than the minimum {@code LocalDateTime}." />
-      <item value="This could be used by an application as a &quot;far future&quot; instant." />
-      <item value="This could be used by an application as a &quot;far past&quot; instant." />
-      <item value="The minimum supported" />
-      <item value="epoch instant." />
-      <item value="epoch" />
-      <item value="use sql comments" />
-      <item value="耗时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
