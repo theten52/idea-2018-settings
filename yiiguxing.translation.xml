@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="completion Permission Keys" />
       <item value="completion Permission Keys With不相同" />
       <item value="duplicate" />
       <item value="重复" />
@@ -50,7 +51,6 @@
       <item value="Bean with name 'cloneServiceImpl' has been injected into other beans [accountServiceImpl] in its raw version as part of a circular reference," />
       <item value="Assume this is a time consuming operation" />
       <item value="Make a copy to keep the original safe:" />
-      <item value="Protect a Pair inside a thread-safe class:" />
     </histories>
     <option name="languageScores">
       <map>
