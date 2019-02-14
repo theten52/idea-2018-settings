@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="│ Try running with sudo or get access to the local update config store via" />
+      <item value="Try running with sudo or get access │&#10;│ to the local update config store via" />
+      <item value="npm update check failed" />
       <item value="completion Permission Keys" />
       <item value="completion Permission Keys With不相同" />
       <item value="duplicate" />
@@ -48,14 +51,11 @@
       <item value="This is often the result of over-eager type matching - consider using 'getBeanNamesOfType' with the 'allowEagerInit' flag turned off, for example." />
       <item value="This means that said other beans do not use the final version of the bean." />
       <item value="but has eventually been wrapped." />
-      <item value="Bean with name 'cloneServiceImpl' has been injected into other beans [accountServiceImpl] in its raw version as part of a circular reference," />
-      <item value="Assume this is a time consuming operation" />
-      <item value="Make a copy to keep the original safe:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
