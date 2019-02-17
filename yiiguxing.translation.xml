@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Java Persistence 2.0" />
+      <item value="the entity type referenced by the root" />
+      <item value="Query roots always reference entities." />
+      <item value="A root type in the from clause." />
+      <item value="clause" />
       <item value="Business Type Enum" />
       <item value="商业" />
       <item value="Bussines" />
@@ -46,16 +51,11 @@
       <item value="Calculating" />
       <item value="Guarantee proper cleanup of n2:" />
       <item value="Start try-finally immediately after definition // of n1, to guarantee proper cleanup of n1:" />
-      <item value="Needs Cleanup" />
-      <item value="Idiom" />
-      <item value="Interrupting Idiom" />
-      <item value="Interrupted from lock acquisition in f()" />
-      <item value="Blocked Mutex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
