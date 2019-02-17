@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="origin Type" />
+      <item value="build Condition" />
       <item value="Assigns the specified Object reference to each element of the specified * array of Objects." />
       <item value="The number of rows allocated" />
       <item value="The index lookup table, this maps a character as a byte * (ISO-8859-1 or UTF8) to an index within a Trie row" />
@@ -49,13 +51,11 @@
       <item value="npm update check failed" />
       <item value="completion Permission Keys" />
       <item value="completion Permission Keys With不相同" />
-      <item value="duplicate" />
-      <item value="重复" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
