@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Response Status" />
       <item value="instantiated" />
       <item value="  http://www.apache.org/licenses/LICENSE-2.0" />
       <item value="Properties in parent definition are prohibited" />
@@ -50,12 +51,11 @@
       <item value="aggregate File Ext Attr" />
       <item value="search Unit" />
       <item value="get Search File Result" />
-      <item value="Descendant" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="ENGLISH" value="427" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
