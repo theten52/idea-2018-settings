@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Properties in parent definition are prohibited" />
+      <item value="// Load before the main WebMvcAutoConfiguration so that the error View is available" />
+      <item value="add Application Context Header" />
+      <item value="Add the &quot;X-Application-Context&quot; HTTP header in each response." />
+      <item value="Nested Configuration Property" />
+      <item value="BASIC AUTH ORDER" />
+      <item value="Properties for the management server (e.g. port and path settings)." />
+      <item value="ignore Unknown Fields" />
       <item value="FATAL" />
       <item value="could not extract ResultSet" />
       <item value="the prefix is # stripped before adding them to the entity manager). # Specify the DBMS" />
@@ -43,19 +51,11 @@
       <item value="Descendant" />
       <item value="file Entry Descendant Ids" />
       <item value="get File With Version Model Data Wrapper" />
-      <item value="conditional Expression" />
-      <item value="conditional Formula" />
-      <item value="搜索公式" />
-      <item value="resolution will not be reattempted until the update interval of bimserver-release-local has elapsed or updates are forced -&gt; [Help 1]" />
-      <item value="Failure to find common:jar: in release-local was cached in the local repository," />
-      <item value="Failure to find com.bimbox.bimserver:bimserver-common:jar:3" />
-      <item value="Could not resolve dependencies for project com.bimbox.bimserver.translation:translation-common:jar:3.0.0-SNAPSHOT:" />
-      <item value="Failed to execute goal on project" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="425" />
+        <entry key="ENGLISH" value="425" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
