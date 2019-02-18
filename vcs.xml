@@ -406,9 +406,17 @@
           <option name="url" value="https://gitlab.com/ankushs92/sample-boot-pagination.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/woniper/spring-boot-restful-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/eralmas7/SpringBootMongoEhCache.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/spring-projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/eralmas7" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
