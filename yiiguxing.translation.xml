@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Extractors" />
+      <item value="Body Extractors$Read Cancellation Exception" />
       <item value="These two are needed so that the server can access the protected client endpoints" />
       <item value="secret" />
       <item value="lookup parent from repository" />
@@ -49,13 +51,11 @@
       <item value="Business Type Enum" />
       <item value="商业" />
       <item value="Bussines" />
-      <item value="Bussines Type Enum" />
-      <item value="数据类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="434" />
+        <entry key="ENGLISH" value="435" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
