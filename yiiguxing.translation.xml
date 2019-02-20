@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="another Predicate" />
+      <item value="get File Entry Descendant Ids" />
+      <item value="获取子文件夹" />
       <item value="处理和其他Search Unit的关系" />
       <item value="entry Id" />
       <item value="Duplicate definition of alias 'generatedAlias0'" />
@@ -48,14 +51,11 @@
       <item value="the prefix is # stripped before adding them to the entity manager). # Specify the DBMS" />
       <item value="Use spring.jpa.properties.* for Hibernate native properties" />
       <item value="entity Manager" />
-      <item value="Criteria Builder" />
-      <item value="Ext Attr Resource Entry" />
-      <item value="combine With Default Namespace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
