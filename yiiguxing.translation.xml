@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ext Attr Value Resource Id Exp" />
       <item value="search Handler" />
       <item value="process" />
       <item value="process Search" />
@@ -50,12 +51,11 @@
       <item value="ALL INTERFACES" />
       <item value="The * main aim of the optimizations is to avoid object creation unless * absolutely required." />
       <item value="These string utilities provide both convenience methods and * performance improvements over most standard library versions." />
-      <item value="Fast String Utilities." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="447" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
