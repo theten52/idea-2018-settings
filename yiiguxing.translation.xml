@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search Unit Data Left" />
+      <item value="search Unit Data Laef" />
       <item value="ids for this class must be manually assigned before calling save():" />
       <item value="precision" />
       <item value="Criteria Builder" />
@@ -49,13 +51,11 @@
       <item value="// Load before the main WebMvcAutoConfiguration so that the error View is available" />
       <item value="add Application Context Header" />
       <item value="Add the &quot;X-Application-Context&quot; HTTP header in each response." />
-      <item value="Nested Configuration Property" />
-      <item value="BASIC AUTH ORDER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="469" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="CHINESE" value="471" />
+        <entry key="ENGLISH" value="472" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
