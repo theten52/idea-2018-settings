@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate definition of alias 'generatedAlias0'" />
+      <item value="update t 7_2_3_" />
       <item value="Descendant" />
       <item value="file Entry Descendant Ids" />
       <item value="You are using aliyun storage engine, Please configure aliyun configuration as quickly as possible&quot;" />
@@ -49,13 +51,11 @@
       <item value="combine With Default Namespace" />
       <item value="origin Type" />
       <item value="build Condition" />
-      <item value="Assigns the specified Object reference to each element of the specified * array of Objects." />
-      <item value="The number of rows allocated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="455" />
+        <entry key="ENGLISH" value="456" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
