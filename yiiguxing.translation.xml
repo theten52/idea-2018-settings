@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="persistent" />
+      <item value="持久化" />
       <item value="比较value" />
       <item value="clean" />
       <item value="Data conversion error converting &quot;1970-01-01 08:00:00.001&quot;; SQL statement:" />
@@ -49,19 +51,18 @@
       <item value="These two are needed so that the server can access the protected client endpoints" />
       <item value="MUST DISPATCH" />
       <item value="A global security auto-configuration is now provided. Provide your own WebSecurityConfigurer bean instead." />
-      <item value="exposure" />
-      <item value="basic auth creddentials" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="490" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="492" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="2" />
         <entry key="LATIN" value="3" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
