@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An error occurred in processing while on a non-container thread. The connection will be closed immediately" />
       <item value="property" />
       <item value="属性" />
       <item value="配置文件" />
@@ -50,12 +51,11 @@
       <item value="Criteria Builder" />
       <item value="number子类型" />
       <item value="根据类型生成条件" />
-      <item value="生成类似Number类型的条件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="509" />
+        <entry key="ENGLISH" value="510" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
