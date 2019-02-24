@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -118,7 +118,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Dashboard">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+X'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
@@ -135,6 +135,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AdminApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AdminApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
