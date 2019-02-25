@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="These two are needed so that the server can access the protected client endpoints" />
+      <item value="the configuration attributes associated with the method * being invoked" />
+      <item value="Access Decision Manager" />
+      <item value="decide" />
       <item value="Authentication request failed:" />
       <item value="is Authenticated" />
       <item value="extract" />
@@ -41,21 +45,17 @@
       <item value="themselves" />
       <item value="and * handles user approval if the grant type is authorization code." />
       <item value="approval" />
-      <item value="These two are needed so that the server can access the protected client endpoints" />
       <item value="2019-02-24 11:18:38.528 WARN 23493 --- [r-http-epoll-11] d.c.b.a.s.s.EndpointDetectionTrigger : Unexpected error while handling PooledSlicedByteBuf" />
       <item value="Body Extractors$Read Cancellation Exception" />
       <item value="Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format." />
       <item value="turbine" />
       <item value="An error occurred in processing while on a non-container thread. The connection will be closed immediately" />
       <item value="property" />
-      <item value="属性" />
-      <item value="配置文件" />
-      <item value="配置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="559" />
+        <entry key="ENGLISH" value="560" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
