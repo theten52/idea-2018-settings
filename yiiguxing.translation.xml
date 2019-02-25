@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Authenticated" />
+      <item value="extract" />
+      <item value="token Extractor" />
+      <item value="Initializing Bean" />
+      <item value="stateless" />
+      <item value="Authentication Event Publisher" />
+      <item value="Token Extractor" />
+      <item value="Authentication Details Source" />
+      <item value="Authentication Entry Point" />
       <item value="and cast(extattrval1_.value as datetime)&lt;&gt;? and fileentry2_.id=extattrval1_.resource_id and fileentry2_.project_id=? and ( fileentry2_.id in (" />
       <item value="parse Value" />
       <item value="处理" />
@@ -42,20 +51,11 @@
       <item value="配置文件" />
       <item value="配置" />
       <item value="Unable to locate Attribute with the the given name [et_attr_id_1] on this ManagedType [com.aecworks.bimserver.extattr.agent.entity.ExtAttrValue]" />
-      <item value="包含" />
-      <item value="prase" />
-      <item value="业务" />
-      <item value="Bussiness Search Key" />
-      <item value="可能值" />
-      <item value="operate Type" />
-      <item value="get Folder Descendant Nodes" />
-      <item value="表达式" />
-      <item value="MINUS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="541" />
-        <entry key="ENGLISH" value="542" />
+        <entry key="CHINESE" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
