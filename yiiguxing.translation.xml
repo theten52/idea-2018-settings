@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="and cast(extattrval1_.value as datetime)&lt;&gt;? and fileentry2_.id=extattrval1_.resource_id and fileentry2_.project_id=? and ( fileentry2_.id in (" />
       <item value="parse Value" />
       <item value="处理" />
       <item value="转换" />
@@ -50,12 +51,11 @@
       <item value="get Folder Descendant Nodes" />
       <item value="表达式" />
       <item value="MINUS" />
-      <item value="减" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="541" />
+        <entry key="ENGLISH" value="542" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
