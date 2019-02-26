@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=": An error occurred in processing while on a non-container thread. The connection will be closed immediately" />
+      <item value="Consider adding Spring Security or set 'management.security.enabled' to false." />
+      <item value="Full authentication is required to access actuator endpoints" />
+      <item value="the configuration attributes associated with the method" />
+      <item value="Previously" />
+      <item value="An error occurred in processing while on a non-container thread. The connection will be closed immediately" />
       <item value="These two are needed so that the server can access the protected client endpoints" />
       <item value="actuator" />
       <item value="realm" />
@@ -45,17 +51,11 @@
       <item value="accessible" />
       <item value="so that" />
       <item value="secured" />
-      <item value="where they come from the Authorization * Endpoint via &lt;code&gt;response_type=token&lt;/code&gt;." />
-      <item value="except in the implicit grant type" />
-      <item value="The tokens themselves are obtained from the" />
-      <item value="The tokens themselves are obtained" />
-      <item value="themselves" />
-      <item value="and * handles user approval if the grant type is authorization code." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="569" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />

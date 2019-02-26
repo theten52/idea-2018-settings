@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>200</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -206,7 +206,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>41</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -230,7 +230,7 @@
           <IdeaActionID>ActivateRunDashboardToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+X'</ShortCut>
           <Description>Run Dashboard</Description>
-          <Count>86</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -286,7 +286,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
