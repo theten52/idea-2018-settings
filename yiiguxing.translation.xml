@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accesses" />
+      <item value="permits" />
+      <item value="Insufficient scope for this resource" />
+      <item value="Current renewal threshold is : 8" />
+      <item value="Running the evict task with compensationTime 0ms" />
       <item value="These two are needed so that the server can access the protected client endpoints" />
       <item value="An error occurred in processing while on a non-container thread. The connection will be closed immediately" />
       <item value="Den Router-State beschreiben" />
@@ -28,7 +33,6 @@
       <item value="Configures HTTP Basic authentication." />
       <item value=": Checking match of request" />
       <item value="against" />
-      <item value="permits" />
       <item value="the configuration attributes associated with the method * being invoked" />
       <item value="Access Decision Manager" />
       <item value="decide" />
@@ -47,15 +51,11 @@
       <item value="处理" />
       <item value="转换" />
       <item value="search Expression" />
-      <item value="Single Search Express Metadata" />
-      <item value="Possible Value" />
-      <item value="搜索可用的值" />
-      <item value="Either way we need to store it on the AuthorizationRequest." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="583" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="CHINESE" value="589" />
+        <entry key="ENGLISH" value="590" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
