@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXPERIMENTAL" />
       <item value="Pattern Matching J Git Environment Repository" />
       <item value="Abstract Health Indicator" />
       <item value="avoid getfield opcode" />
@@ -50,11 +51,10 @@
       <item value="Token Extractor" />
       <item value="Authentication Details Source" />
       <item value="Authentication Entry Point" />
-      <item value="and cast(extattrval1_.value as datetime)&lt;&gt;? and fileentry2_.id=extattrval1_.resource_id and fileentry2_.project_id=? and ( fileentry2_.id in (" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="592" />
+        <entry key="CHINESE" value="593" />
         <entry key="ENGLISH" value="593" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
