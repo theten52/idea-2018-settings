@@ -442,9 +442,13 @@
           <option name="url" value="https://gitee.com/aecworks-bimserver/bimserver-microservices.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/pkpm/bimserver-config-repo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/aecworks-bimserver" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/pkpm" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
