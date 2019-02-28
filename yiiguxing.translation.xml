@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allows verifying that certain behavior happened at least once / exact number * of times / never. E.g:" />
       <item value="validation Catalog Key失败" />
       <item value="Extended Resource" />
       <item value="a Runner class (must have a constructor that takes a single Class to run)" />
@@ -50,12 +51,11 @@
       <item value="#These two are needed so that the server can access the proteceted client endpoints" />
       <item value="#These two are needed so that the client can register at the protected server api" />
       <item value="These two are needed so that the client can register at the protected server api" />
-      <item value="Zum Abschalten der Security den Parameter `-Drun.arguments=--spring.profiles.active=inseucre` mitgeben." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="623" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="ENGLISH" value="624" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
