@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Weak Reference Monitor" />
+      <item value="Log 4 j Configurer" />
+      <item value="least Sig Bits" />
+      <item value="most Sig Bits" />
+      <item value="never happens, because we made sure the algorithm exists" />
+      <item value="algorithm" />
+      <item value="The algorithm name of null if unknown." />
+      <item value="serial" />
+      <item value="securerandom" />
+      <item value="cryptographically" />
+      <item value="cryptographically strong random number * generator (RNG)." />
+      <item value="This class provides a cryptographically strong random number * generator (RNG)." />
+      <item value="secure Random" />
+      <item value="Alternative Jdk Id Generator" />
+      <item value="Contract for generating universally unique identifiers {@link UUID (UUIDs)}." />
       <item value="分隔符" />
       <item value="非法字符" />
       <item value="applied Resources" />
@@ -36,29 +51,15 @@
       <item value="his example shows how to secure your endpoints and the admin server using oauth2.&#10;The client application can decide wheter the user has access or not." />
       <item value="which adds the authorization header." />
       <item value="implement" />
-      <item value=": An error occurred in processing while on a non-container thread. The connection will be closed immediately" />
-      <item value="Consider adding Spring Security or set 'management.security.enabled' to false." />
-      <item value="Full authentication is required to access actuator endpoints" />
-      <item value="the configuration attributes associated with the method" />
-      <item value="Previously" />
-      <item value="actuator" />
-      <item value="realm" />
-      <item value="demonstrates" />
-      <item value="Configures HTTP Basic authentication." />
-      <item value=": Checking match of request" />
-      <item value="against" />
-      <item value="the configuration attributes associated with the method * being invoked" />
-      <item value="Access Decision Manager" />
-      <item value="decide" />
-      <item value="Authentication request failed:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="601" />
-        <entry key="ENGLISH" value="601" />
+        <entry key="CHINESE" value="616" />
+        <entry key="ENGLISH" value="617" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
+        <entry key="FRENCH" value="1" />
         <entry key="CZECH" value="3" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="2" />
