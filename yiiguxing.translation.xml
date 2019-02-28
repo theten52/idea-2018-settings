@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分隔符" />
+      <item value="非法字符" />
       <item value="applied Resources" />
       <item value="deactivate" />
       <item value="aqua" />
@@ -49,13 +51,11 @@
       <item value="Access Decision Manager" />
       <item value="decide" />
       <item value="Authentication request failed:" />
-      <item value="is Authenticated" />
-      <item value="extract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="599" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="601" />
+        <entry key="ENGLISH" value="601" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
