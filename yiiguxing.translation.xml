@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Privilege Switcher" />
+      <item value="Constant Conditions" />
+      <item value="mask To Permission Keys" />
       <item value="Weak Reference Monitor" />
       <item value="Log 4 j Configurer" />
       <item value="least Sig Bits" />
@@ -48,14 +51,11 @@
       <item value="Enthält den Beispiel Spring-Boot-Admin Server. Zum Starten (mit aktivierter Security) einfach" />
       <item value="ausführen." />
       <item value="Enthält die Beispiel-Anwendung die gemonitored werden soll. Zum Starten (mit aktivierter Security) einfach" />
-      <item value="his example shows how to secure your endpoints and the admin server using oauth2.&#10;The client application can decide wheter the user has access or not." />
-      <item value="which adds the authorization header." />
-      <item value="implement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
-        <entry key="ENGLISH" value="617" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
