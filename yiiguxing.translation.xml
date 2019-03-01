@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Normal" />
       <item value="提供者" />
       <item value="provide" />
       <item value="提供" />
@@ -50,12 +51,11 @@
       <item value="An error occurred in processing while on a non-container thread. The connection will be closed immediately" />
       <item value="Den Router-State beschreiben" />
       <item value="Den" />
-      <item value="/Die neue Seite registrieren" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="627" />
+        <entry key="ENGLISH" value="628" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
