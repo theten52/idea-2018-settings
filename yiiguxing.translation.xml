@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Examples of correct verifications:" />
+      <item value="Argument passed to verify() should be a mock but is null!" />
       <item value="重复的" />
       <item value="check Metadata When Illegal Urn" />
       <item value="check Metadata When Illegal Urn Is Empty" />
@@ -49,13 +51,11 @@
       <item value="accesses" />
       <item value="permits" />
       <item value="Insufficient scope for this resource" />
-      <item value="Current renewal threshold is : 8" />
-      <item value="Running the evict task with compensationTime 0ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
