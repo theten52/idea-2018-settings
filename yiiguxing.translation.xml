@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="# You can create separate keystores/truststores for both server and client if desired" />
+      <item value="# Create the public/private keypair for the server." />
+      <item value="# For production environments you should use keys signed by a third-party certificate authority (CA)" />
+      <item value="# The scripts below show the commands used for this example." />
       <item value="Caused by: com.rabbitmq.client.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile." />
       <item value="- Login was refused using authentication mechanism PLAIN. For details see the broker logfile." />
       <item value="missed" />
@@ -47,15 +51,11 @@
       <item value="applied Resources" />
       <item value="deactivate" />
       <item value="aqua" />
-      <item value="entity" />
-      <item value="control" />
-      <item value="boundary" />
-      <item value="actor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="639" />
-        <entry key="ENGLISH" value="640" />
+        <entry key="CHINESE" value="644" />
+        <entry key="ENGLISH" value="645" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
