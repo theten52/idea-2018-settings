@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="missed" />
       <item value="update Privilege State" />
       <item value="throws" />
       <item value="update Should Repeat" />
@@ -50,12 +51,11 @@
       <item value="actor" />
       <item value="EXPERIMENTAL" />
       <item value="Pattern Matching J Git Environment Repository" />
-      <item value="Abstract Health Indicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="637" />
+        <entry key="ENGLISH" value="638" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
