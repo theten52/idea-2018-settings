@@ -62,7 +62,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>214</Count>
+          <Count>217</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -303,6 +303,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'GroupServiceTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GroupServiceTest.searchGroupShouldSuccessWhenSimpleIsFalseAndParentIdIsNullAndParentIdIsGroupId'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'GroupServiceTest.searchGroupShouldSuccessWhenSimpleIsFalseAndParentIdIsNullAndParentIdIsGroupId'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MemberServiceTest'">
@@ -553,6 +561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'GroupServiceTest.searchGroupShouldSuccessWhenSimpleIsFalseAndParentIdIsNullAndParentIdIsGroupId'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'GroupServiceTest.searchGroupShouldSuccessWhenSimpleIsFalseAndParentIdIsNullAndParentIdIsGroupId'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PrivilegeServiceTest.checkMetadata'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -606,7 +622,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>125</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
