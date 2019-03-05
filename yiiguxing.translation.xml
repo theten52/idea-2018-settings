@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grandchildren Group" />
+      <item value="descendant Groups" />
       <item value="cycle Dependency Target Parent Group" />
       <item value="cycledependency Target Parent Group" />
       <item value="dependency" />
@@ -49,13 +51,11 @@
       <item value="serial" />
       <item value="securerandom" />
       <item value="cryptographically" />
-      <item value="cryptographically strong random number * generator (RNG)." />
-      <item value="This class provides a cryptographically strong random number * generator (RNG)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="651" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
