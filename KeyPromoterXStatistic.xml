@@ -62,7 +62,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>242</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>644</Count>
+          <Count>652</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Configuration...">
@@ -334,6 +334,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'GroupServiceTest.deleteShouldSuccessWhenParentIdIsAtDefault'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GroupServiceTest.operateMemberShouldSuccess'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'GroupServiceTest.operateMemberShouldSuccess'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -670,7 +678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>137</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
