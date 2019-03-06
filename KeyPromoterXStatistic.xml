@@ -62,7 +62,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>245</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>652</Count>
+          <Count>655</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Configuration...">
@@ -343,6 +343,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'GroupServiceTest.operateMemberShouldSuccess'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GroupServiceTest.operateMemberShouldThrowBadRequestException'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'GroupServiceTest.operateMemberShouldThrowBadRequestException'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'GroupServiceTest.searchGroupShouldSuccessWhenSimpleIsFalseAndParentIdIsNullAndParentIdIsGroupId'">
