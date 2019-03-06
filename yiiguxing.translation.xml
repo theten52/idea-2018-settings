@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正确" />
+      <item value="is Assignable From" />
+      <item value="retrieve User" />
+      <item value="extract And Decode Header" />
+      <item value="commence" />
+      <item value="Exception Traslation Filter" />
       <item value="Enable so that the clients can authenticate via HTTP basic for registering" />
       <item value="You need to configure a uri for the git repository" />
       <item value="Returns a string that is a substring of this string. The * substring begins with the character at the specified index and * extends to the end of this string. &lt;p&gt;" />
@@ -45,21 +51,15 @@
       <item value="check Metadata" />
       <item value="Allows verifying that certain behavior happened at least once / exact number * of times / never. E.g:" />
       <item value="validation Catalog Key失败" />
-      <item value="Extended Resource" />
-      <item value="a Runner class (must have a constructor that takes a single Class to run)" />
-      <item value="Privilege Switcher" />
-      <item value="Constant Conditions" />
-      <item value="mask To Permission Keys" />
-      <item value="Weak Reference Monitor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="663" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="668" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="CZECH" value="3" />
         <entry key="CORSICAN" value="10" />
         <entry key="CROATIAN" value="2" />
