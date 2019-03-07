@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="violation" />
+      <item value="This is an interface contract violation" />
+      <item value="* Does not perform any caching." />
+      <item value="delegate" />
       <item value="正确" />
       <item value="is Assignable From" />
       <item value="retrieve User" />
@@ -47,15 +51,11 @@
       <item value="get Normal" />
       <item value="提供者" />
       <item value="provide" />
-      <item value="提供" />
-      <item value="check Metadata" />
-      <item value="Allows verifying that certain behavior happened at least once / exact number * of times / never. E.g:" />
-      <item value="validation Catalog Key失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
