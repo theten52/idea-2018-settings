@@ -590,7 +590,15 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>15</Count>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'spring-security-5.1.4.RELEASE:samples:xml:insecure [appRun]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'spring-security-5.1.4.RELEASE:samples:xml:insecure [appRun]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Dashboard">
@@ -718,7 +726,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'spring-security-5.1.4.RELEASE:samples:xml:insecure [appRun]'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'spring-security-5.1.4.RELEASE:samples:xml:insecure [appStart]'">
