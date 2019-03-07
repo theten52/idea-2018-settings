@@ -452,7 +452,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/marcosbarbero" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/spring-projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
