@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="include" />
+      <item value="artifacts" />
+      <item value="Configuration for archive artifacts." />
+      <item value="Did you mean to add slf4j-simple?" />
+      <item value="Found slf4j-api dependency but no providers were found." />
+      <item value="Do not place your application dependencies here; they belong // in the individual module build.gradle files" />
       <item value="renew Session Id" />
       <item value="violation" />
       <item value="This is an interface contract violation" />
@@ -45,17 +51,11 @@
       <item value="privilege" />
       <item value="Examples of correct verifications:" />
       <item value="Argument passed to verify() should be a mock but is null!" />
-      <item value="重复的" />
-      <item value="check Metadata When Illegal Urn" />
-      <item value="check Metadata When Illegal Urn Is Empty" />
-      <item value="不存在的" />
-      <item value="get Normal" />
-      <item value="提供者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="CHINESE" value="678" />
+        <entry key="ENGLISH" value="679" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
         <entry key="RUSSIAN" value="2" />
