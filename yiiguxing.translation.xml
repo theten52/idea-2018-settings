@@ -1,6 +1,45 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authorize Requests" />
+      <item value="dispatcher Types" />
+      <item value="password Generated" />
+      <item value=" Affirmative" />
+      <item value="Affirmative Based" />
+      <item value="is Allow If All Abstain Decisions" />
+      <item value="check Allow If All Abstain Decisions" />
+      <item value="abstained" />
+      <item value="every AccessDecisionVoter abstained" />
+      <item value="To get this far, every AccessDecisionVoter abstained" />
+      <item value="is Fully Authenticated" />
+      <item value="IS AUTHENTICATED ANONYMOUSLY" />
+      <item value="IS AUTHENTICATED REMEMBERED" />
+      <item value="IS AUTHENTICATED FULLY" />
+      <item value="z the secure object type" />
+      <item value="* * This implementation supports any type of class, because it does not query the * presented secure object." />
+      <item value="ACCESS ABSTAIN" />
+      <item value="the configuration attributes associated with the secured object" />
+      <item value="ACCESS DENIED" />
+      <item value="ACCESS GRANTED" />
+      <item value="decide" />
+      <item value="This check prevents a duplicate AbstractAuthenticationFailureEvent if the parent AuthenticationManager already published it" />
+      <item value="If the parent AuthenticationManager was attempted and failed than it will publish an AbstractAuthenticationFailureEvent" />
+      <item value="Parent was null, or didn't authenticate (or throw an exception)." />
+      <item value="This check prevents a duplicate AuthenticationSuccessEvent if the parent AuthenticationManager already published it" />
+      <item value="If the parent AuthenticationManager was attempted and successful than it will publish an AuthenticationSuccessEvent" />
+      <item value="// If the parent AuthenticationManager was attempted and successful than it will publish an AuthenticationSuccessEvent // This check prevents a duplicate AuthenticationSuccessEvent if the parent AuthenticationManager already published it" />
+      <item value="erase Credentials" />
+      <item value="Authentication is complete. Remove credentials and other secret data // from authentication" />
+      <item value="Credentials Container" />
+      <item value="erase Credentials After Authentication" />
+      <item value="may throw ProviderNotFound even though a provider in the child already // handled the request" />
+      <item value="ignore as we will throw below if no other exception occurred prior to // calling parent and the parent" />
+      <item value="ignore as we will throw below if no other exception occurred prior to // calling parent and the parent // may throw ProviderNotFound even though a provider in the child already // handled the request" />
+      <item value="Provider Not Found Exception" />
+      <item value="Allow the parent to try." />
+      <item value="Authentication Exception" />
+      <item value="prepare Exception" />
+      <item value="// SEC-546: Avoid polling additional providers if auth failure is due to // invalid account status" />
       <item value="noop" />
       <item value="It looks like your project is using the App Engine SDK. While the App Engine SDK is still supported, Google recommends that you migrate to the Google Cloud SDK. The Cloud SDK provides new features such as App Engine Flexible support and Google Cloud Debugger integration. Learn more about migrating to the new Cloud tools." />
       <item value="include" />
@@ -12,50 +51,11 @@
       <item value="renew Session Id" />
       <item value="violation" />
       <item value="This is an interface contract violation" />
-      <item value="* Does not perform any caching." />
-      <item value="delegate" />
-      <item value="正确" />
-      <item value="is Assignable From" />
-      <item value="retrieve User" />
-      <item value="extract And Decode Header" />
-      <item value="commence" />
-      <item value="Exception Traslation Filter" />
-      <item value="Enable so that the clients can authenticate via HTTP basic for registering" />
-      <item value="You need to configure a uri for the git repository" />
-      <item value="Returns a string that is a substring of this string. The * substring begins with the character at the specified index and * extends to the end of this string. &lt;p&gt;" />
-      <item value="get Group Members" />
-      <item value="noinspection unchecked" />
-      <item value="inspection" />
-      <item value="noinspection" />
-      <item value="One or more build-args [ARTIFACT_VERSION] were not consumed" />
-      <item value="latest" />
-      <item value="grandchildren Group" />
-      <item value="descendant Groups" />
-      <item value="cycle Dependency Target Parent Group" />
-      <item value="cycledependency Target Parent Group" />
-      <item value="dependency" />
-      <item value="cycle Dependencytarget Parent Group" />
-      <item value="依赖" />
-      <item value="cycle Dependecytarget Parent Group" />
-      <item value="at Least Once" />
-      <item value="clone Default Project Should Success" />
-      <item value="# You can create separate keystores/truststores for both server and client if desired" />
-      <item value="# Create the public/private keypair for the server." />
-      <item value="# For production environments you should use keys signed by a third-party certificate authority (CA)" />
-      <item value="# The scripts below show the commands used for this example." />
-      <item value="Caused by: com.rabbitmq.client.AuthenticationFailureException: ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile." />
-      <item value="- Login was refused using authentication mechanism PLAIN. For details see the broker logfile." />
-      <item value="missed" />
-      <item value="update Privilege State" />
-      <item value="throws" />
-      <item value="update Should Repeat" />
-      <item value="update Should Repect" />
-      <item value="privilege" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="680" />
-        <entry key="ENGLISH" value="680" />
+        <entry key="CHINESE" value="722" />
+        <entry key="ENGLISH" value="723" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
