@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains Invalid Url Encoded Slash" />
+      <item value="true if the path doesn't contain any path-traversal character * sequences." />
+      <item value="traversal" />
+      <item value="Checks whether a path is normalized (doesn't contain path traversal * sequences like &quot;./&quot;, &quot;/../&quot; or &quot;/.&quot;)" />
       <item value="catchall" />
       <item value="The order of the filter chain used to authenticate tokens. Default puts it after * the actuator endpoints and before the default HTTP basic filter chain (catchall)." />
       <item value="then the existing rules for the actuator // endpoints will take precedence" />
@@ -47,15 +51,11 @@
       <item value="decide" />
       <item value="This check prevents a duplicate AbstractAuthenticationFailureEvent if the parent AuthenticationManager already published it" />
       <item value="If the parent AuthenticationManager was attempted and failed than it will publish an AbstractAuthenticationFailureEvent" />
-      <item value="Parent was null, or didn't authenticate (or throw an exception)." />
-      <item value="This check prevents a duplicate AuthenticationSuccessEvent if the parent AuthenticationManager already published it" />
-      <item value="If the parent AuthenticationManager was attempted and successful than it will publish an AuthenticationSuccessEvent" />
-      <item value="// If the parent AuthenticationManager was attempted and successful than it will publish an AuthenticationSuccessEvent // This check prevents a duplicate AuthenticationSuccessEvent if the parent AuthenticationManager already published it" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="750" />
-        <entry key="ENGLISH" value="751" />
+        <entry key="CHINESE" value="754" />
+        <entry key="ENGLISH" value="755" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
