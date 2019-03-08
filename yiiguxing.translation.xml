@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'/service-registry/instance-status'," />
+      <item value="permits" />
       <item value="The requestURI cannot contain encoded slash. Got" />
       <item value="traversal" />
       <item value="path-traversal character * sequences. */" />
@@ -49,13 +51,11 @@
       <item value="* * This implementation supports any type of class, because it does not query the * presented secure object." />
       <item value="ACCESS ABSTAIN" />
       <item value="the configuration attributes associated with the secured object" />
-      <item value="ACCESS DENIED" />
-      <item value="ACCESS GRANTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="CHINESE" value="760" />
+        <entry key="ENGLISH" value="761" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
