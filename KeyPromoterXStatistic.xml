@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>353</Count>
+          <Count>356</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>821</Count>
+          <Count>827</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -641,6 +641,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ScheduleResourceTest.testGetAuthenticationInfo'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ScheduleResourceTest.testGetAuthenticationInfo'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SearchComponentTest.searchWithDataType'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -934,7 +942,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>206</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -974,7 +982,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>340</Count>
+          <Count>341</Count>
         </Item>
       </Statistic>
     </option>
