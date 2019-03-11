@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SSL Connection Socket Factory" />
+      <item value="Http Client Option" />
       <item value="数据提供者" />
       <item value="Schedule Data Privoder" />
       <item value="duplicate-finder-maven-plugin" />
@@ -49,13 +51,11 @@
       <item value="If you * want to keep the default rules for management endpoints but want to override the * security for the rest of the application," />
       <item value="ACCESS OVERRIDE ORDER" />
       <item value="No cookies for application endpoints by default" />
-      <item value="authorize Requests" />
-      <item value="dispatcher Types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="777" />
+        <entry key="ENGLISH" value="778" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
