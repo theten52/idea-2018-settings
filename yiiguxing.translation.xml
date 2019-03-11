@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approved" />
       <item value="URI Template variables are expanded using the given URI variables, if any." />
       <item value="Create a new resource by POSTing the given object to the URI template, and returns * the response as {@link ResponseEntity}." />
       <item value="前缀" />
@@ -50,7 +51,6 @@
       <item value="used to configure basic * authentication for application endpoints." />
       <item value="Order applied to the WebSecurityConfigurerAdapter that is used to configure basic * authentication for application endpoints." />
       <item value="This is a * useful place to put user-defined access rules if you want to override the default * access rules." />
-      <item value="There is no connection between this * and the &lt;code&gt;@Order&lt;/code&gt; on a WebSecurityConfigurer." />
     </histories>
     <option name="languageScores">
       <map>
