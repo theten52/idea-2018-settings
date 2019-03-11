@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="URI Template variables are expanded using the given URI variables, if any." />
+      <item value="Create a new resource by POSTing the given object to the URI template, and returns * the response as {@link ResponseEntity}." />
+      <item value="前缀" />
+      <item value="URL PREFIX" />
+      <item value="URL PRIFIX" />
       <item value="SSL Connection Socket Factory" />
       <item value="Http Client Option" />
       <item value="数据提供者" />
@@ -46,16 +51,11 @@
       <item value="Order applied to the WebSecurityConfigurerAdapter that is used to configure basic * authentication for application endpoints." />
       <item value="This is a * useful place to put user-defined access rules if you want to override the default * access rules." />
       <item value="There is no connection between this * and the &lt;code&gt;@Order&lt;/code&gt; on a WebSecurityConfigurer." />
-      <item value="(i.e. amongst * other filters registered with the container)." />
-      <item value="Management endpoint HTTP port. Use the same port as the application by default." />
-      <item value="If you * want to keep the default rules for management endpoints but want to override the * security for the rest of the application," />
-      <item value="ACCESS OVERRIDE ORDER" />
-      <item value="No cookies for application endpoints by default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="777" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="CHINESE" value="781" />
+        <entry key="ENGLISH" value="782" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
