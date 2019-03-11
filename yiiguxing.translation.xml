@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wanted but not invoked:" />
+      <item value="Actually, there were zero interactions with this mock." />
       <item value="Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="expected at least 1 bean which qualifies as autowire candidate." />
       <item value="the variables to expand in the template" />
@@ -49,13 +51,11 @@
       <item value="This is a useful place to put user-defined access rules if * you want to override the default access rules for the management endpoints." />
       <item value="Order before the basic authentication access control provided automatically for the * management endpoints." />
       <item value="If you want to add your own authentication * for all or some of those endpoints the best thing to do is to add your own * WebSecurityConfigurerAdapter with lower order, for instance by using * {@code ACCESS_OVERRIDE_ORDER}." />
-      <item value="for instance by using * {@code ACCESS_OVERRIDE_ORDER}." />
-      <item value="If you want to add your own authentication * for all or some of those endpoints the best thing to do is to add your own * WebSecurityConfigurerAdapter with lower order," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="788" />
-        <entry key="ENGLISH" value="789" />
+        <entry key="CHINESE" value="790" />
+        <entry key="ENGLISH" value="791" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />

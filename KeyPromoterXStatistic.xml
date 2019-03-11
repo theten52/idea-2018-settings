@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>869</Count>
+          <Count>886</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -279,6 +279,14 @@
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
           <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Evaluate Expression">
+        <Item>
+          <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F8'</ShortCut>
+          <Description>Quick Evaluate Expression</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -657,6 +665,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ScheduleResourceTest.createPlannedScheduleShould400WhenUrnIsNull'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ScheduleResourceTest.createPlannedScheduleShould400WhenUrnIsNull'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ScheduleResourceTest.createPlannedScheduleShouldSuccess'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -982,7 +998,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>224</Count>
+          <Count>226</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
