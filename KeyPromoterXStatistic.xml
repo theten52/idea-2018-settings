@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>349</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>816</Count>
+          <Count>820</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -625,6 +625,22 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ScheduleResourceTest.createPlannedScheduleShouldSuccess'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ScheduleResourceTest.createPlannedScheduleShouldSuccess'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ScheduleResourceTest.getScheduleById'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ScheduleResourceTest.getScheduleById'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SearchComponentTest.searchWithDataType'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -809,6 +825,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ScheduleResourceTest.createPlannedScheduleShouldSuccess'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ScheduleResourceTest.createPlannedScheduleShouldSuccess'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SpringBootActuatorApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -902,7 +926,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>314</Count>
+          <Count>315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -910,7 +934,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>198</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -918,6 +942,14 @@
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+Y'</ShortCut>
           <Description>Translate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Translate and Replace...">
+        <Item>
+          <IdeaActionID>$TranslateAndReplaceAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Translate and Replace...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

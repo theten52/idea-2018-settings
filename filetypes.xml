@@ -4,9 +4,10 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
+      <mapping pattern=".attach_pid14521" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid12680" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
-      <mapping pattern=".attach_pid14521" type="PLAIN_TEXT" />
+      <mapping pattern="book" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid2341" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Jenkins file" />
       <removed_mapping pattern="Jenkins" approved="true" type="Groovy" />
