@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="approved" />
+      <item value="the variables to expand in the template" />
       <item value="URI Template variables are expanded using the given URI variables, if any." />
+      <item value="apply Root Uri If Necessary" />
+      <item value="create Request Entity With Root Applied Uri" />
+      <item value="Retrieve all headers of the resource specified by the URI template." />
+      <item value="approved" />
       <item value="Create a new resource by POSTing the given object to the URI template, and returns * the response as {@link ResponseEntity}." />
       <item value="前缀" />
       <item value="URL PREFIX" />
@@ -47,15 +51,11 @@
       <item value="If you want to add your own authentication * for all or some of those endpoints the best thing to do is to add your own * WebSecurityConfigurerAdapter with lower order," />
       <item value="Order applied to the WebSecurityConfigurerAdapter that is used to configure basic * authentication for management endpoints." />
       <item value="Order applied to the WebSecurityConfigurer that ignores standard static resource * paths." />
-      <item value="If you want to add your own * authentication for all or some of those endpoints the best thing to do is to add * your own WebSecurityConfigurerAdapter with lower order." />
-      <item value="used to configure basic * authentication for application endpoints." />
-      <item value="Order applied to the WebSecurityConfigurerAdapter that is used to configure basic * authentication for application endpoints." />
-      <item value="This is a * useful place to put user-defined access rules if you want to override the default * access rules." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="786" />
+        <entry key="ENGLISH" value="787" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
