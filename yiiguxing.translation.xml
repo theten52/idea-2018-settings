@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duplicate-finder-maven-plugin" />
       <item value="Greater Than" />
       <item value="second" />
       <item value="大于" />
@@ -50,12 +51,11 @@
       <item value="dispatcher Types" />
       <item value="password Generated" />
       <item value=" Affirmative" />
-      <item value="Affirmative Based" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="773" />
-        <entry key="ENGLISH" value="774" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="775" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
