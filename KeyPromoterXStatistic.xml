@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>367</Count>
+          <Count>370</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>853</Count>
+          <Count>869</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -649,12 +649,28 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ScheduleResourceTest.createPlannedScheduleShould400WhenActualScheduleIsNull'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ScheduleResourceTest.createPlannedScheduleShould400WhenActualScheduleIsNull'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ScheduleResourceTest.createPlannedScheduleShouldSuccess'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ScheduleResourceTest.createPlannedScheduleShouldSuccess'</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ScheduleResourceTest.createPlannedScheduleShouldSuccessWhenActualScheduleIdNotNull'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ScheduleResourceTest.createPlannedScheduleShouldSuccessWhenActualScheduleIdNotNull'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ScheduleResourceTest.getScheduleById'">
@@ -966,7 +982,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>221</Count>
+          <Count>224</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
