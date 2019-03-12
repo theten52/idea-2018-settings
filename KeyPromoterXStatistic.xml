@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>374</Count>
+          <Count>375</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -990,7 +990,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>321</Count>
+          <Count>324</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
