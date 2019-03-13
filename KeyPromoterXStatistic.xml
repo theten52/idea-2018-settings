@@ -25,6 +25,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
@@ -86,6 +94,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'AdminApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'EclipselinkSpringDataApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'EclipselinkSpringDataApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -166,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1051</Count>
+          <Count>1054</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -238,7 +254,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -278,7 +294,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pull...">
@@ -870,7 +886,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Shift+`'</ShortCut>
           <Description>Settings...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
@@ -1118,7 +1134,15 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>358</Count>
+          <Count>360</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="编码规约扫描">
+        <Item>
+          <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
+          <Description>编码规约扫描</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
