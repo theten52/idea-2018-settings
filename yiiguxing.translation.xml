@@ -1,12 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request callback implementation that writes the given object to the request stream." />
+      <item value="this will all be handled by the {@code RestTemplate}." />
+      <item value="* Does not need to care about closing the request or about handling errors:" />
+      <item value="Gets called by {@link RestTemplate#execute}" />
+      <item value="Used internally by the {@link RestTemplate}," />
+      <item value="internally" />
+      <item value="do With Request" />
       <item value="属性" />
       <item value="min Occurs" />
       <item value="reporting" />
       <item value="assert Equals" />
       <item value="the variables to expand in the template" />
-      <item value="Request callback implementation that writes the given object to the request stream." />
       <item value="set Baseline By Planned Schedule Id" />
       <item value="the type of the return value" />
       <item value="the variables to expand the template" />
@@ -45,17 +51,11 @@
       <item value="Specified class is an interface" />
       <item value="irst time this request being called, so perform security checking" />
       <item value="first time this request being called, so perform security checking" />
-      <item value="/info reached end of additional filter chain; proceeding with original chain" />
-      <item value="Not used (we rely on IoC container lifecycle services instead)" />
-      <item value="__spring security filter Security Interceptor filter Applied" />
-      <item value="Performs security handling of HTTP resources via a filter implementation." />
-      <item value="'/service-registry/instance-status'," />
-      <item value="permits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="806" />
-        <entry key="ENGLISH" value="806" />
+        <entry key="CHINESE" value="812" />
+        <entry key="ENGLISH" value="813" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
