@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Restrictions" />
+      <item value="Join object of the specified type" />
+      <item value="type to be downcast to" />
+      <item value="Join object" />
+      <item value="Downcast Join object to the specified type." />
+      <item value="treat" />
+      <item value="* Return the type representing the element type of the * collection." />
+      <item value="Plural Attribute" />
+      <item value="Create a fetch join to the specified collection-valued * attribute using an inner join." />
+      <item value="Create a fetch join to the specified single-valued attribute * using the given join type." />
       <item value="Suppress Warnings" />
       <item value="Request callback implementation that writes the given object to the request stream." />
       <item value="this will all be handled by the {@code RestTemplate}." />
@@ -41,21 +51,11 @@
       <item value="SSL Connection Socket Factory" />
       <item value="Http Client Option" />
       <item value="数据提供者" />
-      <item value="Schedule Data Privoder" />
-      <item value="duplicate-finder-maven-plugin" />
-      <item value="Greater Than" />
-      <item value="second" />
-      <item value="大于" />
-      <item value="grante Thandate From" />
-      <item value="propagation" />
-      <item value="there were other interactions with this mock:" />
-      <item value="Specified class is an interface" />
-      <item value="irst time this request being called, so perform security checking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="813" />
-        <entry key="ENGLISH" value="814" />
+        <entry key="CHINESE" value="823" />
+        <entry key="ENGLISH" value="824" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
