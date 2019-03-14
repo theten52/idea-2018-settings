@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hreshold Updater" />
+      <item value="Weaker Access" />
+      <item value="处理内部属性" />
+      <item value="处理扩展属性" />
       <item value="get Cache Directory Sub Structure" />
       <item value="DynamicServerListLoadBalancer for client bimserver-box-service initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=bimserver-box-service,current list of Servers=[192.168.1.111:18050],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;&#9;Instance count:1;&#9;Active connections count: 0;&#9;Circuit breaker tripped count: 0;&#9;Active connections per server: 0.0;]&#10;},Server stats: [[Server:192.168.1.111:18050;&#9;Zone:defaultZone;&#9;Total Requests:0;&#9;Successive connection failure:0;&#9;Total blackout seconds:0;&#9;Last connection made:Thu Jan 01 08:00:00 CST 1970;&#9;First connection made: Thu Jan 01 08:00:00 CST 1970;&#9;Active Connections:0;&#9;total failure count in last (1000) msecs:0;&#9;average resp time:0.0;&#9;90 percentile resp time:0.0;&#9;95 percentile resp time:0.0;&#9;min resp time:0.0;&#9;max resp time:0.0;&#9;stddev resp time:0.0]&#10;]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@3bf53c5c" />
       <item value="change To Like" />
@@ -47,15 +51,11 @@
       <item value="the variables to expand in the template" />
       <item value="set Baseline By Planned Schedule Id" />
       <item value="the type of the return value" />
-      <item value="the variables to expand the template" />
-      <item value="* @param urlVariables the variables to expand the template" />
-      <item value="When using matchers, all arguments have to be provided by matchers." />
-      <item value="This exception may occur if matchers are combined with raw values:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="892" />
-        <entry key="ENGLISH" value="893" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="896" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
