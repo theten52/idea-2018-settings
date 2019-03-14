@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1116</Count>
+          <Count>1117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>371</Count>
+          <Count>375</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
