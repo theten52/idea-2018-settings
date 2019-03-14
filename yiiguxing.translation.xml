@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clause" />
+      <item value="where clause predicate" />
+      <item value="restrictions" />
+      <item value="Return the predicate that corresponds to the where clause * restriction" />
+      <item value="Return the predicate that corresponds to the where clause * restriction(s)," />
+      <item value="Common Abstract Criteria" />
       <item value="Returns empty set if no fetch joins have been made from * this type. * Modifications to the set do not affect the query." />
       <item value="Return the fetch joins that have been made from this type." />
       <item value="Represents an element of the from clause which may * function as the parent of Fetches." />
@@ -45,17 +51,11 @@
       <item value="Create a fetch join to the specified collection-valued * attribute using an inner join." />
       <item value="Create a fetch join to the specified single-valued attribute * using the given join type." />
       <item value="Suppress Warnings" />
-      <item value="Request callback implementation that writes the given object to the request stream." />
-      <item value="this will all be handled by the {@code RestTemplate}." />
-      <item value="* Does not need to care about closing the request or about handling errors:" />
-      <item value="Gets called by {@link RestTemplate#execute}" />
-      <item value="Used internally by the {@link RestTemplate}," />
-      <item value="internally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="905" />
+        <entry key="CHINESE" value="911" />
+        <entry key="ENGLISH" value="912" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
