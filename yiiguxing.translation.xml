@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tuple Element" />
       <item value="hreshold Updater" />
       <item value="Weaker Access" />
       <item value="处理内部属性" />
@@ -50,12 +51,11 @@
       <item value="assert Equals" />
       <item value="the variables to expand in the template" />
       <item value="set Baseline By Planned Schedule Id" />
-      <item value="the type of the return value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="896" />
+        <entry key="ENGLISH" value="897" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
