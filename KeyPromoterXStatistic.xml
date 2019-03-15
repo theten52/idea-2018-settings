@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1249</Count>
+          <Count>1287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -238,7 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -294,7 +294,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>278</Count>
+          <Count>279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
