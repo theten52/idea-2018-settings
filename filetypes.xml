@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid2341" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid12680" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="book" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid14521" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="asmx" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkins" approved="true" type="Groovy" />
     </extensionMap>
