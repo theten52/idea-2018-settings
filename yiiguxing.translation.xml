@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=". The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
+      <item value="This is deprecated." />
       <item value="implementation" />
       <item value="Detected" />
       <item value="this problem is related to the following location:" />
@@ -49,13 +51,11 @@
       <item value="Criteria Specification" />
       <item value="Restrictions" />
       <item value="Join object of the specified type" />
-      <item value="type to be downcast to" />
-      <item value="Join object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="CHINESE" value="919" />
+        <entry key="ENGLISH" value="920" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
