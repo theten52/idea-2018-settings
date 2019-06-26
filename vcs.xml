@@ -490,8 +490,12 @@
           <option name="url" value="https://github.com/xu-ben/Compressor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sanfenzZ/doublemysql.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\ProgramData\xu-ben" />
+    <option name="cloneParentDir" value="D:\code_repo\sanfenzZ" />
   </component>
 </application>
