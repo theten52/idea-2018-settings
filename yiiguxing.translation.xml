@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Entity Enclosing Method" />
+      <item value="This abstract class serves as a foundation for all HTTP methods * that can enclose an entity within requests" />
       <item value="/ execute this method and use its host configuration, if it has one" />
       <item value="&quot;enter HttpClient.executeMethod(HttpMethod)&quot;" />
       <item value="Executes the given {@link HttpMethod HTTP method}." />
@@ -49,13 +51,11 @@
       <item value="association Path" />
       <item value="forbids the declaration of attributes in this namespace&lt;/p&gt;" />
       <item value="leave Jasmine Spec Runner output visible in browser" />
-      <item value="The following enables the &quot;thin jar&quot; deployment option." />
-      <item value="this is necessary as we're not using the Boot parent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="930" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="932" />
+        <entry key="ENGLISH" value="933" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
