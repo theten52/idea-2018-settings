@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Message Digest" />
+      <item value="algorithm" />
       <item value="flatMap} does not wrap it with an additional * {@code Optional}." />
       <item value="but the provided mapper is one whose result is already an {@code Optional}, * and if invoked," />
       <item value="similar" />
@@ -49,13 +51,11 @@
       <item value="Create a join to the specified attribute using the given * join type." />
       <item value="name of the attribute for the * target of the join" />
       <item value="if attribute of the given * name does not exist" />
-      <item value="handling Leaf Node Relationships" />
-      <item value="Tuple Element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="946" />
-        <entry key="ENGLISH" value="947" />
+        <entry key="CHINESE" value="952" />
+        <entry key="ENGLISH" value="953" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
