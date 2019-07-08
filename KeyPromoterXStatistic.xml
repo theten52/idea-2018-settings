@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1336</Count>
+          <Count>1338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -902,7 +902,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'spring-security-5.1.4.RELEASE:samples:xml:insecure [appRun]'">
