@@ -94,7 +94,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>411</Count>
+          <Count>412</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1338</Count>
+          <Count>1341</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -422,7 +422,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'App'</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CatalogServiceTest'">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>367</Count>
+          <Count>369</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
