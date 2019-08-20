@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Assignable From" />
+      <item value="return &quot;&quot;, if setter name with length less than 3" />
+      <item value="for instance: setVersion, return &quot;version&quot;" />
+      <item value="get properties name for setter," />
+      <item value="Check {@link DisableInject} to see if we need auto injection for this property" />
+      <item value="extract and cache default extension name if exists" />
       <item value="get Adaptive Extension" />
       <item value="with Extension Annotation" />
       <item value="The current lazy-lookup iterator" />
@@ -45,17 +51,11 @@
       <item value="Detected" />
       <item value="this problem is related to the following location:" />
       <item value="候选实体" />
-      <item value="Extended Attribute Handler" />
-      <item value="get Delegate" />
-      <item value="create Named Stored Procedure Query" />
-      <item value="clause" />
-      <item value="where clause predicate" />
-      <item value="restrictions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="961" />
-        <entry key="ENGLISH" value="962" />
+        <entry key="CHINESE" value="969" />
+        <entry key="ENGLISH" value="970" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
