@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>421</Count>
+          <Count>422</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1523</Count>
+          <Count>1530</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -446,7 +446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'App'</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CatalogServiceTest'">
@@ -1006,7 +1006,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'spring-security-5.1.4.RELEASE:samples:xml:insecure [appRun]'">
@@ -1062,6 +1062,14 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Translation Dialog...">
+        <Item>
+          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Show Translation Dialog...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
