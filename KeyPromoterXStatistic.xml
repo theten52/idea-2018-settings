@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>422</Count>
+          <Count>424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
