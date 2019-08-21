@@ -14,7 +14,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Q'</ShortCut>
           <Description>Add</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply Current Layout">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1468</Count>
+          <Count>1480</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -455,6 +455,22 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'CatalogServiceTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Client (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Client (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Client'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Client'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CloneServiceTest.cloneDefaultProjectShouldSuccess'">
@@ -1246,7 +1262,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>390</Count>
+          <Count>391</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
