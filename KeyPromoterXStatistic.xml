@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Debug</Description>
-          <Count>424</Count>
+          <Count>425</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AdminApplication'">
@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1544</Count>
+          <Count>1548</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -934,7 +934,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Test'</Description>
-          <Count>7</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'UseDemo'">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>41</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'spring-security-5.1.4.RELEASE:samples:xml:insecure [appRun]'">
@@ -1201,6 +1201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'spring-boot-sample-tomcat-jndi [deploy]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'spring-boot-sample-tomcat-jndi [deploy]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'spring-security-5.1.4.RELEASE:samples:boot:insecure [bootRun]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1294,7 +1302,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>394</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
