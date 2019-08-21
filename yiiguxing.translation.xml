@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the next line does the binding" />
+      <item value="to avoid constant folding by the compiler, this field must *not* be final" />
+      <item value="The value of this field is modified with each major release." />
+      <item value="Declare the version of the SLF4J API this implementation is compiled against." />
       <item value="Delegate the actual manufacturing of the logger to the logger repository." />
       <item value="Exceptions thrown by the action are relayed to the caller." />
       <item value="Actions are * performed" />
@@ -47,15 +51,11 @@
       <item value="return that result," />
       <item value="apply the provided {@code Optional}-bearing * mapping function to it," />
       <item value=" flat" />
-      <item value="If a value is present," />
-      <item value="compose" />
-      <item value="表现形式" />
-      <item value="形式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="994" />
-        <entry key="ENGLISH" value="995" />
+        <entry key="CHINESE" value="998" />
+        <entry key="ENGLISH" value="999" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
