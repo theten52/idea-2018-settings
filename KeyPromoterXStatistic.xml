@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1621</Count>
+          <Count>1623</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -951,6 +951,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Test'</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Test1.test01'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Test1.test01'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'UseDemo'">
