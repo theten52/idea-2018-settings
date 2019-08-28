@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="an include," />
+      <item value="Make framework objects available to handlers and view objects." />
+      <item value="THEME RESOLVER BEAN NAME" />
       <item value="Filter candidates using a given custom" />
       <item value="* Filter candidates matching a given regex pattern." />
       <item value="Filter candidates assignable to a given type." />
@@ -48,9 +51,6 @@
       <item value="get Adaptive Extension" />
       <item value="with Extension Annotation" />
       <item value="The current lazy-lookup iterator" />
-      <item value="The class or interface representing the service being loaded" />
-      <item value="considerable" />
-      <item value="Strategy " />
     </histories>
     <option name="languageScores">
       <map>
