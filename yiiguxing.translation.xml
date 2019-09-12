@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="varying in exclusive/shared and * control modes." />
+      <item value="Various flavors of acquire" />
+      <item value="Main exported methods" />
+      <item value="try Release Shared" />
+      <item value="is Held Exclusively" />
+      <item value="* CAS head field. Used only by enq." />
+      <item value="And while we * are at it, we do the same for other CASable fields (which could * otherwise be done with atomic field updaters)." />
+      <item value="So, as the lesser of evils, we * natively implement using hotspot intrinsics API." />
+      <item value="we * natively implement using hotspot intrinsics API." />
+      <item value="So, as the lesser of evils," />
+      <item value="efficient" />
+      <item value="which would be * efficient and useful otherwise." />
+      <item value="we * cannot explicitly subclass AtomicInteger," />
+      <item value="For the sake of permitting future enhancements," />
+      <item value="We need to natively implement * this here:" />
+      <item value="Setup to support compareAndSet" />
+      <item value="intrinsics" />
+      <item value="See below for intrinsics setup to support this" />
+      <item value="his method does not otherwise impose any synchronization or * {@code volatile} field accesses." />
+      <item value="The current owner of exclusive mode synchronization." />
+      <item value="mpty constructor for use by subclasses." />
+      <item value="A synchronizer that may be exclusively owned by a thread. This class provides a basis for creating locks and related synchronizers that may entail a notion of ownership. The AbstractOwnableSynchronizer class itself does not manage or use this information. However, subclasses and tools may use appropriately maintained values to help control and monitor access and provide diagnostics." />
       <item value="dialect" />
       <item value="This annotation specifies that the property or field is not persistent. It is used to annotate a property or field of an entity class, mapped superclass, or embeddable class." />
       <item value="The correctness of this depends on head being initialized // before tail and on head.next being accurate if the current // thread is first in queue." />
@@ -29,33 +51,11 @@
       <item value="Make framework objects available to handlers and view objects." />
       <item value="THEME RESOLVER BEAN NAME" />
       <item value="Filter candidates using a given custom" />
-      <item value="* Filter candidates matching a given regex pattern." />
-      <item value="Filter candidates assignable to a given type." />
-      <item value="milliseconds" />
-      <item value="A poor man's profiler to measure the time elapsed performing some lengthy * task." />
-      <item value="elapsed" />
-      <item value="version Sanity Check" />
-      <item value="perform Initialization" />
-      <item value="UNINITIALIZED" />
-      <item value="Support for detecting mismatched logger names." />
-      <item value="NO STATICLOGGERBINDER URL" />
-      <item value="the next line does the binding" />
-      <item value="to avoid constant folding by the compiler, this field must *not* be final" />
-      <item value="The value of this field is modified with each major release." />
-      <item value="Declare the version of the SLF4J API this implementation is compiled against." />
-      <item value="Delegate the actual manufacturing of the logger to the logger repository." />
-      <item value="Exceptions thrown by the action are relayed to the caller." />
-      <item value="Actions are * performed" />
-      <item value="in the order of" />
-      <item value="Actions are * performed in the order of iteration, if that order is specified." />
-      <item value="remaining" />
-      <item value="Performs" />
-      <item value="backing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1036" />
-        <entry key="ENGLISH" value="1037" />
+        <entry key="CHINESE" value="1056" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
