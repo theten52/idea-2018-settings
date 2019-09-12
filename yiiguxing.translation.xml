@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the number of permits acquired" />
+      <item value="Acquires and returns all permits that are immediately available." />
+      <item value="drain Permits" />
+      <item value="not without hurting performance too much." />
       <item value="varying in exclusive/shared and * control modes." />
       <item value="Various flavors of acquire" />
       <item value="Main exported methods" />
@@ -47,15 +51,11 @@
       <item value="Determine handler for the current request." />
       <item value="Determine" />
       <item value="to be able to restore the original attributes after the include." />
-      <item value="an include," />
-      <item value="Make framework objects available to handlers and view objects." />
-      <item value="THEME RESOLVER BEAN NAME" />
-      <item value="Filter candidates using a given custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1056" />
-        <entry key="ENGLISH" value="1057" />
+        <entry key="CHINESE" value="1060" />
+        <entry key="ENGLISH" value="1061" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
