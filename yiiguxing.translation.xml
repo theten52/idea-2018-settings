@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Popular vote was to return null on 0 results and throw exception on too many." />
+      <item value="Popular vote" />
+      <item value="vote" />
+      <item value="Strict Map" />
+      <item value=", prior to throwing * the" />
+      <item value="relinquish" />
+      <item value="relinquish the underlying resources" />
+      <item value="It is strongly advised * to relinquish the underlying resources and to" />
+      <item value="As noted in" />
+      <item value="cases where the * close may fail require careful attention." />
+      <item value="associated" />
+      <item value="a source or destination of data" />
       <item value="the number of permits acquired" />
       <item value="Acquires and returns all permits that are immediately available." />
       <item value="drain Permits" />
@@ -39,23 +51,11 @@
       <item value="has Original Request And Response" />
       <item value="Sentinel Holder" />
       <item value="Native code saves some indication of the stack backtrace in this slot." />
-      <item value="Ambiguous handler methods mapped for HTTP path" />
-      <item value="retrieve And Update" />
-      <item value="mutex" />
-      <item value="get Expired Flash Maps" />
-      <item value="This is most commonly needed when redirecting from one URL * to another --" />
-      <item value="A FlashMap provides a way for one request to store attributes intended for * use in another." />
-      <item value="input Flash Map" />
-      <item value="render" />
-      <item value="Uses configured default cacheSeconds setting." />
-      <item value="Determine handler for the current request." />
-      <item value="Determine" />
-      <item value="to be able to restore the original attributes after the include." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1060" />
-        <entry key="ENGLISH" value="1061" />
+        <entry key="CHINESE" value="1071" />
+        <entry key="ENGLISH" value="1072" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
