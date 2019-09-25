@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="well Known Simple Prefixes" />
+      <item value="Recursive invocation, parsing placeholders contained in the // previously resolved placeholder value." />
+      <item value="Recursive invocation, parsing placeholders contained in the placeholder key." />
       <item value="ignore Unresolvable Placeholders" />
       <item value="is Assignable From" />
       <item value="issue #510 Collections &amp; arrays support" />
@@ -48,14 +51,11 @@
       <item value="The correctness of this depends on head being initialized // before tail and on head.next being accurate if the current // thread is first in queue." />
       <item value="correctness" />
       <item value="has Queued Predecessors" />
-      <item value="Fair version of tryAcquire. Don't grant access unless * recursive call or no waiters or is first." />
-      <item value="exclusive Count" />
-      <item value="exclusive Owner Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1076" />
-        <entry key="ENGLISH" value="1077" />
+        <entry key="CHINESE" value="1079" />
+        <entry key="ENGLISH" value="1080" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
