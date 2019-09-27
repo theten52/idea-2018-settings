@@ -514,8 +514,12 @@
           <option name="url" value="https://github.com/theten52/StrategyDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wz2cool/tk-mybatis-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\code_repo\theten52" />
+    <option name="cloneParentDir" value="D:\code_repo\wz2cool" />
   </component>
 </application>
