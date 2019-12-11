@@ -522,8 +522,12 @@
           <option name="url" value="https://github.com/mozilla/pdf.js.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/baomidou/dynamic-datasource-spring-boot-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\code_repo\mozilla" />
+    <option name="cloneParentDir" value="D:\code_repo\baomidou" />
   </component>
 </application>
