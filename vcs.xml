@@ -530,8 +530,12 @@
           <option name="url" value="https://github.com/p6spy/p6spy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alibaba/druid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\code_repo\baomidou" />
+    <option name="cloneParentDir" value="D:\code_repo\alibaba" />
   </component>
 </application>
