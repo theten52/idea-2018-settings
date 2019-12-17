@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine Datasource" />
       <item value="Master-slave Separation Plugin with mybatis" />
       <item value="// we'll check in the synchronized section again (to prevent unnecessary reinitialization)" />
       <item value="Binds the JNDI DataSource to proxy." />
@@ -50,12 +51,11 @@
       <item value="we * natively implement using hotspot intrinsics API." />
       <item value="So, as the lesser of evils," />
       <item value="efficient" />
-      <item value="which would be * efficient and useful otherwise." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1095" />
-        <entry key="ENGLISH" value="1096" />
+        <entry key="CHINESE" value="1097" />
+        <entry key="ENGLISH" value="1098" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
