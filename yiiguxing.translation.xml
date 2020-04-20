@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Now we have the bean instance, which may be a normal bean or a FactoryBean." />
+      <item value="// If it's a FactoryBean, we use it to create a bean instance, unless the // caller actually wants a reference to the factory." />
       <item value="Unconditional" />
       <item value="Here to config datasource for SqlSessionFactory" />
       <item value="expect Private" />
@@ -49,13 +51,11 @@
       <item value="drain Permits" />
       <item value="not without hurting performance too much." />
       <item value="varying in exclusive/shared and * control modes." />
-      <item value="Various flavors of acquire" />
-      <item value="Main exported methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1105" />
-        <entry key="ENGLISH" value="1106" />
+        <entry key="CHINESE" value="1107" />
+        <entry key="ENGLISH" value="1108" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
