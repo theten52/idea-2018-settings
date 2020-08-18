@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Swallow and continue" />
+      <item value="To * inject additional properties into the result you can downcast it," />
+      <item value="Explicit Type" />
+      <item value="prevent" />
       <item value="Authentication attempt using org.springframework.security.authentication.dao.DaoAuthenticationProvider" />
       <item value="Request is to process authentication" />
       <item value="Checking match of request : '/oauth/token'; against '/oauth/token'" />
@@ -47,15 +51,11 @@
       <item value="As of Spring 3.0, an {@code ApplicationListener} can generically declare * the event type that it is interested in." />
       <item value="Intended * for internal use only." />
       <item value="The only way to be sure that this type is // eligible is to make a bean definition out of it and try to instantiate it." />
-      <item value="This has to be a bit of a guess" />
-      <item value="Make sure bean class is actually resolved at this point." />
-      <item value="// Temporarily return non-post-processed object, not storing it yet.." />
-      <item value="is Singleton Currently In Creation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1158" />
+        <entry key="CHINESE" value="1161" />
+        <entry key="ENGLISH" value="1162" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
