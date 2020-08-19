@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The basic service for managing a set of JDBC drivers." />
+      <item value="Wrapper class for registered Drivers in order to not expose Driver.equals() * to avoid the capture of the Driver it being compared to as it might not * normally have access." />
+      <item value="Wrapper class for registered Drivers in order to not expose Driver.equals()" />
       <item value="no suitable driver" />
       <item value="If the caller does not have permission to load the driver then // skip it." />
       <item value="Walk through the loaded registeredDrivers attempting to locate someone // who understands the given URL." />
@@ -48,14 +51,11 @@
       <item value="This is particularly * useful for data binding to {@link List Lists}," />
       <item value="Simple {@link List} wrapper class that allows for elements to be * automatically populated as they are requested." />
       <item value="Once the underlying operation has completed successfully, * the execution instance can be simply discarded." />
-      <item value="* Provide a {@link BackOffExecution} that indicates the rate at which * an operation should be retried." />
-      <item value="with the * listener getting invoked for matching event objects only." />
-      <item value="events will be filtered accordingly," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1165" />
-        <entry key="ENGLISH" value="1166" />
+        <entry key="CHINESE" value="1168" />
+        <entry key="ENGLISH" value="1169" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
