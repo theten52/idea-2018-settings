@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/ Required for Class.forName().newInstance()" />
       <item value="The basic service for managing a set of JDBC drivers." />
       <item value="Wrapper class for registered Drivers in order to not expose Driver.equals() * to avoid the capture of the Driver it being compared to as it might not * normally have access." />
       <item value="Wrapper class for registered Drivers in order to not expose Driver.equals()" />
@@ -50,12 +51,11 @@
       <item value="allowing for elements * to be created and added to the {@link List} in a &quot;just in time&quot; fashion." />
       <item value="This is particularly * useful for data binding to {@link List Lists}," />
       <item value="Simple {@link List} wrapper class that allows for elements to be * automatically populated as they are requested." />
-      <item value="Once the underlying operation has completed successfully, * the execution instance can be simply discarded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1168" />
-        <entry key="ENGLISH" value="1169" />
+        <entry key="CHINESE" value="1169" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
