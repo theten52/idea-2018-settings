@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Otherwise, scan the shared list ... then poll the handoff queue" />
       <item value="Cast is not needed for these" />
       <item value="Brett Wooldridge" />
       <item value="// Body is replaced (injected) by JavassistProxyFactory" />
@@ -50,12 +51,11 @@
       <item value="decorate Bean Definition If Required" />
       <item value="No archetype found in remote catalog. Defaulting to internal catalog" />
       <item value="The {@link List} that all operations are eventually delegated to." />
-      <item value="Inspired by {@code LazyList} from Commons Collections." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1172" />
-        <entry key="ENGLISH" value="1173" />
+        <entry key="CHINESE" value="1173" />
+        <entry key="ENGLISH" value="1174" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="13" />
