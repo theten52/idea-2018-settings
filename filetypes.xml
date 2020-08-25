@@ -7,6 +7,7 @@
       <mapping pattern="resources/META-INF/dubbo" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="perproties" type="PLAIN_TEXT" />
+      <mapping pattern="归还连接-closepuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
