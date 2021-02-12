@@ -1,0 +1,84 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="assert Timeout Preemptively" />
+      <item value="姓氏" />
+      <item value="第二节" />
+      <item value="jupiter" />
+      <item value="组合注解用例" />
+      <item value="Searched in the following locations:" />
+      <item value="Declare repository providing the artifact," />
+      <item value="TODO possible optimization here if we cache the discovered type reference, but can we do that?" />
+      <item value="ALTERNATIVE OPERATOR NAMES" />
+      <item value="If this gets changed, it must remain sorted..." />
+      <item value="logical Or Expression" />
+      <item value="eat Expression" />
+      <item value="Create a parser with some configured behavior." />
+      <item value="Current location in the token stream when processing tokens" />
+      <item value="length of a populated token stream" />
+      <item value="The token stream constructed from that expression string" />
+      <item value="The expression being parsed" />
+      <item value="For rules that build nodes, they are stacked here for return" />
+      <item value="return" />
+      <item value="the Open Bracket For" />
+      <item value="compatible With Close Bracket" />
+      <item value="skip To Correct End Suffix" />
+      <item value="revert To Interpreted" />
+      <item value="compile Expression" />
+      <item value="Running in SpelCompilerMode.immediate mode - propagate exception to caller" />
+      <item value="If running in mixed mode, revert to interpreted" />
+      <item value="position" />
+      <item value="ASM 8_EXPERIMENTAL" />
+      <item value="DontCheck(InterfaceIsType): can't be fixed (for backward binary compatibility)." />
+      <item value="Opcodes" />
+      <item value="The number of times compilation was attempted and failed - enables us to eventually give up trying to compile it when it just doesn't seem to be possible." />
+      <item value="Count of many times as the expression been interpreted - can trigger compilation when certain limit reached" />
+      <item value="interpreted Count" />
+      <item value="Holds the compiled form of the expression (if it has been compiled)" />
+      <item value="The default context is used if no override is supplied by the user" />
+      <item value="Number of times to try compiling an expression before giving up" />
+      <item value="Number of times to interpret an expression before compiling it" />
+      <item value="composite" />
+      <item value="The array of expressions that make up the composite expression." />
+      <item value="Composite String Expression" />
+      <item value="literal Value" />
+      <item value="Fixed" />
+      <item value="for Property Accessors" />
+      <item value="Return the specified root object, if any." />
+      <item value="Type Locator" />
+      <item value="减法" />
+      <item value="计算" />
+      <item value="ji's" />
+      <item value="bean Expression Parser Context" />
+      <item value="Expression Parser" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1064" />
+        <entry key="ENGLISH" value="1065" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="GERMAN" value="6" />
+        <entry key="FRENCH" value="3" />
+        <entry key="GALICIAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="ITALIAN" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1612622069729" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200402000411101" />
+      </app-key>
+    </option>
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="20200402000411101" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

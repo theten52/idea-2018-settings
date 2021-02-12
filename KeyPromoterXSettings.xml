@@ -1,0 +1,11 @@
+<application>
+  <component name="KeyPromoterXSettings">
+    <option name="showKeyboardShortcutsOnly" value="false" />
+    <option name="menusEnabled" value="false" />
+    <option name="toolbarButtonsEnabled" value="false" />
+    <option name="toolWindowButtonsEnabled" value="false" />
+    <option name="editorPopupEnabled" value="false" />
+    <option name="allButtonsEnabled" value="false" />
+    <option name="installedVersion" value="2020.2.2" />
+  </component>
+</application>
