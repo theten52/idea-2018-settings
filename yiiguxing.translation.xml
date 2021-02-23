@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consistency" />
+      <item value="sketch" />
       <item value="more" />
       <item value="Repeatedly" />
       <item value="or start a new thread if there are none." />
@@ -49,13 +51,11 @@
       <item value="Holds the compiled form of the expression (if it has been compiled)" />
       <item value="The default context is used if no override is supplied by the user" />
       <item value="Number of times to try compiling an expression before giving up" />
-      <item value="Number of times to interpret an expression before compiling it" />
-      <item value="composite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1070" />
-        <entry key="ENGLISH" value="1072" />
+        <entry key="CHINESE" value="1072" />
+        <entry key="ENGLISH" value="1074" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
