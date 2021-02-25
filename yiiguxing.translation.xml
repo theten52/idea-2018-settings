@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guarantees" />
+      <item value="shrink" />
+      <item value="of threads actively engaged in" />
+      <item value="engaged" />
+      <item value="corresponds" />
+      <item value="contention" />
+      <item value="reduce" />
+      <item value="parallelism" />
+      <item value="maintains" />
+      <item value="thread" />
+      <item value="Creates" />
       <item value="consistency" />
       <item value="sketch" />
       <item value="more" />
@@ -40,22 +51,11 @@
       <item value="revert To Interpreted" />
       <item value="compile Expression" />
       <item value="Running in SpelCompilerMode.immediate mode - propagate exception to caller" />
-      <item value="If running in mixed mode, revert to interpreted" />
-      <item value="position" />
-      <item value="ASM 8_EXPERIMENTAL" />
-      <item value="DontCheck(InterfaceIsType): can't be fixed (for backward binary compatibility)." />
-      <item value="Opcodes" />
-      <item value="The number of times compilation was attempted and failed - enables us to eventually give up trying to compile it when it just doesn't seem to be possible." />
-      <item value="Count of many times as the expression been interpreted - can trigger compilation when certain limit reached" />
-      <item value="interpreted Count" />
-      <item value="Holds the compiled form of the expression (if it has been compiled)" />
-      <item value="The default context is used if no override is supplied by the user" />
-      <item value="Number of times to try compiling an expression before giving up" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1072" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="CHINESE" value="1082" />
+        <entry key="ENGLISH" value="1084" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
