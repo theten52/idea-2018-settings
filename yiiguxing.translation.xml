@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Convert Exception to corresponding Error" />
+      <item value="Unsafe mechanics" />
+      <item value="stream" />
+      <item value="drain To" />
+      <item value="remaining Capacity" />
+      <item value="CP Us" />
+      <item value="While garbage collection takes care of most node reclamation issues that otherwise complicate nonblocking algorithms, care is taken to &quot;forget&quot; references to data, other nodes, and threads that might be held on to long-term by blocked threads. In cases where setting to null would otherwise conflict with main algorithms, this is done by changing a node's link to now point to the node itself. This doesn't arise much for Stack nodes (because blocked threads do not hang on to old head pointers), but references in Queue nodes must be aggressively forgotten to avoid reachability of everything any node has ever referred to since arrival." />
+      <item value="Cleaning is done in different ways in queues vs stacks. For queues, we can almost always remove a node immediately in O(1) time (modulo retries for consistency checks) when it is cancelled. But if it may be pinned as the current tail, it must wait until some subsequent cancellation. For stacks, we need a potentially O(n) traversal to be sure that we can remove the node, but this can run concurrently with other threads accessing the stack." />
+      <item value="Blocking is mainly accomplished using LockSupport parkunpark, except that nodes that appear to be the next ones to become fulfilled first spin a bit (on multiprocessors only). On very busy synchronous queues, spinning can dramatically improve throughput. And on less busy ones, the amount of spinning is small enough not to be noticeable." />
+      <item value="1. The original algorithms used bit-marked pointers, but the ones here use mode bits in nodes, leading to a number of further adaptations. 2. SynchronousQueues must block threads waiting to become fulfilled. 3. Support for cancellation via timeout and interrupts, including cleaning out cancelled nodesthreads from lists to avoid garbage retention and memory depletion." />
+      <item value="The algorithms here differ from the versions in the above paper in extending them for use in synchronous queues, as well as dealing with cancellation. The main differences include:" />
+      <item value="The queue and stack data structures share many conceptual similarities but very few concrete details. For simplicity, they are kept distinct so that they can later evolve separately." />
+      <item value="Both the queue and stack extend abstract class Transferer defining the single method transfer that does a put or a take. These are unified into a single method because in dual data structures, the put and take operations are symmetrical, so nearly all code can be combined. The resulting transfer methods are on the long side, but are easier to follow than they would be if broken up into nearly-duplicated parts." />
+      <item value="A dual queue (and similarly stack) is one that at any given time either holds &quot;data&quot; -- items provided by put operations, or &quot;requests&quot; -- slots representing take operations, or is empty. A call to &quot;fulfill&quot; (i.e., a call requesting an item from a queue holding data or vice versa) dequeues a complementary node. The most interesting feature of these queues is that any operation can figure out which mode the queue is in, and act accordingly without needing locks." />
+      <item value="This class implements extensions of the dual stack and dual queue algorithms described in &quot;Nonblocking Concurrent Objects with Condition Synchronization&quot;, by W. N. Scherer III and M. L. Scott. 18th Annual Conf. on Distributed Computing, Oct. 2004 (see also http:www.cs.rochester.eduuscottsynchronizationpseudocodeduals.html). The (Lifo) stack is used for non-fair mode, and the (Fifo) queue for fair mode. The performance of the two is generally similar. Fifo usually supports higher throughput under contention but Lifo maintains higher thread locality in common applications." />
       <item value="guarantees" />
       <item value="shrink" />
       <item value="of threads actively engaged in" />
@@ -36,26 +51,11 @@
       <item value="TODO possible optimization here if we cache the discovered type reference, but can we do that?" />
       <item value="ALTERNATIVE OPERATOR NAMES" />
       <item value="If this gets changed, it must remain sorted..." />
-      <item value="logical Or Expression" />
-      <item value="eat Expression" />
-      <item value="Create a parser with some configured behavior." />
-      <item value="Current location in the token stream when processing tokens" />
-      <item value="length of a populated token stream" />
-      <item value="The token stream constructed from that expression string" />
-      <item value="The expression being parsed" />
-      <item value="For rules that build nodes, they are stacked here for return" />
-      <item value="return" />
-      <item value="the Open Bracket For" />
-      <item value="compatible With Close Bracket" />
-      <item value="skip To Correct End Suffix" />
-      <item value="revert To Interpreted" />
-      <item value="compile Expression" />
-      <item value="Running in SpelCompilerMode.immediate mode - propagate exception to caller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1082" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="CHINESE" value="1097" />
+        <entry key="ENGLISH" value="1099" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
