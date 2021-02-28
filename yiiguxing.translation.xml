@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="poll" />
+      <item value="take" />
+      <item value="Are workers subject to culling?" />
+      <item value="decrement Worker Count" />
+      <item value="Did the last poll() time out?" />
+      <item value="completed Abruptly" />
+      <item value="Lock methods The value 0 represents the unlocked state. The value 1 represents the locked state." />
+      <item value="is Held Exclusively" />
+      <item value="to" />
+      <item value="counter" />
       <item value="precheck that t is startable" />
       <item value="Back out on ThreadFactory failure or if shut down before lock acquired. int" />
       <item value="Recheck while holding lock." />
@@ -41,21 +51,11 @@
       <item value="sketch" />
       <item value="more" />
       <item value="Repeatedly" />
-      <item value="or start a new thread if there are none." />
-      <item value="enqueuing" />
-      <item value="because existing ones died since last checking" />
-      <item value="offer" />
-      <item value="The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false." />
-      <item value="Proceed" />
-      <item value="Executes the given task sometime in the future." />
-      <item value="Proceed in 3 steps:" />
-      <item value="excess" />
-      <item value="Packing and unpacking ctl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1108" />
-        <entry key="ENGLISH" value="1110" />
+        <entry key="CHINESE" value="1118" />
+        <entry key="ENGLISH" value="1120" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614096681748" />
+    <option name="lastTrimTime" value="1614528702409" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
