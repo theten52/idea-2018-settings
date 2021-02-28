@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MAXIMUM CAPACITY" />
+      <item value="Number of CPUS, to place bounds on some sizings" />
+      <item value="DEFAULT CAPACITY" />
       <item value="Convert Exception to corresponding Error" />
       <item value="Unsafe mechanics" />
       <item value="stream" />
@@ -48,14 +51,11 @@
       <item value="组合注解用例" />
       <item value="Searched in the following locations:" />
       <item value="Declare repository providing the artifact," />
-      <item value="TODO possible optimization here if we cache the discovered type reference, but can we do that?" />
-      <item value="ALTERNATIVE OPERATOR NAMES" />
-      <item value="If this gets changed, it must remain sorted..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1097" />
-        <entry key="ENGLISH" value="1099" />
+        <entry key="CHINESE" value="1100" />
+        <entry key="ENGLISH" value="1102" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
