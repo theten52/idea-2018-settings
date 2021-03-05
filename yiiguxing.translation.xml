@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A releaseShared should be propagated to other nodes." />
+      <item value="release Shared" />
+      <item value="PROPAGATE" />
+      <item value="SIGNAL" />
+      <item value="To keep sources in sync, the remainder of this source file is exactly cloned from AbstractQueuedSynchronizer, replacing class name and changing ints related with sync state to longs. Please keep it that way." />
+      <item value="long" />
+      <item value="maintained" />
+      <item value="synchronization state" />
+      <item value="synchronization" />
+      <item value="dynamic striping" />
+      <item value="striping" />
+      <item value="Double Accumulator" />
+      <item value="exclusive" />
+      <item value="exclusive Owner Thread" />
       <item value="poll" />
       <item value="take" />
       <item value="Are workers subject to culling?" />
@@ -37,25 +51,11 @@
       <item value="A dual queue (and similarly stack) is one that at any given time either holds &quot;data&quot; -- items provided by put operations, or &quot;requests&quot; -- slots representing take operations, or is empty. A call to &quot;fulfill&quot; (i.e., a call requesting an item from a queue holding data or vice versa) dequeues a complementary node. The most interesting feature of these queues is that any operation can figure out which mode the queue is in, and act accordingly without needing locks." />
       <item value="This class implements extensions of the dual stack and dual queue algorithms described in &quot;Nonblocking Concurrent Objects with Condition Synchronization&quot;, by W. N. Scherer III and M. L. Scott. 18th Annual Conf. on Distributed Computing, Oct. 2004 (see also http:www.cs.rochester.eduuscottsynchronizationpseudocodeduals.html). The (Lifo) stack is used for non-fair mode, and the (Fifo) queue for fair mode. The performance of the two is generally similar. Fifo usually supports higher throughput under contention but Lifo maintains higher thread locality in common applications." />
       <item value="guarantees" />
-      <item value="shrink" />
-      <item value="of threads actively engaged in" />
-      <item value="engaged" />
-      <item value="corresponds" />
-      <item value="contention" />
-      <item value="reduce" />
-      <item value="parallelism" />
-      <item value="maintains" />
-      <item value="thread" />
-      <item value="Creates" />
-      <item value="consistency" />
-      <item value="sketch" />
-      <item value="more" />
-      <item value="Repeatedly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1118" />
-        <entry key="ENGLISH" value="1120" />
+        <entry key="CHINESE" value="1132" />
+        <entry key="ENGLISH" value="1133" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
