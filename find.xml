@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '/Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre/lib/rt.jar!/java/util/concurrent/locks/AbstractQueuedSynchronizer.class [1.8]'" />
+    <option name="defaultScopeName" value="File '/Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre/lib/rt.jar!/java/util/concurrent/locks/AbstractQueuedSynchronizer.class [1.8]'" />
+    <option name="SEARCH_SCOPE" value="File '/Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre/lib/rt.jar!/java/util/concurrent/locks/AbstractQueuedSynchronizer.class [1.8]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
