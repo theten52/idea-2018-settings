@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thread to unpark is held in successor, which is normally just the next node. But if cancelled or apparently null, traverse backwards from tail to find the actual non-cancelled successor." />
       <item value="If successor needs signal" />
       <item value="If we are the tail, remove ourselves." />
       <item value="Hot Spot Intrinsic Candidate" />
@@ -50,12 +51,11 @@
       <item value="to" />
       <item value="counter" />
       <item value="precheck that t is startable" />
-      <item value="Back out on ThreadFactory failure or if shut down before lock acquired. int" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1158" />
-        <entry key="ENGLISH" value="1159" />
+        <entry key="CHINESE" value="1159" />
+        <entry key="ENGLISH" value="1160" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
