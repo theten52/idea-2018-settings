@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uninterruptible" />
+      <item value="argument" />
       <item value="Thread to unpark is held in successor, which is normally just the next node. But if cancelled or apparently null, traverse backwards from tail to find the actual non-cancelled successor." />
       <item value="If successor needs signal" />
       <item value="If we are the tail, remove ourselves." />
@@ -49,13 +51,11 @@
       <item value="completed Abruptly" />
       <item value="Lock methods The value 0 represents the unlocked state. The value 1 represents the locked state." />
       <item value="to" />
-      <item value="counter" />
-      <item value="precheck that t is startable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1159" />
-        <entry key="ENGLISH" value="1160" />
+        <entry key="CHINESE" value="1161" />
+        <entry key="ENGLISH" value="1162" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
