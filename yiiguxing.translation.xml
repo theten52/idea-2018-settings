@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JVM-private state that persists after native thread termination." />
+      <item value="The object in which this thread is blocked in an interruptible IO operation, if any. The blocker's interrupt method should be invoked after setting this thread's interrupt status." />
+      <item value="Set the blocker field; invoked via sun.misc.SharedSecrets from java.nio code" />
       <item value="weak Compare And Set" />
       <item value="interrupted" />
       <item value="Just to set the interrupt flag" />
@@ -48,14 +51,11 @@
       <item value="synchronization state" />
       <item value="dynamic striping" />
       <item value="striping" />
-      <item value="Double Accumulator" />
-      <item value="exclusive" />
-      <item value="exclusive Owner Thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1171" />
-        <entry key="ENGLISH" value="1172" />
+        <entry key="CHINESE" value="1174" />
+        <entry key="ENGLISH" value="1175" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
