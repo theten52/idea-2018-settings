@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="JVM-private state that persists after native thread termination." />
       <item value="The object in which this thread is blocked in an interruptible IO operation, if any. The blocker's interrupt method should be invoked after setting this thread's interrupt status." />
       <item value="Set the blocker field; invoked via sun.misc.SharedSecrets from java.nio code" />
@@ -50,12 +51,11 @@
       <item value="maintained" />
       <item value="synchronization state" />
       <item value="dynamic striping" />
-      <item value="striping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1174" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1175" />
+        <entry key="ENGLISH" value="1176" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
