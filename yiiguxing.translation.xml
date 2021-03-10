@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="report Untraced Leak" />
+      <item value="Detect and report previous leaks." />
+      <item value="Platform Dependent" />
+      <item value="deprecation" />
+      <item value="SAMPLING INTERVAL" />
+      <item value="There is a minor performance benefit in TLR if this is a power of 2." />
+      <item value="PROP SAMPLING INTERVAL" />
+      <item value="PROP TARGET RECORDS" />
+      <item value="Resource Leak Detector" />
       <item value="so that we don't get into trouble later in the run loop if there's memory shortage while loadinginitializing them lazily." />
       <item value="pre-load and initialize InterruptedException and Cleaner classes" />
       <item value="discovered" />
@@ -42,20 +51,11 @@
       <item value="serving" />
       <item value="Must initialize" />
       <item value="insert" />
-      <item value="suffices" />
-      <item value="estimate" />
-      <item value="rough" />
-      <item value="if synchronization is held exclusively;" />
-      <item value="internally" />
-      <item value="Returns {@code true} if synchronization is held exclusively with respect to the current (calling) thread." />
-      <item value="respect" />
-      <item value="exclusively" />
-      <item value="held" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1184" />
-        <entry key="ENGLISH" value="1185" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1194" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
