@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="686" />
+    <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Scenario" />
       <item value="report Untraced Leak" />
       <item value="Detect and report previous leaks." />
       <item value="Platform Dependent" />
@@ -50,7 +53,6 @@
       <item value="If lastWaiter is cancelled, clean out." />
       <item value="serving" />
       <item value="Must initialize" />
-      <item value="insert" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614960720453" />
+    <option name="lastTrimTime" value="1615394014540" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
