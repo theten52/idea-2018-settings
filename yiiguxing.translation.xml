@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="so that we don't get into trouble later in the run loop if there's memory shortage while loadinginitializing them lazily." />
+      <item value="pre-load and initialize InterruptedException and Cleaner classes" />
+      <item value="discovered" />
+      <item value="Mark Reinhold" />
       <item value="prev Deadline Nanos" />
       <item value="MAX SCHEDULED TIMERFD NS" />
       <item value="Ratio" />
@@ -47,15 +51,11 @@
       <item value="respect" />
       <item value="exclusively" />
       <item value="held" />
-      <item value="is Held Exclusively" />
-      <item value="A releaseShared should be propagated to other nodes." />
-      <item value="release Shared" />
-      <item value="PROPAGATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1180" />
-        <entry key="ENGLISH" value="1181" />
+        <entry key="CHINESE" value="1184" />
+        <entry key="ENGLISH" value="1185" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
