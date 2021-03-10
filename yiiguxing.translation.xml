@@ -79,6 +79,7 @@
         <option name="appId" value="20200402000411101" />
       </app-key>
     </option>
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="20200402000411101" />
