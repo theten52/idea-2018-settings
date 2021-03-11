@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="A convenient programmer to do comments on the source code, as well as convenient programmers to make notes of the plug-in I am a plug-in about taking notes on the source code. Because the source code is a read-only file, programmers often need to look at the source code, so it is very troublesome to be unable to add comments. Therefore, I have developed a plug-in that can directly take notes on the source code. It can be saved as text in markdown format. The following is a screenshot of my plug-in. 1.Select the text and right-click mark downNote 2.You can choose to add to existing notes or create a new list of notes 3.Note Title: the title of the current note; note content: an explanation of the selected code segment 4.After clicking Add to the notes list, the notes will be added to the notewindow 5.You can add another note to the current note list 6.Create a new note list 7.Click the Save button and select the save path to generate the markdown format file of the current document title 8.After configuring the content in setting, you can double-click upload to upload to the specified GitHub repository If the document is uploaded successfully, it will be displayed 9.Click the delete note button to delete the current note list 10.The empty button will clear the current note list, but it will not be deleted 11.Click the close button to close the notewindow window MarkdownNote MarkDownNoteYYF source code and document" />
+      <item value="Document structure view, headers folding, highlighting, TODOs. Code completion and navigation for links to project files. Embedding fenced code blocks for different languages. Visualizing diagrams for the DOT or PlantUML diagramming languages. Ability to use custom stylesheets for a live preview." />
+      <item value="Provides the capability to edit Markdown files within the IDE and see the rendered HTML in a live preview." />
       <item value="Scenario" />
       <item value="report Untraced Leak" />
       <item value="Detect and report previous leaks." />
@@ -50,9 +53,6 @@
       <item value="While we must in general read state before owner," />
       <item value="synchronization" />
       <item value="Decrement count; signal when transition to zero" />
-      <item value="If lastWaiter is cancelled, clean out." />
-      <item value="serving" />
-      <item value="Must initialize" />
     </histories>
     <option name="languageScores">
       <map>
