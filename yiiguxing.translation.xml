@@ -3,6 +3,29 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="explicit" />
+      <item value="expli" />
+      <item value="insecure protocols" />
+      <item value="insecure protocol" />
+      <item value="insecure p'ro'to'ca'l" />
+      <item value="insecure proto" />
+      <item value="insecure" />
+      <item value="insecure po'r'to'ca'l" />
+      <item value="insecure porto" />
+      <item value="insecu" />
+      <item value="incubating future" />
+      <item value="incubating fu't" />
+      <item value="incubating fe'tu're" />
+      <item value="incubating fe'tu" />
+      <item value="incubating fe" />
+      <item value="incubating" />
+      <item value="incubating&#10;" />
+      <item value="incuba'ting" />
+      <item value="incu" />
+      <item value="incl" />
+      <item value="inc" />
+      <item value="in" />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="Can't assign requested address" />
       <item value="for collaborative development and pair programming" />
       <item value="collaborative" />
@@ -29,35 +52,12 @@
       <item value="io Ratio" />
       <item value="Ensure JNI is initialized by the time this class is loaded by this time! We use unix-common methods in this class which are backed by JNI methods" />
       <item value="Let the caller handle the interruption." />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="JVM-private state that persists after native thread termination." />
-      <item value="The object in which this thread is blocked in an interruptible IO operation, if any. The blocker's interrupt method should be invoked after setting this thread's interrupt status." />
-      <item value="Set the blocker field; invoked via sun.misc.SharedSecrets from java.nio code" />
-      <item value="weak Compare And Set" />
-      <item value="interrupted" />
-      <item value="Just to set the interrupt flag" />
-      <item value="argument" />
-      <item value="Lock methods The value 0 represents the unlocked state. The value 1 represents the locked state." />
-      <item value="Try to signal next queued node if: Propagation was indicated by caller, or was recorded (as h.waitStatus either before or after setHead) by a previous operation (note: this uses sign-check of waitStatus because PROPAGATE status may transition to SIGNAL.) and The next node is waiting in shared mode, or we don't know, because it appears null The conservatism in both of these checks may cause unnecessary wake-ups, but only when there are multiple racing acquiresreleases, so most need signals now or soon anyway." />
-      <item value="acquire Uninterruptibly" />
-      <item value="Semaphore" />
-      <item value="set Head And Propagate" />
-      <item value="uninterruptible" />
-      <item value="Thread to unpark is held in successor, which is normally just the next node. But if cancelled or apparently null, traverse backwards from tail to find the actual non-cancelled successor." />
-      <item value="If successor needs signal" />
-      <item value="If we are the tail, remove ourselves." />
-      <item value="Hot Spot Intrinsic Candidate" />
-      <item value="Plain accessors" />
-      <item value="Constable" />
-      <item value="Var Handle" />
-      <item value="throw new Error(&quot;Maximum lock count exceeded&quot;);" />
-      <item value="overflow" />
-      <item value="{ While we must in general read state before owner, we don't need to do so to check if current thread is owner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1194" />
-        <entry key="ENGLISH" value="1195" />
+        <entry key="CHINESE" value="1195" />
+        <entry key="ENGLISH" value="1196" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
