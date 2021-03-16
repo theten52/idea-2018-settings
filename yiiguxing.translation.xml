@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="falling back to default profiles" />
+      <item value="has Bean Creation Started" />
+      <item value="Shared Metadata Reader Factory Context Initializer" />
+      <item value="prepare Context" />
+      <item value="deduce Main Application Class" />
+      <item value="get Spring Factories Instances" />
       <item value="Artemis Auto Configuration" />
       <item value="Positive matches:" />
       <item value="CONDITIONS EVALUATION REPORT" />
@@ -47,17 +53,11 @@
       <item value="Document structure view, headers folding, highlighting, TODOs. Code completion and navigation for links to project files. Embedding fenced code blocks for different languages. Visualizing diagrams for the DOT or PlantUML diagramming languages. Ability to use custom stylesheets for a live preview." />
       <item value="Provides the capability to edit Markdown files within the IDE and see the rendered HTML in a live preview." />
       <item value="Scenario" />
-      <item value="report Untraced Leak" />
-      <item value="Detect and report previous leaks." />
-      <item value="Platform Dependent" />
-      <item value="deprecation" />
-      <item value="SAMPLING INTERVAL" />
-      <item value="There is a minor performance benefit in TLR if this is a power of 2." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1209" />
-        <entry key="ENGLISH" value="1210" />
+        <entry key="CHINESE" value="1215" />
+        <entry key="ENGLISH" value="1216" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
