@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Artemis Auto Configuration" />
+      <item value="Positive matches:" />
+      <item value="CONDITIONS EVALUATION REPORT" />
       <item value="&gt; Main class name has not been configured and it could not be resolved" />
       <item value="&gt; Plugin request for plugin already on the classpath must not include a version" />
       <item value="remaining" />
@@ -50,14 +53,11 @@
       <item value="deprecation" />
       <item value="SAMPLING INTERVAL" />
       <item value="There is a minor performance benefit in TLR if this is a power of 2." />
-      <item value="PROP SAMPLING INTERVAL" />
-      <item value="PROP TARGET RECORDS" />
-      <item value="Resource Leak Detector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1206" />
-        <entry key="ENGLISH" value="1207" />
+        <entry key="CHINESE" value="1209" />
+        <entry key="ENGLISH" value="1210" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
