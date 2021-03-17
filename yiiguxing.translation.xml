@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Import Aware" />
+      <item value="Interface to be implemented by any @Configuration class that wishes to be injected with the AnnotationMetadata of the @Configuration class that imported it." />
+      <item value="set Import Metadata" />
       <item value="get Candidate Configurations" />
       <item value="determine Imports" />
       <item value="finish Bean Factory Initialization" />
@@ -50,14 +53,11 @@
       <item value="insecure proto" />
       <item value="insecure" />
       <item value="insecure po'r'to'ca'l" />
-      <item value="insecure porto" />
-      <item value="insecu" />
-      <item value="incubating future" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1235" />
-        <entry key="ENGLISH" value="1236" />
+        <entry key="CHINESE" value="1238" />
+        <entry key="ENGLISH" value="1239" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
