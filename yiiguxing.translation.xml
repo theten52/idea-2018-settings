@@ -86,6 +86,7 @@
       </google-translate>
     </option>
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="20200402000411101" />
