@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Where precedence is mentioned in methods such as addFirst and addLast, this is with regard to the order in which property sources will be searched when resolving a given property with a PropertyResolver." />
+      <item value="mentioned" />
       <item value="Trigger post-initialization callback for all applicable beans... for" />
       <item value="Trigger post-initialization callback for all applicable beans..." />
       <item value="} Iterate over a copy to allow for init methods which in turn register new bean definitions. While this may not be part of the regular factory bootstrap, it does otherwise work fine." />
@@ -51,8 +53,6 @@
       <item value="problematic package." />
       <item value="PROBLEM PACKAGES" />
       <item value="prior to being" />
-      <item value="deduce From Classpath" />
-      <item value="Typical methods for creating and populating external bean instances" />
     </histories>
     <option name="languageScores">
       <map>
