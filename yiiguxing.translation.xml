@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="is Eligible" />
       <item value="post Process Application Context" />
       <item value="prepare Context" />
       <item value="application Startup" />
@@ -52,12 +53,11 @@
       <item value="invoke Bean Factory Post Processors" />
       <item value="Detect a LoadTimeWeaver and prepare for weaving, if found in the meantime (e.g. through an @Bean method registered by ConfigurationClassPostProcessor" />
       <item value="Invoke factory processors registered as beans" />
-      <item value="invoke Bean Definition Registry Post Processors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
-        <entry key="ENGLISH" value="1269" />
+        <entry key="CHINESE" value="1269" />
+        <entry key="ENGLISH" value="1270" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
