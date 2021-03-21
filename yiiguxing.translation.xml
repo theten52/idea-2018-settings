@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Apply the java-library plugin for API and implementation separation." />
       <item value="&gt; Plugin request for plugin already on the classpath must not include a version" />
       <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
       <item value="get Match Outcome" />
@@ -52,12 +53,11 @@
       <item value="Get the report early in case the context fails to load" />
       <item value="Your ApplicationContext is unlikely to start due to a @ComponentScan of" />
       <item value="get Component Scanning Packages" />
-      <item value="problematic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1297" />
-        <entry key="ENGLISH" value="1298" />
+        <entry key="CHINESE" value="1298" />
+        <entry key="ENGLISH" value="1299" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
