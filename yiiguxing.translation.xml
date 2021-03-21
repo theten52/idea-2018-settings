@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
+      <item value="get Match Outcome" />
       <item value="Where precedence is mentioned in methods such as addFirst and addLast, this is with regard to the order in which property sources will be searched when resolving a given property with a PropertyResolver." />
       <item value="mentioned" />
       <item value="Trigger post-initialization callback for all applicable beans... for" />
@@ -51,13 +53,11 @@
       <item value="get Component Scanning Packages" />
       <item value="problematic" />
       <item value="problematic package." />
-      <item value="PROBLEM PACKAGES" />
-      <item value="prior to being" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1294" />
-        <entry key="ENGLISH" value="1295" />
+        <entry key="CHINESE" value="1296" />
+        <entry key="ENGLISH" value="1297" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
