@@ -7,8 +7,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="wel" type="PLAIN_TEXT" />
-      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="PLAIN_TEXT" />
       <mapping pattern="使用手册" type="PLAIN_TEXT" />
+      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="PLAIN_TEXT" />
       <mapping pattern="WEB-INF/jsp/wel" type="PLAIN_TEXT" />
       <mapping ext="{83812e66-7b85-4403-af4c-223deb8a1b11}_alias" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
