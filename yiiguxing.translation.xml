@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Workspace associated with branch 'read_source_code_01' has been restored" />
       <item value="Instantiate" />
       <item value="use Config Value Editors" />
       <item value="is Synthetic" />
@@ -52,12 +53,11 @@
       <item value="Composite Property Source" />
       <item value="as Unmodifiable Ordered Set" />
       <item value="apply Initializers" />
-      <item value="For example, registering property sources or activating profiles against the {@linkplain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1308" />
-        <entry key="ENGLISH" value="1309" />
+        <entry key="CHINESE" value="1309" />
+        <entry key="ENGLISH" value="1310" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
