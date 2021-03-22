@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Do not accept a null value for a FactoryBean that's not fully initialized yet: Many FactoryBeans just return null then." />
+      <item value="Caches object obtained from FactoryBean if it is a singleton." />
+      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
       <item value="Preferred" />
       <item value="When prompted exclude the `spring-aspects` module" />
       <item value="prompted" />
@@ -50,14 +53,11 @@
       <item value="through an @Bean method registered by ConfigurationClassPostProcessor)" />
       <item value="meantime" />
       <item value="Invoke factory processors registered as beans in the context." />
-      <item value="Application Listener Detector" />
-      <item value="Configure the bean factory with context callbacks." />
-      <item value="add Property Editor Registrar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1324" />
-        <entry key="ENGLISH" value="1325" />
+        <entry key="CHINESE" value="1327" />
+        <entry key="ENGLISH" value="1328" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
