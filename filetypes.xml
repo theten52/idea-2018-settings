@@ -1,19 +1,20 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="wel" type="PLAIN_TEXT" />
-      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="PLAIN_TEXT" />
       <mapping pattern="使用手册" type="PLAIN_TEXT" />
+      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="PLAIN_TEXT" />
       <mapping pattern="WEB-INF/jsp/wel" type="PLAIN_TEXT" />
       <mapping ext="{83812e66-7b85-4403-af4c-223deb8a1b11}_alias" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="bak后缀食用" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
     </extensionMap>
   </component>
 </application>
