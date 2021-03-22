@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Preferred" />
       <item value="When prompted exclude the `spring-aspects` module" />
       <item value="prompted" />
       <item value="runtime JAR files in the classpath have the version 1.2, which is older than the API version 1.3. Consider using the runtime of version 1.3," />
@@ -52,12 +53,11 @@
       <item value="Application Listener Detector" />
       <item value="Configure the bean factory with context callbacks." />
       <item value="add Property Editor Registrar" />
-      <item value="prepare Bean Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1323" />
-        <entry key="ENGLISH" value="1324" />
+        <entry key="CHINESE" value="1324" />
+        <entry key="ENGLISH" value="1325" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
