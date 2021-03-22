@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Make sure bean class is actually resolved at this point, and clone the bean definition in case of a dynamically resolved Class which cannot be stored in the shared merged bean definition." />
+      <item value="record Suppressed Exceptions" />
       <item value="Do not accept a null value for a FactoryBean that's not fully initialized yet: Many FactoryBeans just return null then." />
       <item value="Caches object obtained from FactoryBean if it is a singleton." />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
@@ -51,13 +53,11 @@
       <item value="moving it to the end of the processor chain (for picking up proxies etc)." />
       <item value="Separate between BeanPostProcessors that implement PriorityOrdered," />
       <item value="through an @Bean method registered by ConfigurationClassPostProcessor)" />
-      <item value="meantime" />
-      <item value="Invoke factory processors registered as beans in the context." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1327" />
-        <entry key="ENGLISH" value="1328" />
+        <entry key="CHINESE" value="1329" />
+        <entry key="ENGLISH" value="1330" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
