@@ -85,9 +85,10 @@
       </google-translate>
     </option>
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
-        <option name="appId" value="20200402000411101" />
+        <option name="appId" value="3e88577f0b42e0b4" />
       </youdao-translate>
     </option>
   </component>
