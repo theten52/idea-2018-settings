@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="remove Singleton If Created For Type Check Only" />
+      <item value="allow Raw Injection Despite Wrapping" />
       <item value="post Process Before Instantiation" />
       <item value="determine Target Type" />
       <item value="Make sure bean class is actually resolved at this point." />
@@ -51,13 +53,11 @@
       <item value="Initialize conversion service for this context" />
       <item value="has Embedded Value Resolver" />
       <item value="Only set parent context as parent MessageSource if no parent MessageSource registered already." />
-      <item value="Initialize message source for this context. initMessageSource" />
-      <item value="Register bean processors that intercept bean creation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1333" />
-        <entry key="ENGLISH" value="1334" />
+        <entry key="CHINESE" value="1335" />
+        <entry key="ENGLISH" value="1336" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
