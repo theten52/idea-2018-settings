@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="Set our (possibly massaged) deep copy. try" />
       <item value="has Instantiation Aware Bean Post Processors" />
       <item value="Must generate CGLIB subclass." />
       <item value="remove Singleton If Created For Type Check Only" />
@@ -52,12 +53,11 @@
       <item value="Allow for caching all bean definition metadata, not expecting further changes." />
       <item value="Initialize LoadTimeWeaverAware beans early to allow for registering their transformers early." />
       <item value="Register a default embedded value resolver if no bean post-processor (such as a PropertyPlaceholderConfigurer bean) registered any before: at this point, primarily for resolution in annotation attribute values." />
-      <item value="Initialize conversion service for this context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1337" />
-        <entry key="ENGLISH" value="1338" />
+        <entry key="CHINESE" value="1338" />
+        <entry key="ENGLISH" value="1339" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
