@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="reassigned" />
       <item value="get Singleton Mutex" />
       <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
       <item value="as it is hardly ever used by application code." />
@@ -52,12 +53,11 @@
       <item value="Apply the java-library plugin for API and implementation separation." />
       <item value="&gt; Plugin request for plugin already on the classpath must not include a version" />
       <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
-      <item value="get Match Outcome" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1348" />
-        <entry key="ENGLISH" value="1349" />
+        <entry key="CHINESE" value="1349" />
+        <entry key="ENGLISH" value="1350" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
@@ -79,13 +79,7 @@
         <option name="appId" value="20200402000411101" />
       </app-key>
     </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
-    </option>
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="3e88577f0b42e0b4" />
