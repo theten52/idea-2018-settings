@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Runtime JAR files in the classpath have the version 1.2, which is older than the API version 1.4. Consider using the runtime of version 1.4, or pass '-api-version 1.2' explicitly to restrict the available APIs to the runtime of version 1.2. You can also pass '-language-version 1.2' instead, which will restrict not only the APIs to the specified version, but also the language features" />
       <item value="reassigned" />
       <item value="get Singleton Mutex" />
       <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
@@ -52,12 +53,11 @@
       <item value="Xml Bean Factory" />
       <item value="Apply the java-library plugin for API and implementation separation." />
       <item value="&gt; Plugin request for plugin already on the classpath must not include a version" />
-      <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1349" />
-        <entry key="ENGLISH" value="1350" />
+        <entry key="CHINESE" value="1350" />
+        <entry key="ENGLISH" value="1351" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
