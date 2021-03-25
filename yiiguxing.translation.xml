@@ -1,10 +1,48 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="686" />
-    <option name="newTranslationDialogY" value="469" />
+    <option name="newTranslationDialogX" value="1005" />
+    <option name="newTranslationDialogY" value="145" />
     <histories>
-      <item value="use Config Value Editors" />
+      <item value="get Singleton Mutex" />
+      <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
+      <item value="as it is hardly ever used by application code." />
+      <item value="particularly" />
+      <item value="wire" />
+      <item value="leverage" />
+      <item value="Integration" />
+      <item value="fashion" />
+      <item value="corresponding" />
+      <item value="Set our (possibly massaged) deep copy. try" />
+      <item value="has Instantiation Aware Bean Post Processors" />
+      <item value="Must generate CGLIB subclass." />
+      <item value="remove Singleton If Created For Type Check Only" />
+      <item value="allow Raw Injection Despite Wrapping" />
+      <item value="post Process Before Instantiation" />
+      <item value="determine Target Type" />
+      <item value="Make sure bean class is actually resolved at this point." />
       <item value="is Synthetic" />
+      <item value="Make sure bean class is actually resolved at this point, and clone the bean definition in case of a dynamically resolved Class which cannot be stored in the shared merged bean definition." />
+      <item value="record Suppressed Exceptions" />
+      <item value="Do not accept a null value for a FactoryBean that's not fully initialized yet: Many FactoryBeans just return null then." />
+      <item value="Caches object obtained from FactoryBean if it is a singleton." />
+      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
+      <item value="Preferred" />
+      <item value="When prompted exclude the `spring-aspects` module" />
+      <item value="prompted" />
+      <item value="runtime JAR files in the classpath have the version 1.2, which is older than the API version 1.3. Consider using the runtime of version 1.3," />
+      <item value="You'll notice these files are already intentionally in .gitignore. The same policy goes for eclipse metadata." />
+      <item value="please do not check in your own generated .iml, .ipr, or .iws files." />
+      <item value="If you invoke &quot;Rebuild Project&quot; in the IDE, you'll have to generate some test resources of the `spring-oxm` module again" />
+      <item value="you will likely need to set the following VM options to avoid out of memory errors: -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m" />
+      <item value="Resolving this is a work in progress. If attempting to run all JUnit tests from within IntelliJ IDEA," />
+      <item value="While JUnit tests pass from the command line with Gradle, some may fail when run from IntelliJ IDEA." />
+      <item value="In the meantime, the 'spring-aspects' can be excluded from the project to avoid compilation errors." />
+      <item value="`spring-aspects` does not compile due to references to aspect types unknown to IntelliJ IDEA." />
+      <item value="(or after the import via File-&gt; Project Structure -&gt; Modules)" />
+      <item value="Precompile" />
+      <item value="Workspace associated with branch 'read_source_code_01' has been restored" />
+      <item value="Instantiate" />
+      <item value="use Config Value Editors" />
       <item value="&quot;(Do not request a bean from a BeanFactory in a destroy method implementation!)&quot;);" />
       <item value="&quot;Singleton bean creation not allowed while singletons of this factory are in destruction &quot; +" />
       <item value="We're assumably within a circular reference." />
@@ -15,49 +53,11 @@
       <item value="&gt; Plugin request for plugin already on the classpath must not include a version" />
       <item value="Detect if the user has created a MultipartResolver but named it incorrectly" />
       <item value="get Match Outcome" />
-      <item value="Where precedence is mentioned in methods such as addFirst and addLast, this is with regard to the order in which property sources will be searched when resolving a given property with a PropertyResolver." />
-      <item value="mentioned" />
-      <item value="Trigger post-initialization callback for all applicable beans... for" />
-      <item value="Trigger post-initialization callback for all applicable beans..." />
-      <item value="} Iterate over a copy to allow for init methods which in turn register new bean definitions. While this may not be part of the regular factory bootstrap, it does otherwise work fine." />
-      <item value="Instantiate all remaining (non-lazy-init) singletons." />
-      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
-      <item value="Initialize LoadTimeWeaverAware beans early to allow for registering their transformers early." />
-      <item value="Register a default embedded value resolver if no bean post-processor (such as a PropertyPlaceholderConfigurer bean) registered any before: at this point, primarily for resolution in annotation attribute values." />
-      <item value="Initialize conversion service for this context" />
-      <item value="has Embedded Value Resolver" />
-      <item value="Only set parent context as parent MessageSource if no parent MessageSource registered already." />
-      <item value="Initialize message source for this context. initMessageSource" />
-      <item value="Register bean processors that intercept bean creation." />
-      <item value="moving it to the end of the processor chain (for picking up proxies etc)." />
-      <item value="Separate between BeanPostProcessors that implement PriorityOrdered," />
-      <item value="through an @Bean method registered by ConfigurationClassPostProcessor)" />
-      <item value="meantime" />
-      <item value="Invoke factory processors registered as beans in the context." />
-      <item value="Application Listener Detector" />
-      <item value="Configure the bean factory with context callbacks." />
-      <item value="add Property Editor Registrar" />
-      <item value="prepare Bean Factory" />
-      <item value="Allow for the collection of early ApplicationEvents, to be published once the multicaster is available..." />
-      <item value="Validate that all properties marked as required are resolvable: see ConfigurablePropertyResolversetRequiredProperties" />
-      <item value="is Eligible" />
-      <item value="post Process Application Context" />
-      <item value="prepare Context" />
-      <item value="application Startup" />
-      <item value="Register as ServletContext attribute, for ContextCleanupListener to detect it." />
-      <item value="post Process After Initialization" />
-      <item value="post Process Before Initialization" />
-      <item value="Create and configure the environment" />
-      <item value="Composite Property Source" />
-      <item value="as Unmodifiable Ordered Set" />
-      <item value="apply Initializers" />
-      <item value="For example, registering property sources or activating profiles against the {@linkplain" />
-      <item value="against the {@linkplain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1307" />
-        <entry key="ENGLISH" value="1308" />
+        <entry key="CHINESE" value="1348" />
+        <entry key="ENGLISH" value="1349" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
@@ -82,14 +82,13 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="ESPERANTO" />
-        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="BAIDU" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
-        <option name="appId" value="20200402000411101" />
+        <option name="appId" value="3e88577f0b42e0b4" />
       </youdao-translate>
     </option>
   </component>
