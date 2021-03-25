@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Introduction Advisor" />
+      <item value="eligible Advisors" />
       <item value="Runtime JAR files in the classpath have the version 1.2, which is older than the API version 1.4. Consider using the runtime of version 1.4, or pass '-api-version 1.2' explicitly to restrict the available APIs to the runtime of version 1.2. You can also pass '-language-version 1.2' instead, which will restrict not only the APIs to the specified version, but also the language features" />
       <item value="reassigned" />
       <item value="get Singleton Mutex" />
@@ -51,13 +53,11 @@
       <item value="Fail if we're already creating this bean instance:" />
       <item value="Eagerly check singleton cache for manually registered singletons." />
       <item value="Xml Bean Factory" />
-      <item value="Apply the java-library plugin for API and implementation separation." />
-      <item value="&gt; Plugin request for plugin already on the classpath must not include a version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1350" />
-        <entry key="ENGLISH" value="1351" />
+        <entry key="CHINESE" value="1352" />
+        <entry key="ENGLISH" value="1353" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
