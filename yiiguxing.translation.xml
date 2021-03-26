@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="You can more easily share containers in your organization, set granular access permissions, and anonymously access public container images. Additionally, layers are shared between images across GitHub." />
       <item value="test" />
       <item value="ce" />
       <item value="Decorating Proxy" />
@@ -52,7 +53,6 @@
       <item value="In the meantime, the 'spring-aspects' can be excluded from the project to avoid compilation errors." />
       <item value="`spring-aspects` does not compile due to references to aspect types unknown to IntelliJ IDEA." />
       <item value="(or after the import via File-&gt; Project Structure -&gt; Modules)" />
-      <item value="Precompile" />
     </histories>
     <option name="languageScores">
       <map>
