@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="delegate" />
+      <item value="This method never fails, allowing to try other possible ways to use an server-agnostic weaver. This non-failure logic is required since determining a load-time weaver based on the ClassLoader name alone may legitimately fail due to other mismatches." />
       <item value="is Bean Configurer Aspect Enabled" />
       <item value="You can more easily share containers in your organization, set granular access permissions, and anonymously access public container images. Additionally, layers are shared between images across GitHub." />
       <item value="test" />
@@ -51,13 +53,11 @@
       <item value="you will likely need to set the following VM options to avoid out of memory errors: -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m" />
       <item value="Resolving this is a work in progress. If attempting to run all JUnit tests from within IntelliJ IDEA," />
       <item value="While JUnit tests pass from the command line with Gradle, some may fail when run from IntelliJ IDEA." />
-      <item value="In the meantime, the 'spring-aspects' can be excluded from the project to avoid compilation errors." />
-      <item value="`spring-aspects` does not compile due to references to aspect types unknown to IntelliJ IDEA." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1360" />
-        <entry key="ENGLISH" value="1361" />
+        <entry key="CHINESE" value="1362" />
+        <entry key="ENGLISH" value="1363" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
