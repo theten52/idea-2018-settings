@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Is aware of a corresponding Connection bound to the current thread, for example when using DataSourceTransactionManager." />
+      <item value="corresponding" />
+      <item value="Is aware of a corresponding Connection bound to the current thread," />
+      <item value="simplifying calling code and making any exception that is thrown more meaningful.&#10;" />
       <item value="delegate" />
       <item value="This method never fails, allowing to try other possible ways to use an server-agnostic weaver. This non-failure logic is required since determining a load-time weaver based on the ClassLoader name alone may legitimately fail due to other mismatches." />
       <item value="is Bean Configurer Aspect Enabled" />
@@ -28,7 +32,6 @@
       <item value="leverage" />
       <item value="Integration" />
       <item value="fashion" />
-      <item value="corresponding" />
       <item value="Set our (possibly massaged) deep copy. try" />
       <item value="has Instantiation Aware Bean Post Processors" />
       <item value="Must generate CGLIB subclass." />
@@ -50,9 +53,6 @@
       <item value="You'll notice these files are already intentionally in .gitignore. The same policy goes for eclipse metadata." />
       <item value="please do not check in your own generated .iml, .ipr, or .iws files." />
       <item value="If you invoke &quot;Rebuild Project&quot; in the IDE, you'll have to generate some test resources of the `spring-oxm` module again" />
-      <item value="you will likely need to set the following VM options to avoid out of memory errors: -XX:MaxPermSize=2048m -Xmx2048m -XX:MaxHeapSize=2048m" />
-      <item value="Resolving this is a work in progress. If attempting to run all JUnit tests from within IntelliJ IDEA," />
-      <item value="While JUnit tests pass from the command line with Gradle, some may fail when run from IntelliJ IDEA." />
     </histories>
     <option name="languageScores">
       <map>
