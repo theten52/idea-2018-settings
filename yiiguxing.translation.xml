@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Use stack to restore old transaction TransactionInfo. Will be null if none was set." />
+      <item value="Expose current TransactionStatus, preserving any existing TransactionStatus for restoration after this transaction is complete." />
+      <item value="joinpoint Identification" />
+      <item value="NOTE: This class must not implement Serializable because it serves as base class for AspectJ aspects (which are not allowed to implement Serializable)!" />
+      <item value="serves" />
+      <item value="aspect" />
       <item value="find Candidate Advisors" />
       <item value="find Eligible Advisors" />
       <item value="advisors" />
@@ -47,17 +53,11 @@
       <item value="TODO: Consider optimization by caching the list of the aspect names" />
       <item value="Build Advisors for all AspectJ aspects in the bean factory." />
       <item value="Add all the Spring advisors found according to superclass rules." />
-      <item value="Introduction Advisor" />
-      <item value="eligible Advisors" />
-      <item value="Runtime JAR files in the classpath have the version 1.2, which is older than the API version 1.4. Consider using the runtime of version 1.4, or pass '-api-version 1.2' explicitly to restrict the available APIs to the runtime of version 1.2. You can also pass '-language-version 1.2' instead, which will restrict not only the APIs to the specified version, but also the language features" />
-      <item value="reassigned" />
-      <item value="get Singleton Mutex" />
-      <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1389" />
-        <entry key="ENGLISH" value="1390" />
+        <entry key="CHINESE" value="1395" />
+        <entry key="ENGLISH" value="1396" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
