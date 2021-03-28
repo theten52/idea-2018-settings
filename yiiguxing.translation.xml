@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="immutable Values" />
       <item value="This module also builds Kotlin code and the compileKotlin task naturally depends on compileJava. We need to redefine dependencies to break task cycles." />
       <item value="When prompted exclude the spring-aspects module (or after the import via File-&gt; Project Structure -&gt; Modules)&#10;Code away" />
       <item value="Kotlin: API version 1.2 is no longer supported; please, use version 1.3 or greater." />
@@ -52,12 +53,11 @@
       <item value="Caches object obtained from FactoryBean if it is a singleton." />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
       <item value="Preferred" />
-      <item value="When prompted exclude the `spring-aspects` module" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1367" />
-        <entry key="ENGLISH" value="1368" />
+        <entry key="CHINESE" value="1368" />
+        <entry key="ENGLISH" value="1369" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
