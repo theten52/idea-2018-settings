@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="advisors" />
+      <item value="advices" />
+      <item value="when actually in proxy mode." />
+      <item value="introduce an AOP framework dependency when actually in proxy mode." />
+      <item value="Inner class to just introduce an AOP framework dependency when actually in proxy mode." />
+      <item value="introduce" />
+      <item value="surrounding" />
+      <item value="Composite Component Definition" />
       <item value="Use defaults if no transaction definition given." />
       <item value="init User Transaction And Transaction Manager" />
       <item value="BeanDefinitionRegistries are called early in application startup, before BeanFactoryPostProcessors. This means that PropertyResourceConfigurers will not have been loaded and any property substitution of this class' properties will fail. To avoid this, find any PropertyResourceConfigurers defined in the context and run them on this class' bean definition. Then update the values." />
@@ -45,19 +53,11 @@
       <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
       <item value="as it is hardly ever used by application code." />
       <item value="particularly" />
-      <item value="wire" />
-      <item value="leverage" />
-      <item value="Integration" />
-      <item value="fashion" />
-      <item value="Set our (possibly massaged) deep copy. try" />
-      <item value="has Instantiation Aware Bean Post Processors" />
-      <item value="Must generate CGLIB subclass." />
-      <item value="remove Singleton If Created For Type Check Only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1379" />
-        <entry key="ENGLISH" value="1380" />
+        <entry key="CHINESE" value="1387" />
+        <entry key="ENGLISH" value="1388" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
