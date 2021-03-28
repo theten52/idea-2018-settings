@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="find Candidate Advisors" />
+      <item value="find Eligible Advisors" />
       <item value="advisors" />
       <item value="advices" />
       <item value="when actually in proxy mode." />
@@ -51,13 +53,11 @@
       <item value="reassigned" />
       <item value="get Singleton Mutex" />
       <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
-      <item value="as it is hardly ever used by application code." />
-      <item value="particularly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1387" />
-        <entry key="ENGLISH" value="1388" />
+        <entry key="CHINESE" value="1389" />
+        <entry key="ENGLISH" value="1390" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
