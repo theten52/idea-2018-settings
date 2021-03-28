@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Let concrete implementations initialize themselves." />
+      <item value="Let abstract subclasses check their configuration." />
       <item value="finish Bean Factory Initialization" />
       <item value="InputStream inputStream = Resources.getResourceAsStream(resource); SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream); try (SqlSession sqlSession = sqlSessionFactory.openSession()) { UserMapper mapper = sqlSession.getMapper(UserMapper.class); User user = mapper.selectUser(1); System.out.println(user); } }" />
       <item value="Public Key Retrieval is not allowed" />
@@ -51,13 +53,11 @@
       <item value="allow Raw Injection Despite Wrapping" />
       <item value="post Process Before Instantiation" />
       <item value="determine Target Type" />
-      <item value="Make sure bean class is actually resolved at this point." />
-      <item value="is Synthetic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1374" />
-        <entry key="ENGLISH" value="1375" />
+        <entry key="CHINESE" value="1376" />
+        <entry key="ENGLISH" value="1377" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
