@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Tooling related information for the mvc namespace" />
       <item value="&quot;Transaction silently rolled back because it has been marked as rollback-only&quot;);" />
       <item value="Unexpected rollback only matters here if we're asked to fail early" />
       <item value="Participating in larger transaction" />
@@ -52,12 +53,11 @@
       <item value="simplifying calling code and making any exception that is thrown more meaningful.&#10;" />
       <item value="delegate" />
       <item value="This method never fails, allowing to try other possible ways to use an server-agnostic weaver. This non-failure logic is required since determining a load-time weaver based on the ClassLoader name alone may legitimately fail due to other mismatches." />
-      <item value="is Bean Configurer Aspect Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1405" />
-        <entry key="ENGLISH" value="1406" />
+        <entry key="CHINESE" value="1406" />
+        <entry key="ENGLISH" value="1407" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
