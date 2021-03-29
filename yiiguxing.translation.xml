@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Configuration on demand is an incubating feature. &gt;" />
+      <item value="setcwd" />
       <item value="Full details will be found in the appropriate container log file" />
       <item value="Tooling related information for the mvc namespace" />
       <item value="&quot;Transaction silently rolled back because it has been marked as rollback-only&quot;);" />
@@ -51,13 +53,11 @@
       <item value="Is aware of a corresponding Connection bound to the current thread, for example when using DataSourceTransactionManager." />
       <item value="corresponding" />
       <item value="Is aware of a corresponding Connection bound to the current thread," />
-      <item value="simplifying calling code and making any exception that is thrown more meaningful.&#10;" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1407" />
-        <entry key="ENGLISH" value="1408" />
+        <entry key="CHINESE" value="1409" />
+        <entry key="ENGLISH" value="1410" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
