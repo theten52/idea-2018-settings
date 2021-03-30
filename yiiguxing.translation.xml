@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="aspects does not compile due to references to aspect types unknown to IntelliJ IDEA" />
+      <item value="spring-aspects does not compile due to references to aspect types unknown to IntelliJ IDEA" />
+      <item value="When prompted exclude the spring-aspects module (or after the import via File-&gt; Project Structure -&gt; Modules)" />
       <item value="Spring ObjectXML Marshalling&quot;" />
       <item value="Marshalling" />
       <item value="Configuration on demand is an incubating feature. &gt;" />
@@ -50,9 +53,6 @@
       <item value="This module also builds Kotlin code and the compileKotlin task naturally depends on compileJava. We need to redefine dependencies to break task cycles." />
       <item value="When prompted exclude the spring-aspects module (or after the import via File-&gt; Project Structure -&gt; Modules)&#10;Code away" />
       <item value="Kotlin: API version 1.2 is no longer supported; please, use version 1.3 or greater." />
-      <item value="IMPLIED" />
-      <item value="should Generate Id As Fallback" />
-      <item value="Is aware of a corresponding Connection bound to the current thread, for example when using DataSourceTransactionManager." />
     </histories>
     <option name="languageScores">
       <map>
