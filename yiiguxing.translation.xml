@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Spring ObjectXML Marshalling&quot;" />
+      <item value="Marshalling" />
       <item value="Configuration on demand is an incubating feature. &gt;" />
       <item value="setcwd" />
       <item value="Full details will be found in the appropriate container log file" />
@@ -51,13 +53,11 @@
       <item value="IMPLIED" />
       <item value="should Generate Id As Fallback" />
       <item value="Is aware of a corresponding Connection bound to the current thread, for example when using DataSourceTransactionManager." />
-      <item value="corresponding" />
-      <item value="Is aware of a corresponding Connection bound to the current thread," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1409" />
-        <entry key="ENGLISH" value="1410" />
+        <entry key="CHINESE" value="1411" />
+        <entry key="ENGLISH" value="1412" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
