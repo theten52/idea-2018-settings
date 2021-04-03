@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="具体中介者" />
       <item value="excluded Exceptions" />
       <item value="My Dummy Adapter" />
       <item value="This interface is not intended for application developers. It is available to handlers who want to develop their own web workflow." />
@@ -52,12 +53,11 @@
       <item value="Let concrete implementations initialize themselves." />
       <item value="Let abstract subclasses check their configuration." />
       <item value="finish Bean Factory Initialization" />
-      <item value="InputStream inputStream = Resources.getResourceAsStream(resource); SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(inputStream); try (SqlSession sqlSession = sqlSessionFactory.openSession()) { UserMapper mapper = sqlSession.getMapper(UserMapper.class); User user = mapper.selectUser(1); System.out.println(user); } }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1419" />
-        <entry key="ENGLISH" value="1420" />
+        <entry key="CHINESE" value="1420" />
+        <entry key="ENGLISH" value="1421" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
