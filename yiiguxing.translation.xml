@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="load Installed" />
       <item value="具体中介者" />
       <item value="excluded Exceptions" />
       <item value="My Dummy Adapter" />
@@ -52,12 +53,11 @@
       <item value="BeanDefinitionRegistries are called early in application startup, before BeanFactoryPostProcessors. This means that PropertyResourceConfigurers will not have been loaded and any property substitution of this class' properties will fail. To avoid this, find any PropertyResourceConfigurers defined in the context and run them on this class' bean definition. Then update the values." />
       <item value="Let concrete implementations initialize themselves." />
       <item value="Let abstract subclasses check their configuration." />
-      <item value="finish Bean Factory Initialization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1420" />
-        <entry key="ENGLISH" value="1421" />
+        <entry key="CHINESE" value="1421" />
+        <entry key="ENGLISH" value="1422" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617198046388" />
+    <option name="lastTrimTime" value="1617633147497" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
