@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="try to load from ExtensionLoader's ClassLoader first" />
       <item value="occurred" />
       <item value="load Installed" />
       <item value="具体中介者" />
@@ -52,12 +53,11 @@
       <item value="Use defaults if no transaction definition given." />
       <item value="init User Transaction And Transaction Manager" />
       <item value="BeanDefinitionRegistries are called early in application startup, before BeanFactoryPostProcessors. This means that PropertyResourceConfigurers will not have been loaded and any property substitution of this class' properties will fail. To avoid this, find any PropertyResourceConfigurers defined in the context and run them on this class' bean definition. Then update the values." />
-      <item value="Let concrete implementations initialize themselves." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1422" />
-        <entry key="ENGLISH" value="1423" />
+        <entry key="CHINESE" value="1423" />
+        <entry key="ENGLISH" value="1424" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
