@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="load Initial Drivers" />
       <item value="Balanced Clickhouse Driver" />
       <item value="is Driver Allowed" />
       <item value="Load the initial JDBC drivers by checking the System property jdbc.properties and then use the {@code ServiceLoader} mechanism" />
@@ -52,12 +53,11 @@
       <item value="advices" />
       <item value="when actually in proxy mode." />
       <item value="introduce an AOP framework dependency when actually in proxy mode." />
-      <item value="Inner class to just introduce an AOP framework dependency when actually in proxy mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1429" />
-        <entry key="ENGLISH" value="1430" />
+        <entry key="CHINESE" value="1430" />
+        <entry key="ENGLISH" value="1431" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
