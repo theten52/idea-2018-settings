@@ -8,12 +8,12 @@
     </filter>
     <filter>
       <option name="PATTERN" value="java.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
       <option name="PATTERN" value="javax.*" />
-      <option name="ENABLED" value="true" />
+      <option name="ENABLED" value="false" />
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
