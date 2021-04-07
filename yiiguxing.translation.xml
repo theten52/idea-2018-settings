@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="get Supported Extensions" />
       <item value="cache Default Extension Name" />
       <item value="get Adaptive Extension" />
       <item value="try to load from ExtensionLoader's ClassLoader first" />
@@ -52,12 +53,11 @@
       <item value="NOTE: This class must not implement Serializable because it serves as base class for AspectJ aspects (which are not allowed to implement Serializable)!" />
       <item value="serves" />
       <item value="aspect" />
-      <item value="find Candidate Advisors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1436" />
-        <entry key="ENGLISH" value="1437" />
+        <entry key="CHINESE" value="1437" />
+        <entry key="ENGLISH" value="1438" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
