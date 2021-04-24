@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Create proxy if we have advice." />
       <item value="Create proxy here if we have a custom TargetSource. Suppresses unnecessary default instantiation of the target bean: The TargetSource will handle target instances in a custom fashion." />
       <item value="finish Bean Factory Initialization" />
       <item value="Register bean processors that intercept bean creation." />
@@ -52,7 +53,6 @@
       <item value="obey" />
       <item value="extensible" />
       <item value="MVC framework SPI, allowing parameterization of the core MVC workflow." />
-      <item value="Process 'command 'git'' finished with non-zero exit value 128" />
     </histories>
     <option name="languageScores">
       <map>
