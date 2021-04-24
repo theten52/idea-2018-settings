@@ -3,6 +3,21 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Guarantee initialization of beans that the current bean depends on." />
+      <item value="is Prototype Currently In Creation" />
+      <item value="Temporarily return non-post-processed object, not storing it yet.." />
+      <item value="Do not accept a null value for a FactoryBean that's not fully initialized yet: Many FactoryBeans just return null then." />
+      <item value="is Singleton Currently In Creation" />
+      <item value="already There" />
+      <item value="get Singleton Mutex" />
+      <item value="contains Bean Definition" />
+      <item value="synthetic" />
+      <item value="Now we have the bean instance, which may be a normal bean or a FactoryBean. If it's a FactoryBean, we use it to create a bean instance, unless the caller actually wants a reference to the factory." />
+      <item value="which may be a normal bean or a FactoryBean." />
+      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
+      <item value="a consequence of a circular reference" />
+      <item value="canonical Name" />
+      <item value="compute If Absent" />
       <item value="Eagerly check singleton cache for manually registered singletons" />
       <item value="Activate" />
       <item value="get Supported Extensions" />
@@ -38,21 +53,6 @@
       <item value="Configuration on demand is an incubating feature. &gt;" />
       <item value="setcwd" />
       <item value="Full details will be found in the appropriate container log file" />
-      <item value="Tooling related information for the mvc namespace" />
-      <item value="&quot;Transaction silently rolled back because it has been marked as rollback-only&quot;);" />
-      <item value="Unexpected rollback only matters here if we're asked to fail early" />
-      <item value="Participating in larger transaction" />
-      <item value="(&quot;Participating in existing transaction&quot;);" />
-      <item value="get Transaction Synchronization" />
-      <item value="demarcation" />
-      <item value="Adapt to TransactionAspectSupport's invokeWithinTransaction..." />
-      <item value="The TransactionAttributeSource should be passed the target class as well as the method, which may be from an interface." />
-      <item value="Work out the target class: may be {@code null}." />
-      <item value="Alliance" />
-      <item value="Use stack to restore old transaction TransactionInfo. Will be null if none was set." />
-      <item value="Expose current TransactionStatus, preserving any existing TransactionStatus for restoration after this transaction is complete." />
-      <item value="joinpoint Identification" />
-      <item value="NOTE: This class must not implement Serializable because it serves as base class for AspectJ aspects (which are not allowed to implement Serializable)!" />
     </histories>
     <option name="languageScores">
       <map>
