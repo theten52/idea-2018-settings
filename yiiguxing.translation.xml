@@ -3,11 +3,16 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="apply Bean Post Processors Before Initialization" />
+      <item value="Initialize the bean instance." />
+      <item value="is Singleton Currently In Creation" />
+      <item value="Eagerly cache singletons to be able to resolve circular references even when triggered by lifecycle interfaces like BeanFactoryAware." />
+      <item value="Allow post-processors to modify the merged bean definition." />
+      <item value="Don't override the class with CGLIB if no overrides." />
       <item value="Guarantee initialization of beans that the current bean depends on." />
       <item value="is Prototype Currently In Creation" />
       <item value="Temporarily return non-post-processed object, not storing it yet.." />
       <item value="Do not accept a null value for a FactoryBean that's not fully initialized yet: Many FactoryBeans just return null then." />
-      <item value="is Singleton Currently In Creation" />
       <item value="already There" />
       <item value="get Singleton Mutex" />
       <item value="contains Bean Definition" />
@@ -48,11 +53,6 @@
       <item value="aspects does not compile due to references to aspect types unknown to IntelliJ IDEA" />
       <item value="spring-aspects does not compile due to references to aspect types unknown to IntelliJ IDEA" />
       <item value="When prompted exclude the spring-aspects module (or after the import via File-&gt; Project Structure -&gt; Modules)" />
-      <item value="Spring ObjectXML Marshalling&quot;" />
-      <item value="Marshalling" />
-      <item value="Configuration on demand is an incubating feature. &gt;" />
-      <item value="setcwd" />
-      <item value="Full details will be found in the appropriate container log file" />
     </histories>
     <option name="languageScores">
       <map>
