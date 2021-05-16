@@ -234,9 +234,13 @@
           <option name="url" value="https://github.com/junit-team/junit5-samples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/seata/seata.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/junit-team" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/seata" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
