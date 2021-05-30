@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="The Resources Plugin handles the copying of project resources to the output directory. There are two different kinds of resources: main resources and test resources. The difference is that the main resources are the resources associated with the main source code while the test resources are associated with the test source code. Thus, this allows the separation of resources for the main source code and its unit tests." />
       <item value="Create proxy if we have advice." />
       <item value="Create proxy here if we have a custom TargetSource. Suppresses unnecessary default instantiation of the target bean: The TargetSource will handle target instances in a custom fashion." />
       <item value="finish Bean Factory Initialization" />
@@ -52,12 +53,11 @@
       <item value="intended" />
       <item value="obey" />
       <item value="extensible" />
-      <item value="MVC framework SPI, allowing parameterization of the core MVC workflow." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1438" />
-        <entry key="ENGLISH" value="1439" />
+        <entry key="CHINESE" value="1439" />
+        <entry key="ENGLISH" value="1440" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
