@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="library Path" />
       <item value="requires Dependency Collection" />
       <item value="instantiation Strategy" />
       <item value="requires Dependency Resolution" />
@@ -52,12 +53,11 @@
       <item value="具体中介者" />
       <item value="excluded Exceptions" />
       <item value="My Dummy Adapter" />
-      <item value="This interface is not intended for application developers. It is available to handlers who want to develop their own web workflow." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1442" />
-        <entry key="ENGLISH" value="1443" />
+        <entry key="CHINESE" value="1443" />
+        <entry key="ENGLISH" value="1444" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
