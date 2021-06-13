@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="internal Assert Not Null" />
+      <item value="suppress inspection &quot;UnusedProperty&quot; for whole file" />
+      <item value="Power Mock Internal Exception" />
       <item value="internal java compiler error" />
       <item value="按操作系统区分本地方法库" />
       <item value="variable" />
@@ -50,14 +53,11 @@
       <item value="cached Activates" />
       <item value="load Initial Drivers" />
       <item value="Balanced Clickhouse Driver" />
-      <item value="is Driver Allowed" />
-      <item value="Load the initial JDBC drivers by checking the System property jdbc.properties and then use the {@code ServiceLoader} mechanism" />
-      <item value="Attempts to locate a driver that understands the given URL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1450" />
-        <entry key="ENGLISH" value="1451" />
+        <entry key="CHINESE" value="1453" />
+        <entry key="ENGLISH" value="1454" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
