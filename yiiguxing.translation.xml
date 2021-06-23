@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="except Error" />
       <item value="Incubating" />
       <item value="verify Zero Interactions" />
       <item value="internal Assert Not Null" />
@@ -52,12 +53,11 @@
       <item value="try to load from ExtensionLoader's ClassLoader first" />
       <item value="get Adaptive Extension Class" />
       <item value="create Adaptive Extension" />
-      <item value="cached Activates" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1455" />
-        <entry key="ENGLISH" value="1456" />
+        <entry key="CHINESE" value="1456" />
+        <entry key="ENGLISH" value="1457" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
