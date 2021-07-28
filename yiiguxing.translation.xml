@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Eagerly check singleton cache for manually registered singletons" />
+      <item value="post Process After Initialization" />
+      <item value="synthetic" />
+      <item value="is Factory Dereference" />
       <item value="treeify Bin" />
       <item value="TREEIFY THRESHOLD" />
       <item value="only If Absent" />
@@ -45,19 +49,15 @@
       <item value="already There" />
       <item value="get Singleton Mutex" />
       <item value="contains Bean Definition" />
-      <item value="synthetic" />
       <item value="Now we have the bean instance, which may be a normal bean or a FactoryBean. If it's a FactoryBean, we use it to create a bean instance, unless the caller actually wants a reference to the factory." />
       <item value="which may be a normal bean or a FactoryBean." />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
       <item value="a consequence of a circular reference" />
-      <item value="canonical Name" />
-      <item value="compute If Absent" />
-      <item value="Eagerly check singleton cache for manually registered singletons" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1463" />
-        <entry key="ENGLISH" value="1464" />
+        <entry key="CHINESE" value="1467" />
+        <entry key="ENGLISH" value="1468" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
