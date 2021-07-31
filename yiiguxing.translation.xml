@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ENABLED OVERRIDE PROPERTY" />
       <item value="having Value" />
       <item value="collect Imports" />
       <item value="determine Imports" />
@@ -53,12 +54,11 @@
       <item value="The Resources Plugin handles the copying of project resources to the output directory. There are two different kinds of resources: main resources and test resources. The difference is that the main resources are the resources associated with the main source code while the test resources are associated with the test source code. Thus, this allows the separation of resources for the main source code and its unit tests." />
       <item value="Create proxy if we have advice." />
       <item value="Create proxy here if we have a custom TargetSource. Suppresses unnecessary default instantiation of the target bean: The TargetSource will handle target instances in a custom fashion." />
-      <item value="finish Bean Factory Initialization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1485" />
-        <entry key="ENGLISH" value="1486" />
+        <entry key="CHINESE" value="1486" />
+        <entry key="ENGLISH" value="1487" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
