@@ -2,10 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.4/ada10e38f36f6dd6e94ec4d2978ff29edecac535/spring-beans-5.3.4-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java [Gradle: org.springframework:spring-beans:5.3.4]'" />
     <option name="defaultScopeName" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.4/ada10e38f36f6dd6e94ec4d2978ff29edecac535/spring-beans-5.3.4-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java [Gradle: org.springframework:spring-beans:5.3.4]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.4/ada10e38f36f6dd6e94ec4d2978ff29edecac535/spring-beans-5.3.4-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java [Gradle: org.springframework:spring-beans:5.3.4]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
