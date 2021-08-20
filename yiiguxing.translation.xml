@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A releaseShared should be propagated to other nodes. This is set (for head node only) in doReleaseShared to ensure propagation continues, even if other operations have since intervened." />
+      <item value="Use of this value here has nothing to do with the other uses of the field, but simplifies mechanics." />
+      <item value="Use of this value here has nothing to do with the other uses of the field," />
+      <item value="but simplifies mechanics." />
+      <item value="transferred" />
+      <item value="intervened" />
       <item value="do Release Shared" />
       <item value="Propagation was indicated by caller" />
       <item value="successor" />
@@ -48,17 +54,11 @@
       <item value="TREEIFY THRESHOLD" />
       <item value="only If Absent" />
       <item value="load Factor" />
-      <item value="initial Capacity" />
-      <item value="MIN TREEIFY CAPACITY" />
-      <item value="expand" />
-      <item value="except Error" />
-      <item value="Incubating" />
-      <item value="verify Zero Interactions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1504" />
-        <entry key="ENGLISH" value="1505" />
+        <entry key="CHINESE" value="1510" />
+        <entry key="ENGLISH" value="1511" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
