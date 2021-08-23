@@ -3,6 +3,21 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Publish the final event." />
+      <item value="Internal helpers" />
+      <item value="Last step: publish corresponding event." />
+      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
+      <item value="Stop using the temporary ClassLoader for type matching." />
+      <item value="Initialize LoadTimeWeaverAware beans early to allow for registering their transformers early." />
+      <item value="Register a default embedded value resolver if no bean post-processor (such as a PropertyPlaceholderConfigurer bean) registered any before: at this point, primarily for resolution in annotation attribute values." />
+      <item value="Instantiate all remaining (non-lazy-init) singletons." />
+      <item value="Publish early application events now that we finally have a multicaster..." />
+      <item value="Do not initialize FactoryBeans here: We need to leave all regular beans uninitialized to let post-processors apply to them!" />
+      <item value="Check for listener beans and register them." />
+      <item value="Initialize other special beans in specific context subclasses." />
+      <item value="Simple Application Event Multicaster" />
+      <item value="nitialize event multicaster for this context." />
+      <item value="Initialize message source for this context." />
       <item value="Re-register post-processor for detecting inner beans as ApplicationListeners, moving it to the end of the processor chain (for picking up proxies etc)." />
       <item value="Separate between BeanPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
       <item value="Register BeanPostProcessorChecker that logs an info message when a bean is created during BeanPostProcessor instantiation, i.e. when a bean is not eligible for getting processed by all BeanPostProcessors." />
@@ -38,26 +53,11 @@
       <item value="prepare Environment" />
       <item value="circumstances" />
       <item value="deduce Main Application Class" />
-      <item value="we don't need to do so to check if current thread is owner" />
-      <item value="While we must in general read state before owner," />
-      <item value="While" />
-      <item value="is Held Exclusively" />
-      <item value="A releaseShared should be propagated to other nodes. This is set (for head node only) in doReleaseShared to ensure propagation continues, even if other operations have since intervened." />
-      <item value="Use of this value here has nothing to do with the other uses of the field, but simplifies mechanics." />
-      <item value="Use of this value here has nothing to do with the other uses of the field," />
-      <item value="but simplifies mechanics." />
-      <item value="transferred" />
-      <item value="intervened" />
-      <item value="do Release Shared" />
-      <item value="Propagation was indicated by caller" />
-      <item value="successor" />
-      <item value="unpark Successor" />
-      <item value="Utilities for various versions of acquire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1549" />
-        <entry key="ENGLISH" value="1550" />
+        <entry key="CHINESE" value="1567" />
+        <entry key="ENGLISH" value="1568" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
