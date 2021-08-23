@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Re-register post-processor for detecting inner beans as ApplicationListeners, moving it to the end of the processor chain (for picking up proxies etc)." />
+      <item value="Separate between BeanPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
+      <item value="Register BeanPostProcessorChecker that logs an info message when a bean is created during BeanPostProcessor instantiation, i.e. when a bean is not eligible for getting processed by all BeanPostProcessors." />
+      <item value="Register bean processors that intercept bean creation." />
+      <item value="Detect a LoadTimeWeaver and prepare for weaving, if found in the meantime (e.g. through an @Bean method registered by ConfigurationClassPostProcessor)" />
+      <item value="Clear cached merged bean definitions since the post-processors might have modified the original metadata, e.g. replacing placeholders in values..." />
       <item value="Separate between BeanFactoryPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
       <item value="Now, invoke the postProcessBeanFactory callback of all processors handled so far." />
       <item value="Finally, invoke all other BeanDefinitionRegistryPostProcessors until no further ones appear." />
@@ -47,17 +53,11 @@
       <item value="successor" />
       <item value="unpark Successor" />
       <item value="Utilities for various versions of acquire" />
-      <item value="None of the above" />
-      <item value="try to set pred's next-link" />
-      <item value="so it will get one. Otherwise wake it up to propagate." />
-      <item value="signal" />
-      <item value="ourselves" />
-      <item value="ongoing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1543" />
-        <entry key="ENGLISH" value="1544" />
+        <entry key="CHINESE" value="1549" />
+        <entry key="ENGLISH" value="1550" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
