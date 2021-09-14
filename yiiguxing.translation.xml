@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="get Non Managed TX Connection" />
+      <item value="explicit" />
+      <item value="Scheduler Signaler" />
+      <item value="threads Inherit Initializers Class Load Context" />
       <item value="Estimated" />
       <item value="get Estimated Time To Release And Acquire Trigger" />
       <item value="MISFIRE INSTRUCTION IGNORE MISFIRE POLICY" />
@@ -49,16 +53,13 @@
       <item value="Invoke factory processors registered as beans in the context." />
       <item value="Allows post-processing of the bean factory in context subclasses." />
       <item value="Configure the bean factory with context callbacks." />
-      <item value="Prepare the bean factory for use in this context" />
-      <item value="Prepare the bean factory for use in this context." />
-      <item value="obtain Fresh Bean Factory" />
-      <item value="Tell the subclass to refresh the internal bean factory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1578" />
-        <entry key="ENGLISH" value="1579" />
+        <entry key="CHINESE" value="1582" />
+        <entry key="ENGLISH" value="1582" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
         <entry key="GALICIAN" value="1" />
