@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="related" />
+      <item value="Scheduling-related Methods" />
       <item value="String Fixed IV Generator" />
       <item value="Publish the final event." />
       <item value="Internal helpers" />
@@ -51,13 +53,11 @@
       <item value="add Scalar Converters" />
       <item value="get Shared Instance" />
       <item value="Create and configure the environment" />
-      <item value="prepare Environment" />
-      <item value="circumstances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1568" />
-        <entry key="ENGLISH" value="1569" />
+        <entry key="CHINESE" value="1570" />
+        <entry key="ENGLISH" value="1571" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
