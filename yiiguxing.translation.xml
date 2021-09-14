@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="is Candidate New Time Earlier Within Reason" />
+      <item value="current Time Millis" />
       <item value="update inconsistent job states" />
       <item value="If we aren't using db locks, then delay getting DB connection until after acquiring the lock since it isn't needed." />
       <item value="execute In Non Managed TX Lock" />
@@ -51,13 +53,11 @@
       <item value="deferred Import Selector Handler" />
       <item value="Detect any custom bean name generation strategy supplied through the enclosing application context" />
       <item value="Separate between BeanDefinitionRegistryPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
-      <item value="uninitialized to let the bean factory post-processors apply to them!" />
-      <item value="We need to leave all regular beans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1588" />
-        <entry key="ENGLISH" value="1588" />
+        <entry key="CHINESE" value="1590" />
+        <entry key="ENGLISH" value="1590" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
