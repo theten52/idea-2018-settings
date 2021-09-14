@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="is Annotation Present On Interfaces" />
+      <item value="set Durability" />
       <item value="is Persist Job Data After Execution" />
       <item value="related" />
       <item value="Scheduling-related Methods" />
@@ -51,13 +53,11 @@
       <item value="prepare Context" />
       <item value="get Spring Factories Instances" />
       <item value="configure Ignore Bean Info" />
-      <item value="add Scalar Converters" />
-      <item value="get Shared Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1571" />
-        <entry key="ENGLISH" value="1572" />
+        <entry key="CHINESE" value="1573" />
+        <entry key="ENGLISH" value="1574" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="3" />
