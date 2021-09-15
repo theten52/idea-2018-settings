@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Persist Job Data After Execution" />
       <item value="is Candidate New Time Earlier Within Reason" />
       <item value="current Time Millis" />
       <item value="update inconsistent job states" />
@@ -52,12 +53,11 @@
       <item value="Finally, invoke all other BeanDefinitionRegistryPostProcessors until no further ones appear." />
       <item value="deferred Import Selector Handler" />
       <item value="Detect any custom bean name generation strategy supplied through the enclosing application context" />
-      <item value="Separate between BeanDefinitionRegistryPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1590" />
-        <entry key="ENGLISH" value="1590" />
+        <entry key="CHINESE" value="1591" />
+        <entry key="ENGLISH" value="1591" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
