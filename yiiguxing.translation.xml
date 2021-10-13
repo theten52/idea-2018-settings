@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="eclipse" />
+      <item value="persistence" />
+      <item value="eclipselink" />
       <item value="Persist Job Data After Execution" />
       <item value="is Candidate New Time Earlier Within Reason" />
       <item value="current Time Millis" />
@@ -50,14 +53,11 @@
       <item value="Clear cached merged bean definitions since the post-processors might have modified the original metadata, e.g. replacing placeholders in values..." />
       <item value="Separate between BeanFactoryPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
       <item value="Now, invoke the postProcessBeanFactory callback of all processors handled so far." />
-      <item value="Finally, invoke all other BeanDefinitionRegistryPostProcessors until no further ones appear." />
-      <item value="deferred Import Selector Handler" />
-      <item value="Detect any custom bean name generation strategy supplied through the enclosing application context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1591" />
-        <entry key="ENGLISH" value="1591" />
+        <entry key="CHINESE" value="1594" />
+        <entry key="ENGLISH" value="1595" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
@@ -66,7 +66,7 @@
         <entry key="LATIN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
-        <entry key="ESPERANTO" value="2" />
+        <entry key="ESPERANTO" value="4" />
         <entry key="ITALIAN" value="3" />
       </map>
     </option>
@@ -75,16 +75,26 @@
     <option name="lastTrimTime" value="1634145973205" />
   </component>
   <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tQMqLnh14dZixaadANX" />
+      </app-key>
+    </option>
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20200402000411101" />
       </app-key>
     </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="3e88577f0b42e0b4" />
+        <option name="primaryLanguage" value="ESPERANTO" />
       </youdao-translate>
     </option>
   </component>
