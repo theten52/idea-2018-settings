@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="DEPRECATION NOTICE" />
       <item value="eclipse" />
       <item value="persistence" />
       <item value="eclipselink" />
@@ -52,11 +53,10 @@
       <item value="Detect a LoadTimeWeaver and prepare for weaving, if found in the meantime (e.g. through an @Bean method registered by ConfigurationClassPostProcessor)" />
       <item value="Clear cached merged bean definitions since the post-processors might have modified the original metadata, e.g. replacing placeholders in values..." />
       <item value="Separate between BeanFactoryPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
-      <item value="Now, invoke the postProcessBeanFactory callback of all processors handled so far." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1594" />
+        <entry key="CHINESE" value="1595" />
         <entry key="ENGLISH" value="1595" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -66,7 +66,7 @@
         <entry key="LATIN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
-        <entry key="ESPERANTO" value="4" />
+        <entry key="ESPERANTO" value="5" />
         <entry key="ITALIAN" value="3" />
       </map>
     </option>
