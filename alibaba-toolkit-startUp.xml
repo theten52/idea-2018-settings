@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/ada-mediator" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/eclipselink-demo" startUpFlag="FIRST" />
   </component>
 </application>
