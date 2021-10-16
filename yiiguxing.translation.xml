@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="get Property Accessors" />
       <item value="DEPRECATION NOTICE" />
       <item value="eclipse" />
       <item value="persistence" />
@@ -52,7 +53,6 @@
       <item value="Register bean processors that intercept bean creation." />
       <item value="Detect a LoadTimeWeaver and prepare for weaving, if found in the meantime (e.g. through an @Bean method registered by ConfigurationClassPostProcessor)" />
       <item value="Clear cached merged bean definitions since the post-processors might have modified the original metadata, e.g. replacing placeholders in values..." />
-      <item value="Separate between BeanFactoryPostProcessors that implement PriorityOrdered, Ordered, and the rest." />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,6 +91,7 @@
       </google-translate>
     </option>
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="ALI" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="3e88577f0b42e0b4" />
