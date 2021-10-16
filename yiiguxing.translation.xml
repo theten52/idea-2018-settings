@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="permit All" />
       <item value="get Property Accessors" />
       <item value="DEPRECATION NOTICE" />
       <item value="eclipse" />
@@ -52,7 +53,6 @@
       <item value="Register BeanPostProcessorChecker that logs an info message when a bean is created during BeanPostProcessor instantiation, i.e. when a bean is not eligible for getting processed by all BeanPostProcessors." />
       <item value="Register bean processors that intercept bean creation." />
       <item value="Detect a LoadTimeWeaver and prepare for weaving, if found in the meantime (e.g. through an @Bean method registered by ConfigurationClassPostProcessor)" />
-      <item value="Clear cached merged bean definitions since the post-processors might have modified the original metadata, e.g. replacing placeholders in values..." />
     </histories>
     <option name="languageScores">
       <map>
