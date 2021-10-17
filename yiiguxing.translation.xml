@@ -85,13 +85,7 @@
         <option name="appId" value="20200402000411101" />
       </app-key>
     </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
-    </option>
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="ALI" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="3e88577f0b42e0b4" />
