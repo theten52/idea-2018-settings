@@ -3,11 +3,11 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="permit All" />
       <item value="only Explicitly Included" />
       <item value="redirect to login page. Use https if forceHttps true" />
       <item value="commence" />
       <item value="authorize Requests" />
-      <item value="permit All" />
       <item value="get Property Accessors" />
       <item value="DEPRECATION NOTICE" />
       <item value="eclipse" />
