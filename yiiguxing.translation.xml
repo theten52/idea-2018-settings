@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="only the methods they're interested in." />
       <item value="Tip: The deployment package will be temporarily stored in Alibaba Cloud Security OSS and will be deleted after the deployment is complete. Please be assured that no one can access it except you." />
       <item value="permit All" />
       <item value="only Explicitly Included" />
@@ -52,7 +53,6 @@
       <item value="Initialize other special beans in specific context subclasses." />
       <item value="Simple Application Event Multicaster" />
       <item value="nitialize event multicaster for this context." />
-      <item value="Initialize message source for this context." />
     </histories>
     <option name="languageScores">
       <map>
