@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Declare repository providing the artifact" />
       <item value="perform Build" />
       <item value="combine" />
       <item value="only the methods they're interested in." />
@@ -52,12 +53,11 @@
       <item value="Publish early application events now that we finally have a multicaster..." />
       <item value="Do not initialize FactoryBeans here: We need to leave all regular beans uninitialized to let post-processors apply to them!" />
       <item value="Check for listener beans and register them." />
-      <item value="Initialize other special beans in specific context subclasses." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1595" />
-        <entry key="ENGLISH" value="1595" />
+        <entry key="CHINESE" value="1596" />
+        <entry key="ENGLISH" value="1596" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
@@ -66,24 +66,19 @@
         <entry key="LATIN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="JAPANESE" value="1" />
-        <entry key="ESPERANTO" value="5" />
+        <entry key="ESPERANTO" value="6" />
         <entry key="ITALIAN" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634984055128" />
+    <option name="lastTrimTime" value="1639589148038" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20200402000411101" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
     </option>
     <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
