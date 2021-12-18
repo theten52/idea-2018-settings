@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="basic Qos" />
       <item value="basic Publish" />
       <item value="Declare repository providing the artifact" />
       <item value="perform Build" />
@@ -52,12 +53,11 @@
       <item value="Register a default embedded value resolver if no bean post-processor (such as a PropertyPlaceholderConfigurer bean) registered any before: at this point, primarily for resolution in annotation attribute values." />
       <item value="Instantiate all remaining (non-lazy-init) singletons." />
       <item value="Publish early application events now that we finally have a multicaster..." />
-      <item value="Do not initialize FactoryBeans here: We need to leave all regular beans uninitialized to let post-processors apply to them!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1596" />
-        <entry key="ENGLISH" value="1597" />
+        <entry key="CHINESE" value="1597" />
+        <entry key="ENGLISH" value="1598" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
