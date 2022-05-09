@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="$USER_HOME$/IdeaProjects/ada-mediator" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/dubbo-samples" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/eclipselink-demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/rabbit-mq-demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/spring-projects/spring-security-samples" startUpFlag="FIRST" />
