@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="exact" />
       <item value="set Mirrored Repositories" />
       <item value="It should have been validated already, but the wagon lookup will deal with it" />
       <item value="see if this is a negative match" />
@@ -52,12 +53,11 @@
       <item value="Internal helpers" />
       <item value="Last step: publish corresponding event." />
       <item value="Allow for caching all bean definition metadata, not expecting further changes." />
-      <item value="Stop using the temporary ClassLoader for type matching." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1601" />
-        <entry key="ENGLISH" value="1602" />
+        <entry key="CHINESE" value="1602" />
+        <entry key="ENGLISH" value="1603" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
