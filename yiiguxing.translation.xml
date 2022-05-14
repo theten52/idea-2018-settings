@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="(enforce-bytecode-version)" />
+      <item value="enforcer" />
+      <item value="Plugin Incompatible Exception" />
+      <item value="mojo Descriptor" />
+      <item value="observe Execution" />
+      <item value="Why are we just ignoring this exception? Are exceptions are being used for flow control" />
+      <item value="degree Of Concurrency" />
+      <item value="is Goal Specification" />
       <item value="Please verify you invoked Maven from the correct directory" />
       <item value="lifecycle Task Segment Calculator" />
       <item value="calculate Task Segments" />
@@ -45,19 +53,11 @@
       <item value="plexus" />
       <item value="! 这个是我创建的用来记录源码阅读的文件，不需要license。" />
       <item value="aggregate" />
-      <item value="but the wagon lookup will deal with it" />
-      <item value="EXTERNAL WILDCARD" />
-      <item value="exact" />
-      <item value="set Mirrored Repositories" />
-      <item value="It should have been validated already, but the wagon lookup will deal with it" />
-      <item value="see if this is a negative match" />
-      <item value="Sent" />
-      <item value="basic Qos" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1644" />
-        <entry key="ENGLISH" value="1645" />
+        <entry key="CHINESE" value="1652" />
+        <entry key="ENGLISH" value="1653" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
