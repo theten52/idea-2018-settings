@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="aggregate" />
       <item value="but the wagon lookup will deal with it" />
       <item value="EXTERNAL WILDCARD" />
       <item value="exact" />
@@ -52,12 +53,11 @@
       <item value="Scheduling-related Methods" />
       <item value="String Fixed IV Generator" />
       <item value="Publish the final event." />
-      <item value="Internal helpers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1604" />
-        <entry key="ENGLISH" value="1605" />
+        <entry key="CHINESE" value="1605" />
+        <entry key="ENGLISH" value="1606" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
