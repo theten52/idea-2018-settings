@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Now if the name of a realm is a superset of an existing realm the we want to make childparent associations." />
+      <item value="So now we have something like the following for defined" />
+      <item value="return this to protected when the legacy wrappers can be removed." />
+      <item value="TODO return this to protected when the legacy wrappers can be removed." />
+      <item value="foreign Class Loader" />
+      <item value="cur Realm" />
       <item value="plexus" />
       <item value="! 这个是我创建的用来记录源码阅读的文件，不需要license。" />
       <item value="aggregate" />
@@ -47,17 +53,11 @@
       <item value="get Estimated Time To Release And Acquire Trigger" />
       <item value="MISFIRE INSTRUCTION IGNORE MISFIRE POLICY" />
       <item value="MISFIRE INSTRUCTION SMART POLICY" />
-      <item value="Completed Execution Instruction" />
-      <item value="is Annotation Present On Interfaces" />
-      <item value="set Durability" />
-      <item value="is Persist Job Data After Execution" />
-      <item value="related" />
-      <item value="Scheduling-related Methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1606" />
-        <entry key="ENGLISH" value="1607" />
+        <entry key="CHINESE" value="1612" />
+        <entry key="ENGLISH" value="1613" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
