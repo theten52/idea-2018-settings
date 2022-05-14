@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="SNAPSHOT" />
+      <item value="embedder" />
       <item value="ensure Dependencies Are Resolved" />
       <item value="(enforce-bytecode-version)" />
       <item value="enforcer" />
@@ -51,13 +53,12 @@
       <item value="TODO return this to protected when the legacy wrappers can be removed." />
       <item value="foreign Class Loader" />
       <item value="cur Realm" />
-      <item value="plexus" />
-      <item value="! 这个是我创建的用来记录源码阅读的文件，不需要license。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1653" />
-        <entry key="ENGLISH" value="1654" />
+        <entry key="CHINESE" value="1655" />
+        <entry key="ENGLISH" value="1656" />
+        <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
