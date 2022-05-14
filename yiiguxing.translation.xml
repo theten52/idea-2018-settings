@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="mirror Selector" />
+      <item value="stereotypes" />
+      <item value="We enter the session scope right after the MavenSession creation and before any of the AbstractLifecycleParticipant lookups so that @SessionScoped components can be @Injected into AbstractLifecycleParticipants." />
       <item value="set Interactive Mode" />
       <item value="execution Request Populator" />
       <item value="customize Container" />
@@ -50,14 +53,11 @@
       <item value="only Explicitly Included" />
       <item value="redirect to login page. Use https if forceHttps true" />
       <item value="commence" />
-      <item value="authorize Requests" />
-      <item value="get Property Accessors" />
-      <item value="DEPRECATION NOTICE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1630" />
-        <entry key="ENGLISH" value="1631" />
+        <entry key="CHINESE" value="1633" />
+        <entry key="ENGLISH" value="1634" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
