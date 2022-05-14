@@ -3,6 +3,18 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="customize Container" />
+      <item value="To avoid inconsistencies, we'll use the TCCL exclusively for lookups" />
+      <item value="Default Plexus Container" />
+      <item value="wagon" />
+      <item value="wagon-api" />
+      <item value="dispose" />
+      <item value="Needed to make this method package visible to make writing a unit test possible Maybe it's better to move some of those methods to separate class (SoC)." />
+      <item value="Parsing errors can happen during the processing of the arguments and we prefer not having to check if the logger is null and construct this so we can use an SLF4J logger everywhere." />
+      <item value="encryption" />
+      <item value="informative Commands" />
+      <item value="Make sure the Maven home directory is an absolute path to save us from confusion with say drive-relative Windows paths." />
+      <item value="get Canonical File" />
       <item value="TODO need to externalize CliRequest" />
       <item value="Strip" />
       <item value="Jansi is provided by Maven core since 3.5.0" />
@@ -41,23 +53,11 @@
       <item value="DEPRECATION NOTICE" />
       <item value="eclipse" />
       <item value="persistence" />
-      <item value="eclipselink" />
-      <item value="Persist Job Data After Execution" />
-      <item value="is Candidate New Time Earlier Within Reason" />
-      <item value="current Time Millis" />
-      <item value="update inconsistent job states" />
-      <item value="If we aren't using db locks, then delay getting DB connection until after acquiring the lock since it isn't needed." />
-      <item value="execute In Non Managed TX Lock" />
-      <item value="scheduler Starting" />
-      <item value="notify Scheduler Listeners Job Added" />
-      <item value="Remotable Quartz Scheduler" />
-      <item value="get Non Managed TX Connection" />
-      <item value="explicit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1616" />
-        <entry key="ENGLISH" value="1617" />
+        <entry key="CHINESE" value="1628" />
+        <entry key="ENGLISH" value="1629" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
