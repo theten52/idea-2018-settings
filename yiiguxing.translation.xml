@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="Gradle and Maven with auto-import When using Gradle or Maven with auto-import, you should exclude module files, since they will be recreated, and may cause churn. Uncomment if using auto-import." />
+      <item value="When using Gradle or Maven with auto-import, you should exclude module files," />
+      <item value="User-specific stuff" />
       <item value="SNAPSHOT" />
       <item value="embedder" />
       <item value="ensure Dependencies Are Resolved" />
@@ -50,14 +53,11 @@
       <item value="Now if the name of a realm is a superset of an existing realm the we want to make childparent associations." />
       <item value="So now we have something like the following for defined" />
       <item value="return this to protected when the legacy wrappers can be removed." />
-      <item value="TODO return this to protected when the legacy wrappers can be removed." />
-      <item value="foreign Class Loader" />
-      <item value="cur Realm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1655" />
-        <entry key="ENGLISH" value="1656" />
+        <entry key="CHINESE" value="1658" />
+        <entry key="ENGLISH" value="1659" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
