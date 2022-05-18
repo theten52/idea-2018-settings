@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="set Proxies" />
+      <item value="Settings Decryption Request" />
+      <item value="No implementation for org.apache.maven.internal.aether.DefaultRepositorySystemSessionFactory was bound." />
       <item value="Unable to provision, see the following errors:" />
       <item value="plexus Bean Locator" />
       <item value="These settings values need to be removed and pushed down into a provider of configuration information" />
@@ -50,14 +53,11 @@
       <item value="TODO need to externalize CliRequest" />
       <item value="Strip" />
       <item value="Jansi is provided by Maven core since 3.5.0" />
-      <item value="envar" />
-      <item value="This is what the classloader for the main realm looks like when we boot from the command line:" />
-      <item value="launch Enhanced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1661" />
-        <entry key="ENGLISH" value="1662" />
+        <entry key="CHINESE" value="1664" />
+        <entry key="ENGLISH" value="1665" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
