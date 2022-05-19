@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="constituent" />
       <item value="set Proxies" />
       <item value="Settings Decryption Request" />
       <item value="No implementation for org.apache.maven.internal.aether.DefaultRepositorySystemSessionFactory was bound." />
@@ -52,12 +53,11 @@
       <item value="get Canonical File" />
       <item value="TODO need to externalize CliRequest" />
       <item value="Strip" />
-      <item value="Jansi is provided by Maven core since 3.5.0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1664" />
-        <entry key="ENGLISH" value="1665" />
+        <entry key="CHINESE" value="1665" />
+        <entry key="ENGLISH" value="1666" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
