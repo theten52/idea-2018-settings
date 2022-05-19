@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="No implementation for org.apache.maven.bridge.MavenRepositorySystem annotated with interface org.eclipse.sisu.inject.TypeArgumentsImplicit was bound." />
       <item value="介绍" />
       <item value="Utility for Maven to access Slf4j internals through package access. Use with precaution, since this is not normally intended for production use." />
       <item value="Files with Apache License headers will be marked AL Binary files (which do not require any license headers) will be marked B Compressed archives will be marked A Notices, licenses etc. will be marked N" />
@@ -52,12 +53,11 @@
       <item value="Parsing errors can happen during the processing of the arguments and we prefer not having to check if the logger is null and construct this so we can use an SLF4J logger everywhere." />
       <item value="encryption" />
       <item value="informative Commands" />
-      <item value="Make sure the Maven home directory is an absolute path to save us from confusion with say drive-relative Windows paths." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1668" />
-        <entry key="ENGLISH" value="1668" />
+        <entry key="ENGLISH" value="1669" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
