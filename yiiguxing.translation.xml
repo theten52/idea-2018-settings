@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="1005" />
     <option name="newTranslationDialogY" value="145" />
     <histories>
+      <item value="介绍" />
       <item value="Utility for Maven to access Slf4j internals through package access. Use with precaution, since this is not normally intended for production use." />
       <item value="Files with Apache License headers will be marked AL Binary files (which do not require any license headers) will be marked B Compressed archives will be marked A Notices, licenses etc. will be marked N" />
       <item value="constituent" />
@@ -52,11 +53,10 @@
       <item value="encryption" />
       <item value="informative Commands" />
       <item value="Make sure the Maven home directory is an absolute path to save us from confusion with say drive-relative Windows paths." />
-      <item value="get Canonical File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1667" />
+        <entry key="CHINESE" value="1668" />
         <entry key="ENGLISH" value="1668" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
