@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="his is what the classloader for the main realm looks like when we boot from the command line:" />
+      <item value="Associate child realms to their parents" />
+      <item value="optionally" />
       <item value="create Child Realm" />
       <item value="Duplicate Realm Exception" />
       <item value="Pseudo" />
@@ -51,14 +54,11 @@
       <item value="seed" />
       <item value="mirror Selector" />
       <item value="stereotypes" />
-      <item value="We enter the session scope right after the MavenSession creation and before any of the AbstractLifecycleParticipant lookups so that @SessionScoped components can be @Injected into AbstractLifecycleParticipants." />
-      <item value="set Interactive Mode" />
-      <item value="execution Request Populator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1678" />
-        <entry key="ENGLISH" value="1680" />
+        <entry key="CHINESE" value="1681" />
+        <entry key="ENGLISH" value="1683" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
