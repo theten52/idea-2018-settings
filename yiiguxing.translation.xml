@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="create Child Realm" />
+      <item value="Duplicate Realm Exception" />
+      <item value="Pseudo" />
+      <item value="Pseudo Plexus Container" />
       <item value="classifier" />
       <item value="Plexus Component &quot;Java 5&quot; Annotations, to describe plexus components properties in java sources with standard annotations instead of javadoc annotations." />
       <item value="plexus" />
@@ -50,15 +54,11 @@
       <item value="We enter the session scope right after the MavenSession creation and before any of the AbstractLifecycleParticipant lookups so that @SessionScoped components can be @Injected into AbstractLifecycleParticipants." />
       <item value="set Interactive Mode" />
       <item value="execution Request Populator" />
-      <item value="customize Container" />
-      <item value="To avoid inconsistencies, we'll use the TCCL exclusively for lookups" />
-      <item value="Default Plexus Container" />
-      <item value="wagon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1674" />
-        <entry key="ENGLISH" value="1676" />
+        <entry key="CHINESE" value="1678" />
+        <entry key="ENGLISH" value="1680" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
