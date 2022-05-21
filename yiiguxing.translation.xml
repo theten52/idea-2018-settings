@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Use value in the resultant settings" />
+      <item value="Use a value has been passed in via the configuration" />
+      <item value="populate Defaults" />
       <item value="his is what the classloader for the main realm looks like when we boot from the command line:" />
       <item value="Associate child realms to their parents" />
       <item value="optionally" />
@@ -51,14 +54,11 @@
       <item value="MNG-1911 MNG-5572: Building plugins with extensions cannot be part of reactor" />
       <item value="get Project Scoped Extension Components" />
       <item value="get Lifecycle Participants" />
-      <item value="seed" />
-      <item value="mirror Selector" />
-      <item value="stereotypes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1681" />
-        <entry key="ENGLISH" value="1683" />
+        <entry key="CHINESE" value="1684" />
+        <entry key="ENGLISH" value="1686" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />

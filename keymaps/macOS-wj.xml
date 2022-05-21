@@ -1,4 +1,4 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="macOS-wj" parent="Mac OS X 10.5+">
   <action id="ChangesView.Move">
     <keyboard-shortcut first-keystroke="alt w" second-keystroke="alt m" />
   </action>
