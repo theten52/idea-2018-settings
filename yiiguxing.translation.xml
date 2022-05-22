@@ -4,6 +4,18 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Avoid running this method on older jdks" />
+      <item value="void running this method on older jdks" />
+      <item value="Enumeration" />
+      <item value="NOTE: This gets only called from ClassLoader.loadClass(Class, boolean) while we try to check for bootstrap stuff. Don't scan our class path yet, loadClassFromSelf() will do this later when called by the strategy." />
+      <item value="load Class" />
+      <item value="next, try loading via imports, self and parent as controlled by strategy" />
+      <item value="Malformed URL Exception" />
+      <item value="to External Form" />
+      <item value="import From" />
+      <item value="is Assignable From" />
+      <item value="We must call super.getClassLoadingLock at least once to avoid NPE in super.loadClass." />
+      <item value="is Parallel Capable" />
       <item value="enforce" />
       <item value="Desired order of precedence for workspace readers before querying the local artifact repositories" />
       <item value="project Artifact" />
@@ -42,23 +54,11 @@
       <item value="Abstract Maven Lifecycle Participant" />
       <item value="No implementation for org.apache.maven.bridge.MavenRepositorySystem annotated with interface org.eclipse.sisu.inject.TypeArgumentsImplicit was bound." />
       <item value="介绍" />
-      <item value="Utility for Maven to access Slf4j internals through package access. Use with precaution, since this is not normally intended for production use." />
-      <item value="Files with Apache License headers will be marked AL Binary files (which do not require any license headers) will be marked B Compressed archives will be marked A Notices, licenses etc. will be marked N" />
-      <item value="constituent" />
-      <item value="set Proxies" />
-      <item value="Settings Decryption Request" />
-      <item value="No implementation for org.apache.maven.internal.aether.DefaultRepositorySystemSessionFactory was bound." />
-      <item value="Unable to provision, see the following errors:" />
-      <item value="plexus Bean Locator" />
-      <item value="These settings values need to be removed and pushed down into a provider of configuration information" />
-      <item value="Gradle and Maven with auto-import When using Gradle or Maven with auto-import, you should exclude module files, since they will be recreated, and may cause churn. Uncomment if using auto-import." />
-      <item value="When using Gradle or Maven with auto-import, you should exclude module files," />
-      <item value="User-specific stuff" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1705" />
-        <entry key="ENGLISH" value="1707" />
+        <entry key="CHINESE" value="1718" />
+        <entry key="ENGLISH" value="1720" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
