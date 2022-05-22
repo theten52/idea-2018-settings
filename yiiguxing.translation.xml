@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="combine Resources" />
+      <item value="get Normalized Resource" />
+      <item value="A strategy is a class for defining how classes and resources are located in classworlds." />
+      <item value="We delegate to the Strategy here so that we can change the behavior of any existing ClassRealm." />
       <item value="Avoid running this method on older jdks" />
       <item value="void running this method on older jdks" />
       <item value="Enumeration" />
@@ -50,15 +54,11 @@
       <item value="Plexus Component &quot;Java 5&quot; Annotations, to describe plexus components properties in java sources with standard annotations instead of javadoc annotations." />
       <item value="plexus" />
       <item value="This is here to support component requirement lists, which can take a list of hints" />
-      <item value="hints" />
-      <item value="Abstract Maven Lifecycle Participant" />
-      <item value="No implementation for org.apache.maven.bridge.MavenRepositorySystem annotated with interface org.eclipse.sisu.inject.TypeArgumentsImplicit was bound." />
-      <item value="介绍" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1718" />
-        <entry key="ENGLISH" value="1720" />
+        <entry key="CHINESE" value="1722" />
+        <entry key="ENGLISH" value="1724" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
