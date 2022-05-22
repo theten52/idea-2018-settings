@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="project Artifact" />
+      <item value="get Interpolated Activations" />
+      <item value="active Profiles" />
+      <item value="deactivated Ids" />
+      <item value="severities" />
+      <item value="We have no POM file." />
+      <item value="Logs execution events to logger, eventually user-supplied." />
+      <item value="scanned Realms" />
+      <item value="seed" />
       <item value="Prioritized Components" />
       <item value="Dependency Graph Transformer" />
       <item value="derive Child Selector" />
@@ -45,20 +54,11 @@
       <item value="User-specific stuff" />
       <item value="SNAPSHOT" />
       <item value="embedder" />
-      <item value="ensure Dependencies Are Resolved" />
-      <item value="(enforce-bytecode-version)" />
-      <item value="enforcer" />
-      <item value="Plugin Incompatible Exception" />
-      <item value="mojo Descriptor" />
-      <item value="observe Execution" />
-      <item value="Why are we just ignoring this exception? Are exceptions are being used for flow control" />
-      <item value="degree Of Concurrency" />
-      <item value="is Goal Specification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1693" />
-        <entry key="ENGLISH" value="1695" />
+        <entry key="CHINESE" value="1702" />
+        <entry key="ENGLISH" value="1704" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
