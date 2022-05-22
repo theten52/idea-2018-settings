@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="enforce" />
       <item value="Desired order of precedence for workspace readers before querying the local artifact repositories" />
       <item value="project Artifact" />
       <item value="get Interpolated Activations" />
@@ -53,12 +54,11 @@
       <item value="Gradle and Maven with auto-import When using Gradle or Maven with auto-import, you should exclude module files, since they will be recreated, and may cause churn. Uncomment if using auto-import." />
       <item value="When using Gradle or Maven with auto-import, you should exclude module files," />
       <item value="User-specific stuff" />
-      <item value="SNAPSHOT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1703" />
-        <entry key="ENGLISH" value="1705" />
+        <entry key="CHINESE" value="1705" />
+        <entry key="ENGLISH" value="1707" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
