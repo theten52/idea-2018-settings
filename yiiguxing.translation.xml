@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="normalize Url Path" />
       <item value="We need to try and be OSGi r4 compliant in the loading of all the bundles so that we can try to load eclipse without requiring equinox." />
       <item value="We need to trya and be OSGi r4 compliant in the loading of all the bundles so that we can try to load eclipse without requiring equinox" />
       <item value="trya" />
@@ -53,12 +54,11 @@
       <item value="Duplicate Realm Exception" />
       <item value="Pseudo" />
       <item value="Pseudo Plexus Container" />
-      <item value="classifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1725" />
-        <entry key="ENGLISH" value="1726" />
+        <entry key="CHINESE" value="1726" />
+        <entry key="ENGLISH" value="1727" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
