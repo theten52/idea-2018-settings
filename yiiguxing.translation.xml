@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Sisu will launch @EagerSingleton's on startup" />
+      <item value="Sisu spots we want a map of tabs and wires it up for us" />
+      <item value="auto-wires unresolved dependencies" />
+      <item value="scans and binds @Named components" />
       <item value="Search methods that can be ordered by strategies to load a class" />
       <item value="TODO: Here we shall check hint to load non-default strategies" />
       <item value="realm Disposed" />
@@ -50,15 +54,11 @@
       <item value="provided" />
       <item value="Dependency Traverser" />
       <item value="file Transformer Manager" />
-      <item value="Derive" />
-      <item value="Derive these from the URL" />
-      <item value="hint" />
-      <item value="Use value in the resultant settings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1735" />
-        <entry key="ENGLISH" value="1736" />
+        <entry key="CHINESE" value="1740" />
+        <entry key="ENGLISH" value="1741" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
