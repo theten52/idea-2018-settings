@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="discover From" />
       <item value="parse Ext Classpath" />
       <item value="informative Commands" />
       <item value="property for root logger level or System.out redirection need to be taken into account" />
@@ -53,12 +54,11 @@
       <item value="Enumeration" />
       <item value="NOTE: This gets only called from ClassLoader.loadClass(Class, boolean) while we try to check for bootstrap stuff. Don't scan our class path yet, loadClassFromSelf() will do this later when called by the strategy." />
       <item value="load Class" />
-      <item value="next, try loading via imports, self and parent as controlled by strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1766" />
-        <entry key="ENGLISH" value="1767" />
+        <entry key="CHINESE" value="1768" />
+        <entry key="ENGLISH" value="1769" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
