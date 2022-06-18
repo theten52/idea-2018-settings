@@ -4,6 +4,17 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="parse Ext Classpath" />
+      <item value="informative Commands" />
+      <item value="property for root logger level or System.out redirection need to be taken into account" />
+      <item value="account" />
+      <item value="is Ambiguous Static Logger Binder Path Set" />
+      <item value="Properties containing info about the currently running version of Maven These override any corresponding properties set on the command line" />
+      <item value="Needed to make this method package visible to make writing a unit test possible Maybe it's better to move some of those methods to separate class (SoC)." />
+      <item value="Adding this back in for compatibility with the verifier that hard codes this option." />
+      <item value="Parsing errors can happen during the processing of the arguments and we prefer not having to check if the logger is null and construct this so we can use an SLF4J logger everywhere." />
+      <item value="Make sure the Maven home directory is an absolute path to save us from confusion with say drive-relative Windows paths." />
+      <item value="get Canonical File" />
       <item value="initialize" />
       <item value="system Install" />
       <item value="acquire Method Accessor" />
@@ -43,22 +54,11 @@
       <item value="NOTE: This gets only called from ClassLoader.loadClass(Class, boolean) while we try to check for bootstrap stuff. Don't scan our class path yet, loadClassFromSelf() will do this later when called by the strategy." />
       <item value="load Class" />
       <item value="next, try loading via imports, self and parent as controlled by strategy" />
-      <item value="Malformed URL Exception" />
-      <item value="to External Form" />
-      <item value="import From" />
-      <item value="is Assignable From" />
-      <item value="We must call super.getClassLoadingLock at least once to avoid NPE in super.loadClass." />
-      <item value="is Parallel Capable" />
-      <item value="enforce" />
-      <item value="Desired order of precedence for workspace readers before querying the local artifact repositories" />
-      <item value="project Artifact" />
-      <item value="get Interpolated Activations" />
-      <item value="active Profiles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1754" />
-        <entry key="ENGLISH" value="1755" />
+        <entry key="CHINESE" value="1766" />
+        <entry key="ENGLISH" value="1767" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
