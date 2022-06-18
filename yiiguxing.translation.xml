@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Dependency Management Importer" />
+      <item value="Activation" />
       <item value="source Dominant" />
       <item value="In the future" />
       <item value="set Default Close Operation" />
@@ -52,13 +54,11 @@
       <item value="scanned Realms" />
       <item value="seed" />
       <item value="Prioritized Components" />
-      <item value="Dependency Graph Transformer" />
-      <item value="derive Child Selector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1744" />
-        <entry key="ENGLISH" value="1745" />
+        <entry key="CHINESE" value="1747" />
+        <entry key="ENGLISH" value="1748" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
