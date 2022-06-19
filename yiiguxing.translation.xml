@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Fat Artifact Traverser" />
+      <item value="dep Traverser" />
+      <item value="Default Repository System Session" />
+      <item value="new Repository Session" />
       <item value="We enter the session scope right after the MavenSession creation and before any of the AbstractLifecycleParticipant lookups so that @SessionScoped components can be @Injected into AbstractLifecycleParticipants." />
       <item value="which may change dependencies which can, in turn, affect the build order." />
       <item value="A new topological sort is required after the execution of 9) as the AbstractLifecycleParticipants are free to mutate the MavenProject instances" />
@@ -50,20 +54,16 @@
       <item value="Make sure the Maven home directory is an absolute path to save us from confusion with say drive-relative Windows paths." />
       <item value="get Canonical File" />
       <item value="initialize" />
-      <item value="system Install" />
-      <item value="acquire Method Accessor" />
-      <item value="This is what the classloader for the main realm looks like when we boot from the command line:" />
-      <item value="Associate parent realms with their children." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1801" />
-        <entry key="ENGLISH" value="1802" />
+        <entry key="CHINESE" value="1809" />
+        <entry key="ENGLISH" value="1809" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="7" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="6" />
         <entry key="FILIPINO" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="3" />
