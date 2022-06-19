@@ -4,6 +4,19 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="We enter the session scope right after the MavenSession creation and before any of the AbstractLifecycleParticipant lookups so that @SessionScoped components can be @Injected into AbstractLifecycleParticipants." />
+      <item value="which may change dependencies which can, in turn, affect the build order." />
+      <item value="A new topological sort is required after the execution of 9) as the AbstractLifecycleParticipants are free to mutate the MavenProject instances" />
+      <item value="topological" />
+      <item value="trimming" />
+      <item value="Create ReactorReader with the getProjectMap( projects ). NOTE that getProjectMap(projects) is the code that checks for duplicate projects definitions in the build. Ideally this type of duplicate checking should be part of getting the reactor projects in 6). The duplicate checking is conflated with getProjectMap(projects)." />
+      <item value="7) Create ProjectDependencyGraph using trimming which takes into account --projects and reactor mode. This ensures that the projects passed into the ReactorReader are only those specified." />
+      <item value="Get reactor projects looking for general POM errors" />
+      <item value="Validate local repository directory is accessible." />
+      <item value="Setup initial properties." />
+      <item value="set Use Legacy Local Repository" />
+      <item value="We preserve the existing methods for builder selection which is to look for various inputs in the threading configuration. We don't have an easy way to allow a pluggable builder to provide its own configuration parameters but this is sufficient for now. Ultimately we want components like Builders to provide a way to extend the command line to accept its own configuration parameters." />
+      <item value="Builder, concurrency and parallelism" />
       <item value="If we're logging to a file then we don't want the console transfer listener as it will spew download progress all over the place" />
       <item value="this is the default behavior." />
       <item value="is Interactive Mode" />
@@ -41,24 +54,11 @@
       <item value="acquire Method Accessor" />
       <item value="This is what the classloader for the main realm looks like when we boot from the command line:" />
       <item value="Associate parent realms with their children." />
-      <item value="TODO return this to protected when the legacy wrappers can be removed." />
-      <item value="Associate child realms to their parents." />
-      <item value="Dependency Management Importer" />
-      <item value="Activation" />
-      <item value="source Dominant" />
-      <item value="In the future" />
-      <item value="set Default Close Operation" />
-      <item value="Sisu will launch @EagerSingleton's on startup" />
-      <item value="Sisu spots we want a map of tabs and wires it up for us" />
-      <item value="auto-wires unresolved dependencies" />
-      <item value="scans and binds @Named components" />
-      <item value="Search methods that can be ordered by strategies to load a class" />
-      <item value="TODO: Here we shall check hint to load non-default strategies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1788" />
-        <entry key="ENGLISH" value="1789" />
+        <entry key="CHINESE" value="1801" />
+        <entry key="ENGLISH" value="1802" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
