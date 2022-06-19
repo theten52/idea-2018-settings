@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Interactive Mode" />
       <item value="we're going to parse this back in as XML so we need to escape XML markup" />
       <item value="interpolate" />
       <item value="dominant By Id" />
@@ -53,12 +54,11 @@
       <item value="TODO: Here we shall check hint to load non-default strategies" />
       <item value="realm Disposed" />
       <item value="Will never happen as we are just creating the world." />
-      <item value="noinspection ConstantConditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1785" />
-        <entry key="ENGLISH" value="1786" />
+        <entry key="CHINESE" value="1786" />
+        <entry key="ENGLISH" value="1787" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
