@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="If we're logging to a file then we don't want the console transfer listener as it will spew download progress all over the place" />
+      <item value="this is the default behavior." />
       <item value="is Interactive Mode" />
       <item value="we're going to parse this back in as XML so we need to escape XML markup" />
       <item value="interpolate" />
@@ -52,13 +54,11 @@
       <item value="scans and binds @Named components" />
       <item value="Search methods that can be ordered by strategies to load a class" />
       <item value="TODO: Here we shall check hint to load non-default strategies" />
-      <item value="realm Disposed" />
-      <item value="Will never happen as we are just creating the world." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1786" />
-        <entry key="ENGLISH" value="1787" />
+        <entry key="CHINESE" value="1788" />
+        <entry key="ENGLISH" value="1789" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
