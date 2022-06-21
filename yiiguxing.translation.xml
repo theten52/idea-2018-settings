@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Timing (remove this)" />
+      <item value="validate Activated Profiles" />
+      <item value="mojo Descriptor" />
+      <item value="finalize Mojo Configuration" />
+      <item value="calculate Execution Plan" />
       <item value="session may be different from rootSession seeded in DefaultMaven explicitly seed the right session here to make sure it is used by Guice" />
       <item value="Why are we just ignoring this exception? Are exceptions are being used for flow control" />
       <item value="There's no notion of taskSegment equality." />
@@ -13,7 +18,6 @@
       <item value="is Aggregator" />
       <item value="get Mojo Descriptor" />
       <item value="is Goal Specification" />
-      <item value="validate Activated Profiles" />
       <item value="validate Prerequisites For Non Maven Plugin Projects" />
       <item value="get Project Dependency Graph" />
       <item value="reactor Dependency Graph" />
@@ -50,15 +54,11 @@
       <item value="interpolate" />
       <item value="dominant By Id" />
       <item value="shallow Merge By Id" />
-      <item value="recessive" />
-      <item value="dominant" />
-      <item value="validate Banned Characters" />
-      <item value="get Severity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1839" />
-        <entry key="ENGLISH" value="1840" />
+        <entry key="CHINESE" value="1845" />
+        <entry key="ENGLISH" value="1846" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
