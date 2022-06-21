@@ -4,6 +4,13 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="session may be different from rootSession seeded in DefaultMaven explicitly seed the right session here to make sure it is used by Guice" />
+      <item value="Why are we just ignoring this exception? Are exceptions are being used for flow control" />
+      <item value="There's no notion of taskSegment equality." />
+      <item value="TODO Optimize; or maybe just rewrite the whole way aggregating mojos are being run." />
+      <item value="degree Of Concurrency" />
+      <item value="Not totally sure if this is needed for anything" />
+      <item value="is Aggregator" />
       <item value="get Mojo Descriptor" />
       <item value="is Goal Specification" />
       <item value="validate Activated Profiles" />
@@ -47,18 +54,11 @@
       <item value="dominant" />
       <item value="validate Banned Characters" />
       <item value="get Severity" />
-      <item value="ALTERNATE USER SETTINGS" />
-      <item value="Our settings.xml source is historically how we have configured Maven from the CLI so we are going to have to honour its existence forever. So let's run it." />
-      <item value="user Supplied Configuration Processor Count" />
-      <item value="We expect at most 2 implementations to be available. The SettingsXmlConfigurationProcessor implementation is always available in the core and likely always will be, but we may have another ConfigurationProcessor present supplied by the user. The rule is that we only allow the execution of one ConfigurationProcessor. If there is more than one then we execute the one supplied by the user, otherwise we execute the the default SettingsXmlConfigurationProcessor." />
-      <item value="This is not ideal but there are events specifically for configuration from the CLI which I don't believe are really valid but there are ITs which assert the right events are published so this needs to be supported so the EventSpyDispatcher needs to be put in the CliRequest so that it can be accessed by configuration processors." />
-      <item value="commands" />
-      <item value="event Spies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1831" />
-        <entry key="ENGLISH" value="1832" />
+        <entry key="CHINESE" value="1839" />
+        <entry key="ENGLISH" value="1840" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
