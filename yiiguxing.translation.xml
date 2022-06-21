@@ -4,6 +4,14 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Mojo Descriptor" />
+      <item value="is Goal Specification" />
+      <item value="validate Activated Profiles" />
+      <item value="validate Prerequisites For Non Maven Plugin Projects" />
+      <item value="get Project Dependency Graph" />
+      <item value="reactor Dependency Graph" />
+      <item value="The projects need to be topologically after the participants have run their afterProjectsRead(session) because the participant is free to change the dependencies of a project which can potentially change the topological order of the projects, and therefore can potentially change the build order. Note that participants may affect the topological order of the projects but it is not expected that a participant will add or remove projects from the session." />
+      <item value="Chained Workspace Reader" />
       <item value="Desired order of precedence for workspace readers before querying the local artifact repositories" />
       <item value="collision" />
       <item value="this is just silly, lookupList should return an empty list!" />
@@ -46,19 +54,11 @@
       <item value="This is not ideal but there are events specifically for configuration from the CLI which I don't believe are really valid but there are ITs which assert the right events are published so this needs to be supported so the EventSpyDispatcher needs to be put in the CliRequest so that it can be accessed by configuration processors." />
       <item value="commands" />
       <item value="event Spies" />
-      <item value="Event Spy Dispatcher" />
-      <item value="NOTE: To avoid inconsistencies, we'll use the TCCL exclusively for lookups" />
-      <item value="discover From" />
-      <item value="parse Ext Classpath" />
-      <item value="informative Commands" />
-      <item value="property for root logger level or System.out redirection need to be taken into account" />
-      <item value="account" />
-      <item value="is Ambiguous Static Logger Binder Path Set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1817" />
-        <entry key="ENGLISH" value="1818" />
+        <entry key="CHINESE" value="1831" />
+        <entry key="ENGLISH" value="1832" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
