@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Desired order of precedence for workspace readers before querying the local artifact repositories" />
+      <item value="collision" />
       <item value="this is just silly, lookupList should return an empty list!" />
       <item value="seed" />
       <item value="security Dispatcher" />
@@ -52,13 +54,11 @@
       <item value="property for root logger level or System.out redirection need to be taken into account" />
       <item value="account" />
       <item value="is Ambiguous Static Logger Binder Path Set" />
-      <item value="Properties containing info about the currently running version of Maven These override any corresponding properties set on the command line" />
-      <item value="Needed to make this method package visible to make writing a unit test possible Maybe it's better to move some of those methods to separate class (SoC)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1815" />
-        <entry key="ENGLISH" value="1816" />
+        <entry key="CHINESE" value="1817" />
+        <entry key="ENGLISH" value="1818" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
