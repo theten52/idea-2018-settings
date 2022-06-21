@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="so that this method could entirely be handled by a plexus lookup?" />
+      <item value="TODO could the configuration be passed to lookup and the configurator known to plexus via the descriptor" />
+      <item value="plugin Descriptor" />
+      <item value="Requirement" />
       <item value="Timing (remove this)" />
       <item value="validate Activated Profiles" />
       <item value="mojo Descriptor" />
@@ -50,15 +54,11 @@
       <item value="If we're logging to a file then we don't want the console transfer listener as it will spew download progress all over the place" />
       <item value="this is the default behavior." />
       <item value="is Interactive Mode" />
-      <item value="we're going to parse this back in as XML so we need to escape XML markup" />
-      <item value="interpolate" />
-      <item value="dominant By Id" />
-      <item value="shallow Merge By Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1845" />
-        <entry key="ENGLISH" value="1846" />
+        <entry key="CHINESE" value="1849" />
+        <entry key="ENGLISH" value="1850" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
