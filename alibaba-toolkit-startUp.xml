@@ -2,6 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="$USER_HOME$/IdeaProjects/MavenDependencyDemo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/MavenDependencyDemo/maven-dependency-demo/maven-dependency-demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/ada-mediator" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/apache-maven-3.8.5" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/demo-maven-plugin" startUpFlag="FIRST" />
