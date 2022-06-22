@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="version managed from 5.4.2; omitted for duplicate)" />
+      <item value="omitted for duplicate)" />
+      <item value="verbose mode force Maven 2 dependency tree component use" />
+      <item value="TODO: note that filter does not get applied due to MNG-3236" />
       <item value="not sure about this here, and may want a getLog on here as wellinstead" />
       <item value="output Absolute Artifact Filename" />
       <item value="Contains the full list of projects in the reactor." />
@@ -50,15 +54,11 @@
       <item value="Desired order of precedence for workspace readers before querying the local artifact repositories" />
       <item value="collision" />
       <item value="this is just silly, lookupList should return an empty list!" />
-      <item value="seed" />
-      <item value="security Dispatcher" />
-      <item value="Default Repository System Session" />
-      <item value="Chained Dependency Graph Transformer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1867" />
-        <entry key="ENGLISH" value="1868" />
+        <entry key="CHINESE" value="1871" />
+        <entry key="ENGLISH" value="1872" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
