@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="severity" />
       <item value="version managed from 5.4.2; omitted for duplicate)" />
       <item value="omitted for duplicate)" />
       <item value="verbose mode force Maven 2 dependency tree component use" />
@@ -53,12 +54,11 @@
       <item value="Chained Workspace Reader" />
       <item value="Desired order of precedence for workspace readers before querying the local artifact repositories" />
       <item value="collision" />
-      <item value="this is just silly, lookupList should return an empty list!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1871" />
-        <entry key="ENGLISH" value="1872" />
+        <entry key="CHINESE" value="1872" />
+        <entry key="ENGLISH" value="1873" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
