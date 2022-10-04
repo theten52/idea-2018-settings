@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660322138311" />
+    <option name="lastTrimTime" value="1664882863402" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -86,6 +86,7 @@
       </app-key>
     </option>
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="3e88577f0b42e0b4" />
