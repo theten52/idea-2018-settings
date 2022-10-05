@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="145" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Prepares the [request] to be executed at some point in the future" />
       <item value="this tricks plexus-component-metadata generate required metadata" />
       <item value="MessageProperties.PERSISTENT_TEXT_PLAIN is a static instance of AMQP.BasicProperties that contains a delivery mode and a priority. So we pass them to the builder." />
       <item value="severity" />
@@ -53,12 +54,11 @@
       <item value="get Project Dependency Graph" />
       <item value="reactor Dependency Graph" />
       <item value="The projects need to be topologically after the participants have run their afterProjectsRead(session) because the participant is free to change the dependencies of a project which can potentially change the topological order of the projects, and therefore can potentially change the build order. Note that participants may affect the topological order of the projects but it is not expected that a participant will add or remove projects from the session." />
-      <item value="Chained Workspace Reader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1874" />
-        <entry key="ENGLISH" value="1875" />
+        <entry key="CHINESE" value="1875" />
+        <entry key="ENGLISH" value="1876" />
         <entry key="IRISH" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
