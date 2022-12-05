@@ -1,7 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/40fa6519_configuration_1_3.dtd" />
-    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2022.1/extResources/b36fadae_mybatis-3-mapper.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.2/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
   </component>
 </application>
