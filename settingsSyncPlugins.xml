@@ -2,6 +2,18 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="dev.meanmail.plugin.nginx-intellij-plugin-pro">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.jetbrains.android">
           <value>
             <PluginData>
