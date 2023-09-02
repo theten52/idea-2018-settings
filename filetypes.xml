@@ -7,6 +7,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".zsh_history" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="conf-dev-aliyun" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
